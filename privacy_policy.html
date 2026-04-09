@@ -211,22 +211,32 @@
     <h2 id="section-local">3. Data Stored Locally on Your Device</h2>
     <p>The app stores the following data on your device only:</p>
     <ul>
-      <li><strong>App preferences</strong> &mdash; notification schedule, visual theme, and quote collection settings, stored in Apple <code>UserDefaults</code></li>
+      <li><strong>App preferences</strong> &mdash; notification schedule, visual theme, and quote collection settings, stored in Apple <code>UserDefaults</code> and protected by iOS Data Protection when your device is locked</li>
       <li><strong>Favorites list</strong> &mdash; the IDs of quotes you have saved, stored locally and optionally synced via iCloud (see Section 4)</li>
-      <li><strong>Notification settings and encryption keys</strong> &mdash; stored in the iOS Keychain, protected by your device passcode and Secure Enclave</li>
+      <li><strong>Encryption keys</strong> &mdash; stored in the iOS Keychain, protected by your device passcode and Secure Enclave</li>
+      <li><strong>Quote files</strong> &mdash; the aggregated quote library and any quotes you add yourself, stored as encrypted files in app storage, encrypted with AES-256-GCM using keys held in the Keychain</li>
     </ul>
-    <p>All locally stored data is encrypted using AES-256-GCM. Deleting the app removes all locally stored data from your device.</p>
+    <p>Quote files are encrypted on disk using AES-256-GCM. App preferences and settings rely on iOS Data Protection. You can toggle encryption on or off at any time in the app&rsquo;s Settings; when disabled, quote files rely on iOS file protection only. Deleting the app removes all locally stored data from your device.</p>
   </section>
 
   <section class="policy-section" aria-labelledby="section-icloud">
-    <h2 id="section-icloud">4. iCloud Key-Value Sync (Favorites)</h2>
-    <p>If you are signed in to iCloud on your device, InnerWhisper optionally syncs your list of favorited quote IDs across your Apple devices using Apple&rsquo;s <code>NSUbiquitousKeyValueStore</code> API.</p>
+    <h2 id="section-icloud">4. iCloud Sync</h2>
+    <p>If you are signed in to iCloud on your device, InnerWhisper syncs two types of data across your Apple devices. All sync is handled entirely by Apple&rsquo;s iCloud infrastructure &mdash; InnerWhisper operates no servers that receive this data.</p>
+
+    <p><strong>Favorites (iCloud Key-Value Store)</strong></p>
     <ul>
-      <li>The only data synced is a set of opaque quote identifier strings (e.g., <code>00000001-0000-4000-a000-000000000001</code>). No quote text, personal notes, or any other content is included.</li>
-      <li>This sync is handled entirely by Apple&rsquo;s iCloud infrastructure. InnerWhisper does not operate servers that receive this data.</li>
-      <li><a href="https://www.apple.com/legal/privacy/" target="_blank" rel="noopener">Apple&rsquo;s Privacy Policy</a> applies to data processed through iCloud.</li>
-      <li>You can disable iCloud sync for InnerWhisper at any time in <strong>iOS Settings &rarr; [Your Name] &rarr; iCloud &rarr; Apps Using iCloud</strong>.</li>
+      <li>Your list of favorited quote IDs is synced using Apple&rsquo;s <code>NSUbiquitousKeyValueStore</code> API.</li>
+      <li>Only opaque quote identifier strings are synced (e.g., <code>00000001-0000-4000-a000-000000000001</code>). No quote text or personal notes are included.</li>
     </ul>
+
+    <p><strong>Your Added Quotes (iCloud Documents)</strong></p>
+    <ul>
+      <li>Any quotes you write yourself are stored as an AES-256-GCM encrypted file synced via your personal iCloud Documents container (<code>iCloud.ca.imposterSyndromium.InnerWhisper</code>).</li>
+      <li>The encryption key for this file is synced via iCloud Keychain (<code>synchronizable: true</code>), so the same key is available on all your signed-in devices.</li>
+      <li>The content of the file is encrypted before it reaches iCloud and is never readable in plaintext by Apple or by us.</li>
+    </ul>
+
+    <p><a href="https://www.apple.com/legal/privacy/" target="_blank" rel="noopener">Apple&rsquo;s Privacy Policy</a> applies to all data processed through iCloud. You can disable iCloud sync for InnerWhisper at any time in <strong>iOS Settings &rarr; [Your Name] &rarr; iCloud &rarr; Apps Using iCloud</strong>.</p>
   </section>
 
   <section class="policy-section" aria-labelledby="section-notifications">
@@ -242,9 +252,8 @@
       <li>Analytics SDKs (Firebase Analytics, Amplitude, Mixpanel, etc.)</li>
       <li>Advertising networks or tracking pixels</li>
       <li>Crash reporting or performance monitoring services</li>
-      <li>Content delivery networks or remote APIs for app content</li>
     </ul>
-    <p>All quote content is bundled inside the app itself. No network requests are made during normal app use.</p>
+    <p>The core quote library is bundled inside the app. The app may also fetch an optional supplementary quote file from <code>robinobrien.me</code> via HTTPS, at most once every 24 hours. This request carries no user identifiers, account tokens, or personal data &mdash; it is a plain anonymous HTTPS GET. No user data is transmitted.</p>
   </section>
 
   <section class="policy-section" aria-labelledby="section-children">
@@ -272,8 +281,7 @@
     <h2 id="section-contact">10. Contact</h2>
     <p>If you have questions about this Privacy Policy or InnerWhisper&rsquo;s data practices, please contact us:</p>
     <p>
-      <!-- Replace [your-support-email] with your actual support email address -->
-      Email: <a href="mailto:[your-support-email]">[your-support-email]</a>
+      Email: <a href="mailto:admin@robinobrien.me">admin@robinobrien.me</a>
     </p>
   </section>
 

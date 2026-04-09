@@ -671,15 +671,15 @@
       all encrypted on your device. No accounts. No cloud. No ads.
     </p>
     <div class="hero-actions">
-      <span class="btn-primary" role="img" aria-label="Coming Soon to the App Store">
+      <a href="https://apps.apple.com/ca/app/inner-whisper/id6760204122" class="btn-primary" target="_blank" rel="noopener noreferrer" aria-label="Download on the App Store">
         <!-- Apple logo path -->
         <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
           <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/>
         </svg>
-        Coming Soon to iOS
-      </span>
-      <!-- Replace [your-support-email] with your actual support email address -->
-      <a href="mailto:[your-support-email]" class="btn-secondary">Contact Support</a>
+        Download on iOS
+      </a>
+      <!-- Replace admin@robinobrien.me with your actual support email address -->
+      <a href="mailto:admin@robinobrien.me" class="btn-secondary">Contact Support</a>
     </div>
   </div>
   <p class="hero-scroll" aria-hidden="true">scroll to explore</p>
@@ -746,39 +746,30 @@
     <div class="themes-row" role="list">
 
       <div class="theme-item" role="listitem">
-        <div class="phone-shell phone-bg-aurora" aria-label="Aurora theme: indigo and teal aurora gradient with a Stoicism quote">
+        <div class="screenshot-shell" aria-label="Aurora theme screenshot">
           <div class="phone-notch" aria-hidden="true"></div>
-          <div class="mock-content">
-            <div class="mock-icon" aria-hidden="true">&#x2728;</div>
-            <p class="mock-quote-text">&ldquo;The obstacle is the way.&rdquo;</p>
-            <p class="mock-author">&mdash; Marcus Aurelius</p>
-          </div>
+          <img src="assets/Screen1.png" alt="Aurora theme environment"
+               style="width:100%;height:100%;object-fit:cover;border-radius:36px;">
         </div>
         <strong class="theme-name">Aurora</strong>
         <p class="theme-desc">Shifting northern lights</p>
       </div>
 
       <div class="theme-item" role="listitem">
-        <div class="phone-shell phone-bg-forest" aria-label="Forest theme: deep green forest gradient with a Nature quote">
+        <div class="screenshot-shell" aria-label="Forest theme screenshot">
           <div class="phone-notch" aria-hidden="true"></div>
-          <div class="mock-content">
-            <div class="mock-icon" aria-hidden="true">&#x1F33F;</div>
-            <p class="mock-quote-text">&ldquo;Nature does not hurry, yet everything is accomplished.&rdquo;</p>
-            <p class="mock-author">&mdash; Lao Tzu</p>
-          </div>
+          <img src="assets/Screen2.png" alt="Forest theme environment"
+               style="width:100%;height:100%;object-fit:cover;border-radius:36px;">
         </div>
         <strong class="theme-name">Forest</strong>
         <p class="theme-desc">Deep woodland greens</p>
       </div>
 
       <div class="theme-item" role="listitem">
-        <div class="phone-shell phone-bg-space" aria-label="Space theme: dark space background with stars and a Carl Sagan quote">
+        <div class="screenshot-shell" aria-label="Space theme screenshot">
           <div class="phone-notch" aria-hidden="true"></div>
-          <div class="mock-content">
-            <div class="mock-icon" aria-hidden="true">&#x1F319;</div>
-            <p class="mock-quote-text">&ldquo;We are made of star-stuff.&rdquo;</p>
-            <p class="mock-author">&mdash; Carl Sagan</p>
-          </div>
+          <img src="assets/Screen3.png" alt="Space theme environment"
+               style="width:100%;height:100%;object-fit:cover;border-radius:36px;">
         </div>
         <strong class="theme-name">Space</strong>
         <p class="theme-desc">Deep space darkness</p>
@@ -822,9 +813,9 @@
       <li>No account required &mdash; ever. Open the app and start immediately.</li>
       <li>No analytics, crash reporting, or tracking sent off your device.</li>
       <li>No advertising networks or third-party SDKs of any kind.</li>
-      <li>Preferences and settings are protected by the iOS Keychain.</li>
+      <li>Encryption keys secured in the iOS Keychain. Quote files encrypted with AES-256-GCM on disk.</li>
       <li>Notification content is generated on-device &mdash; nothing sent to our servers.</li>
-      <li>Favorites sync via Apple&rsquo;s iCloud infrastructure, not ours. Apple&rsquo;s privacy policy applies to iCloud sync.</li>
+      <li>Favorites and your added quotes sync via Apple&rsquo;s iCloud infrastructure, not ours. Apple&rsquo;s privacy policy applies.</li>
       <li>Privacy manifest filed with Apple: tracking disabled, no personal data types declared.</li>
     </ul>
     <a href="privacy_policy.html" class="privacy-link" aria-label="Read the full InnerWhisper Privacy Policy">
@@ -833,66 +824,14 @@
   </div>
 </section>
 
-<!-- SCREENSHOTS -->
-<section id="screenshots" aria-labelledby="screenshots-heading">
-  <div class="section-inner">
-    <div class="screenshots-header">
-      <span class="section-label">App preview</span>
-      <h2 class="section-title" id="screenshots-heading">See it in action.</h2>
-      <p class="section-sub">Screenshots coming when InnerWhisper launches on the App Store.</p>
-    </div>
-    <div class="screenshots-row" role="list">
-
-      <!--
-        To swap in a real screenshot, replace the inner .screenshot-placeholder div with:
-        <img src="assets/screen-quote.png" alt="Quote browser showing a Stoicism quote on Aurora background"
-             style="width:100%;height:100%;object-fit:cover;border-radius:36px;">
-      -->
-      <div class="screenshot-item" role="listitem">
-        <div class="screenshot-shell" aria-label="Quote browser screen placeholder">
-          <div class="phone-notch" aria-hidden="true"></div>
-          <div class="screenshot-placeholder">
-            <span class="screenshot-placeholder-icon" aria-hidden="true">&#x1F4F1;</span>
-            <span class="screenshot-placeholder-label">Screenshot<br>coming soon</span>
-          </div>
-        </div>
-        <p class="screenshot-caption">Quote Browser</p>
-      </div>
-
-      <div class="screenshot-item" role="listitem">
-        <div class="screenshot-shell" aria-label="Favorites screen placeholder">
-          <div class="phone-notch" aria-hidden="true"></div>
-          <div class="screenshot-placeholder">
-            <span class="screenshot-placeholder-icon" aria-hidden="true">&#x1F4F1;</span>
-            <span class="screenshot-placeholder-label">Screenshot<br>coming soon</span>
-          </div>
-        </div>
-        <p class="screenshot-caption">Favorites</p>
-      </div>
-
-      <div class="screenshot-item" role="listitem">
-        <div class="screenshot-shell" aria-label="Settings screen placeholder">
-          <div class="phone-notch" aria-hidden="true"></div>
-          <div class="screenshot-placeholder">
-            <span class="screenshot-placeholder-icon" aria-hidden="true">&#x1F4F1;</span>
-            <span class="screenshot-placeholder-label">Screenshot<br>coming soon</span>
-          </div>
-        </div>
-        <p class="screenshot-caption">Settings</p>
-      </div>
-
-    </div>
-  </div>
-</section>
 
 <!-- COMING SOON CTA -->
 <section id="coming-soon" aria-labelledby="cta-heading">
   <div class="section-inner cta-inner">
-    <span class="section-label">Coming soon</span>
-    <h2 class="section-title" id="cta-heading">InnerWhisper is almost here.</h2>
-    <p class="section-sub">The app is in final development before App Store submission. Get in touch with questions or to be notified at launch.</p>
-    <!-- Replace [your-support-email] with your actual support email address -->
-    <a href="mailto:[your-support-email]" class="btn-cta">&#x2709;&#xFE0F;&nbsp; Get in Touch</a>
+    <span class="section-label">Now available</span>
+    <h2 class="section-title" id="cta-heading">InnerWhisper is on the App Store.</h2>
+    <p class="section-sub">Download now and start your journey. Get in touch with any questions.</p>
+    <a href="https://apps.apple.com/ca/app/inner-whisper/id6760204122" class="btn-cta" target="_blank" rel="noopener noreferrer">&#x1F4F1;&nbsp; Download on the App Store</a>
   </div>
 </section>
 </main>
@@ -907,8 +846,8 @@
     <nav aria-label="Footer links">
       <ul class="footer-links">
         <li><a href="privacy_policy.html">Privacy Policy</a></li>
-        <!-- Replace [your-support-email] with your actual support email address -->
-        <li><a href="mailto:[your-support-email]">Support</a></li>
+        <!-- Replace admin@robinobrien.me with your actual support email address -->
+        <li><a href="mailto:admin@robinobrien.me">Support</a></li>
         <li><a href="#features">Features</a></li>
         <li><a href="#privacy-callout">Privacy</a></li>
       </ul>
