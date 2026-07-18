@@ -19,23 +19,9 @@
     @property --z-accent  { syntax: '<color>'; inherits: true; initial-value: #9A7A30; }
     @property --z-text    { syntax: '<color>'; inherits: true; initial-value: #E8E0D0; }
     @property --z-text-2  { syntax: '<color>'; inherits: true; initial-value: #8A8070; }
+    @property --z-bg-solid { syntax: '<color>'; inherits: true; initial-value: #0D0D0D; }
 
     :root {
-      --bg-deep:        #080C14;
-      --bg-mid:         #0F1A2E;
-      --aurora-blue:    #1A3366;
-      --aurora-teal:    #1A8099;
-      --aurora-violet:  #661A80;
-      --aurora-purple:  #4D1A66;
-      --gold:           #C9933A;
-      --gold-light:     #E6AD4A;
-      --gold-dim:       rgba(201,147,58,0.15);
-      --gold-border:    rgba(201,147,58,0.3);
-      --text-primary:   #F0F4F8;
-      --text-secondary: #A0AEBA;
-      --card-bg:        rgba(255,255,255,0.06);
-      --card-border:    rgba(255,255,255,0.10);
-      --radius-card:    16px;
       --radius-pill:    999px;
 
       /* Zen system — live values, updated by JS on skin switch. Defaults = Moving Truth skin. */
@@ -44,8 +30,9 @@
       --z-text:    #E8E0D0;
       --z-text-2:  #8A8070;
       --z-sep:     rgba(201,168,76,0.20);
+      --z-bg-solid: #0D0D0D;
       --z-pulse-s: 6.5s;
-      transition: --z-glow .6s ease, --z-accent .6s ease, --z-text .6s ease, --z-text-2 .6s ease;
+      transition: --z-glow .6s ease, --z-accent .6s ease, --z-text .6s ease, --z-text-2 .6s ease, --z-bg-solid .6s ease;
     }
 
     html { scroll-behavior: smooth; }
@@ -53,14 +40,15 @@
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
       background: #0D0D0D;
-      color: var(--text-primary);
+      color: var(--z-text);
       line-height: 1.6;
       -webkit-font-smoothing: antialiased;
       overflow-x: hidden;
+      transition: color 0.6s ease;
     }
 
-    a { color: var(--gold); text-decoration: none; }
-    a:hover { color: var(--gold-light); }
+    a { color: var(--z-accent); text-decoration: none; }
+    a:hover { color: var(--z-text); }
 
     /* === ANIMATIONS === */
     @keyframes fade-up {
@@ -146,29 +134,30 @@
       align-items: center;
       justify-content: space-between;
       padding: 0.85rem 1.5rem;
-      background: rgba(8,12,20,0.88);
+      background: color-mix(in srgb, var(--z-bg-solid) 82%, transparent);
       backdrop-filter: blur(14px);
       -webkit-backdrop-filter: blur(14px);
-      border-bottom: 1px solid rgba(255,255,255,0.06);
+      border-bottom: 1px solid var(--z-sep);
+      transition: background-color 0.6s ease, border-color 0.6s ease;
     }
     .nav-brand { display: flex; align-items: center; gap: 0.6rem; text-decoration: none; }
     .nav-brand img { width: 32px; height: 32px; border-radius: 8px; }
-    .nav-wordmark { font-size: 1.05rem; font-weight: 700; color: var(--gold); letter-spacing: -0.01em; }
+    .nav-wordmark { font-size: 1.05rem; font-weight: 700; color: var(--z-accent); letter-spacing: -0.01em; }
     .nav-links { display: flex; gap: 2rem; list-style: none; }
-    .nav-links a { font-size: 0.875rem; font-weight: 500; color: var(--text-secondary); transition: color 0.2s; }
-    .nav-links a:hover { color: var(--text-primary); }
+    .nav-links a { font-size: 0.875rem; font-weight: 500; color: var(--z-text-2); transition: color 0.2s; }
+    .nav-links a:hover { color: var(--z-text); }
 
     .nav-toggle { display: none; }
     .nav-toggle-label { display: none; flex-direction: column; gap: 5px; padding: 4px; cursor: pointer; }
-    .nav-toggle-label span { display: block; width: 22px; height: 2px; background: var(--text-secondary); border-radius: 2px; transition: background 0.2s; }
-    .nav-toggle-label:hover span { background: var(--text-primary); }
+    .nav-toggle-label span { display: block; width: 22px; height: 2px; background: var(--z-text-2); border-radius: 2px; transition: background 0.2s; }
+    .nav-toggle-label:hover span { background: var(--z-text); }
 
     @media (max-width: 640px) {
       .nav-toggle-label { display: flex; }
       .nav-links {
         display: none; position: absolute; top: 100%; left: 0; right: 0;
-        flex-direction: column; gap: 0; background: rgba(8,12,20,0.97);
-        border-bottom: 1px solid rgba(255,255,255,0.08); padding: 0.5rem 0;
+        flex-direction: column; gap: 0; background: color-mix(in srgb, var(--z-bg-solid) 96%, transparent);
+        border-bottom: 1px solid var(--z-sep); padding: 0.5rem 0;
       }
       .nav-links li a { display: block; padding: 0.8rem 1.5rem; font-size: 1rem; }
       .nav-toggle:checked ~ .nav-links { display: flex; }
@@ -191,7 +180,18 @@
       opacity: 0.28; filter: blur(10px);
       animation: z-breathe var(--z-pulse-s) ease-in-out infinite;
     }
-    .hero-icon-emoji { position: relative; font-size: 4.5rem; line-height: 1; filter: drop-shadow(0 6px 20px rgba(0,0,0,0.35)); }
+    .hero-icon-leaf {
+      position: relative; width: 148px; height: 148px; object-fit: cover;
+      border-radius: 50%;
+      -webkit-mask-image: radial-gradient(circle, black 46%, transparent 72%);
+      mask-image: radial-gradient(circle, black 46%, transparent 72%);
+      filter: drop-shadow(0 6px 24px rgba(0,0,0,0.35));
+      animation: z-breathe-scale var(--z-pulse-s) ease-in-out infinite;
+    }
+    @keyframes z-breathe-scale {
+      0%, 100% { transform: scale(1); }
+      50%       { transform: scale(1.035); }
+    }
     .hero-name {
       font-size: clamp(1.5rem, 4vw, 2rem); font-weight: 800; letter-spacing: 0.3em;
       text-transform: uppercase; color: var(--z-text); margin-bottom: 1.2rem; margin-left: 0.3em;
@@ -205,8 +205,9 @@
     .hero-actions { display: flex; gap: 0.85rem; justify-content: center; flex-wrap: wrap; }
     .btn-primary {
       display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.85rem 1.75rem;
-      background: var(--gold); color: #08100F; font-weight: 700; font-size: 0.95rem;
+      background: var(--z-accent); color: #08100F; font-weight: 700; font-size: 0.95rem;
       border-radius: var(--radius-pill); border: none; cursor: default;
+      transition: background-color 0.6s ease;
     }
     .btn-secondary {
       display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.85rem 1.75rem;
@@ -217,7 +218,7 @@
     .btn-secondary:hover { background: color-mix(in srgb, var(--z-accent) 22%, transparent); border-color: var(--z-accent); color: var(--z-text); }
     .hero-scroll {
       position: absolute; bottom: 1.75rem; left: 50%; transform: translateX(-50%);
-      color: rgba(255,255,255,0.3); font-size: 0.75rem; letter-spacing: 0.1em; text-transform: uppercase;
+      color: var(--z-text-2); opacity: 0.7; font-size: 0.75rem; letter-spacing: 0.1em; text-transform: uppercase;
     }
 
     /* === DOT SEPARATOR (mirrors dotSeparator) === */
@@ -252,46 +253,46 @@
     /* === SHARED SECTION (site-only content below the zen flow) === */
     section { padding: 5rem 1.5rem; }
     .section-inner { max-width: 1080px; margin: 0 auto; }
-    .section-label { display: block; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.13em; text-transform: uppercase; color: var(--gold); margin-bottom: 0.7rem; }
-    .section-title { font-size: clamp(1.7rem, 4vw, 2.5rem); font-weight: 700; letter-spacing: -0.025em; line-height: 1.18; margin-bottom: 1rem; }
-    .section-sub { font-size: 1.05rem; color: var(--text-secondary); line-height: 1.65; max-width: 560px; }
+    .section-label { display: block; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.13em; text-transform: uppercase; color: var(--z-accent); margin-bottom: 0.7rem; }
+    .section-title { font-size: clamp(1.7rem, 4vw, 2.5rem); font-weight: 700; letter-spacing: -0.025em; line-height: 1.18; margin-bottom: 1rem; color: var(--z-text); }
+    .section-sub { font-size: 1.05rem; color: var(--z-text-2); line-height: 1.65; max-width: 560px; }
 
     /* === THEMES === */
-    #themes { background: var(--bg-deep); }
     .themes-header { margin-bottom: 3rem; }
     .themes-row { display: flex; gap: 2.5rem; justify-content: center; flex-wrap: wrap; }
     .theme-item { display: flex; flex-direction: column; align-items: center; gap: 1.1rem; }
     .phone-notch { position: absolute; top: 10px; left: 50%; transform: translateX(-50%); width: 58px; height: 7px; background: rgba(0,0,0,0.7); border-radius: 4px; z-index: 2; }
-    .theme-name { font-size: 1.05rem; font-weight: 650; }
-    .theme-desc { font-size: 0.82rem; color: var(--text-secondary); text-align: center; }
+    .theme-name { font-size: 1.05rem; font-weight: 650; color: var(--z-text); }
+    .theme-desc { font-size: 0.82rem; color: var(--z-text-2); text-align: center; }
     .screenshot-shell {
-      width: 198px; height: 396px; border-radius: 38px; border: 2px solid rgba(255,255,255,0.09);
+      width: 198px; height: 396px; border-radius: 38px; border: 2px solid var(--z-sep);
       box-shadow: 0 0 50px rgba(0,0,0,0.5), inset 0 0 0 1px rgba(255,255,255,0.04);
-      position: relative; overflow: hidden; background: var(--bg-deep);
+      position: relative; overflow: hidden; background: #000;
     }
 
     /* === COLLECTIONS === */
-    #collections { background: var(--bg-mid); }
     .collections-header { margin-bottom: 2.5rem; }
     .collection-badges { display: flex; flex-wrap: wrap; gap: 0.6rem; }
     .badge {
       display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.45rem 1rem;
-      background: var(--gold-dim); border: 1px solid var(--gold-border); border-radius: var(--radius-pill);
-      color: var(--gold); font-size: 0.85rem; font-weight: 500; transition: background 0.2s, border-color 0.2s;
+      background: color-mix(in srgb, var(--z-accent) 14%, transparent);
+      border: 1px solid color-mix(in srgb, var(--z-accent) 40%, transparent);
+      border-radius: var(--radius-pill);
+      color: var(--z-accent); font-size: 0.85rem; font-weight: 500; transition: background 0.2s, border-color 0.2s;
     }
-    .badge:hover { background: rgba(201,147,58,0.24); border-color: rgba(201,147,58,0.52); }
+    .badge:hover { background: color-mix(in srgb, var(--z-accent) 26%, transparent); border-color: color-mix(in srgb, var(--z-accent) 55%, transparent); }
 
     /* === PRIVACY CALLOUT === */
-    #privacy-callout { background: var(--bg-deep); border-top: 1px solid rgba(255,255,255,0.05); border-bottom: 1px solid rgba(255,255,255,0.05); }
+    #privacy-callout { border-top: 1px solid var(--z-sep); border-bottom: 1px solid var(--z-sep); }
     .privacy-inner { max-width: 680px; margin: 0 auto; }
-    .privacy-shield { font-size: 3rem; display: block; margin-bottom: 1.5rem; filter: drop-shadow(0 0 22px rgba(26,128,153,0.65)); }
-    .privacy-headline { font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 700; letter-spacing: -0.025em; line-height: 1.18; margin-bottom: 1rem; }
-    .privacy-sub { font-size: 1.05rem; color: var(--text-secondary); line-height: 1.65; margin-bottom: 2rem; }
+    .privacy-shield { font-size: 3rem; display: block; margin-bottom: 1.5rem; filter: drop-shadow(0 0 22px color-mix(in srgb, var(--z-accent) 60%, transparent)); }
+    .privacy-headline { font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 700; letter-spacing: -0.025em; line-height: 1.18; margin-bottom: 1rem; color: var(--z-text); }
+    .privacy-sub { font-size: 1.05rem; color: var(--z-text-2); line-height: 1.65; margin-bottom: 2rem; }
     .privacy-list { list-style: none; display: flex; flex-direction: column; gap: 0.8rem; margin-bottom: 2.25rem; }
-    .privacy-list li { display: flex; align-items: flex-start; gap: 0.75rem; font-size: 0.95rem; color: var(--text-secondary); line-height: 1.6; }
-    .privacy-list li::before { content: '\2713'; color: var(--aurora-teal); font-weight: 700; flex-shrink: 0; margin-top: 0.08em; }
-    .privacy-link { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.92rem; font-weight: 600; color: var(--gold); transition: color 0.2s; }
-    .privacy-link:hover { color: var(--gold-light); }
+    .privacy-list li { display: flex; align-items: flex-start; gap: 0.75rem; font-size: 0.95rem; color: var(--z-text-2); line-height: 1.6; }
+    .privacy-list li::before { content: '\2713'; color: var(--z-accent); font-weight: 700; flex-shrink: 0; margin-top: 0.08em; }
+    .privacy-link { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.92rem; font-weight: 600; color: var(--z-accent); transition: color 0.2s; }
+    .privacy-link:hover { color: var(--z-text); }
 
     /* === DEVELOPER / BRAND (mirrors developerSection) === */
     .dev-zen { display: flex; flex-direction: column; align-items: center; text-align: center; padding: 4.5rem 1.5rem 1rem; }
@@ -299,7 +300,7 @@
     .dev-logo-ring::before, .dev-logo-ring::after { content: ''; position: absolute; border-radius: 50%; border: 1.5px solid var(--z-accent); }
     .dev-logo-ring::before { inset: -7px; opacity: 0.35; animation: z-ring calc(var(--z-pulse-s) * 0.9) ease-in-out infinite; }
     .dev-logo-ring::after  { inset: 0;    opacity: 0.7;  animation: z-ring calc(var(--z-pulse-s) * 0.9) ease-in-out infinite; }
-    .dev-logo-ring img { width: 92px; height: 92px; object-fit: contain; position: relative; z-index: 1; border-radius: 20px; }
+    .dev-logo-ring img { width: 92px; height: 92px; object-fit: contain; position: relative; z-index: 1; }
     .dev-name { font-weight: 700; font-size: 1.05rem; color: var(--z-text); }
     .dev-sub  { font-size: 0.85rem; color: var(--z-text-2); margin-top: 0.15rem; }
     .dev-credit { font-size: 0.8rem; color: var(--z-text-2); margin-top: 0.7rem; }
@@ -335,26 +336,26 @@
     .switcher-dot-name { font-size: 0.68rem; color: var(--z-text-2); opacity: 0.75; }
 
     /* === CTA === */
-    #coming-soon { background: linear-gradient(160deg, var(--bg-mid) 0%, rgba(26,51,102,0.35) 100%); text-align: center; }
+    #coming-soon { text-align: center; }
     .cta-inner { max-width: 540px; margin: 0 auto; }
     .cta-inner .section-sub { margin: 0 auto 2.5rem; }
     .btn-cta {
       display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.9rem 2rem;
-      background: var(--gold); color: #08100F; font-weight: 700; font-size: 0.95rem;
-      border-radius: var(--radius-pill); transition: background 0.2s, transform 0.15s;
+      background: var(--z-accent); color: #08100F; font-weight: 700; font-size: 0.95rem;
+      border-radius: var(--radius-pill); transition: background-color 0.6s ease, transform 0.15s;
     }
-    .btn-cta:hover { background: var(--gold-light); color: #08100F; transform: translateY(-2px); }
+    .btn-cta:hover { transform: translateY(-2px); }
 
     /* === FOOTER === */
-    footer { background: var(--bg-deep); border-top: 1px solid rgba(255,255,255,0.06); padding: 2.5rem 1.5rem; }
+    footer { border-top: 1px solid var(--z-sep); padding: 2.5rem 1.5rem; }
     .footer-inner { max-width: 1080px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 1.25rem; text-align: center; }
     .footer-brand { display: flex; align-items: center; gap: 0.5rem; }
     .footer-brand img { width: 28px; height: 28px; border-radius: 7px; }
-    .footer-brand span { font-weight: 700; color: var(--gold); font-size: 0.95rem; }
+    .footer-brand span { font-weight: 700; color: var(--z-accent); font-size: 0.95rem; }
     .footer-links { display: flex; gap: 1.5rem; flex-wrap: wrap; justify-content: center; list-style: none; }
-    .footer-links a { font-size: 0.85rem; color: var(--text-secondary); transition: color 0.2s; }
-    .footer-links a:hover { color: var(--text-primary); }
-    .footer-copy { font-size: 0.78rem; color: rgba(160,174,186,0.45); }
+    .footer-links a { font-size: 0.85rem; color: var(--z-text-2); transition: color 0.2s; }
+    .footer-links a:hover { color: var(--z-text); }
+    .footer-copy { font-size: 0.78rem; color: var(--z-text-2); opacity: 0.6; }
   </style>
 </head>
 <body>
@@ -393,7 +394,7 @@
 <section class="hero-zen" id="home" aria-labelledby="hero-heading">
   <div class="hero-icon-wrap">
     <div class="hero-icon-glow"></div>
-    <span class="hero-icon-emoji z-swap" data-zswap id="heroIconEmoji">🧭</span>
+    <img class="hero-icon-leaf" src="assets/icon.png" alt="InnerWhisper leaf">
   </div>
   <h1 class="hero-name z-swap" data-zswap id="heroName">InnerWhisper</h1>
   <p class="hero-tagline-zen z-swap" data-zswap id="heroTagline" aria-labelledby="hero-heading">A quiet word, exactly when you need it.</p>
@@ -530,7 +531,7 @@
 <section class="dev-zen" aria-label="About Moving Truth">
   <a href="https://movingtruth.com" aria-label="Moving Truth. Opens movingtruth.com">
     <div class="dev-logo-ring">
-      <img src="assets/icon.png" alt="Moving Truth logo">
+      <img src="assets/moving-truth-logo.png" alt="Moving Truth logo">
     </div>
   </a>
   <span class="dev-name">Inner Whisper</span>
@@ -601,37 +602,37 @@
   // Six skins, ported verbatim (colors, taglines, about text, feature labels) from
   // InfoPageSkin.swift — the in-app About screen's actual approved copy and palette.
   var SKINS = [
-    { id: 'movingTruth', name: 'Moving Truth', icon: '\u{1F9ED}',
+    { id: 'movingTruth', name: 'Moving Truth',
       bg: ['#0D0D0D', '#161616', '#13110E'], glow: '#C9A84C', accent: '#9A7A30',
       text: '#E8E0D0', text2: '#8A8070', sep: 'rgba(201,168,76,0.20)', pulse: 6.5,
       tagline: 'A quiet word, exactly when you need it.',
       about: 'One quiet word, placed gently in your day. From Moving Truth — over a thousand quotes drawn from the world’s deepest thinkers, delivered with care.',
       features: ['Chosen words', 'Your pace', 'Held close', 'Kept private', 'Simply made'] },
-    { id: 'moonlit', name: 'Moonlit', icon: '\u{1F319}',
+    { id: 'moonlit', name: 'Moonlit',
       bg: ['#12123B', '#1F1452', '#2E1A66'], glow: '#B3B7F2', accent: '#99A6EB',
       text: '#FFFFFF', text2: 'rgba(255,255,255,0.60)', sep: 'rgba(255,255,255,0.18)', pulse: 5.5,
       tagline: 'Let stillness speak.',
       about: 'A daily word from the world’s deepest thinkers, arriving in its own time. Gather what resonates. Let the rest pass.',
       features: ['Curated wisdom', 'Your schedule', 'Held close', 'Kept private', 'Simply beautiful'] },
-    { id: 'zenGarden', name: 'Zen Garden', icon: '\u{1FAB7}',
+    { id: 'zenGarden', name: 'Zen Garden',
       bg: ['#0A2412', '#10331A', '#154724'], glow: '#4CC773', accent: '#40B766',
       text: '#E6FAEB', text2: 'rgba(166,217,179,0.75)', sep: 'rgba(76,179,102,0.20)', pulse: 7.0,
       tagline: 'Roots. Stillness. Growth.',
       about: 'Daily wisdom, drawn from the well of human experience. Arrive here, breath by breath, day by day. Some words take root immediately. Others need time.',
       features: ['Tended quotes', 'Morning ritual', 'Gathered', 'Private space', 'Natural feel'] },
-    { id: 'emberNight', name: 'Ember Night', icon: '\u{1F525}',
+    { id: 'emberNight', name: 'Ember Night',
       bg: ['#0F0A05', '#1A0F08', '#24140A'], glow: '#F28C26', accent: '#E67F1F',
       text: '#FAEBCC', text2: 'rgba(209,183,140,0.72)', sep: 'rgba(204,128,51,0.20)', pulse: 6.0,
       tagline: 'Something small. Sustained.',
       about: 'A single ember doesn’t demand your attention — it simply glows, patient and warm. One quote. One moment. Yours to keep or release.',
       features: ['Chosen words', 'Timed arrival', 'Kept warm', 'Protected', 'Refined'] },
-    { id: 'wabi', name: 'Wabi', icon: '\u{2B55}',
+    { id: 'wabi', name: 'Wabi',
       bg: ['#EDE8DE', '#E0DBD1', '#D4CCC2'], glow: '#8C7359', accent: '#80664D',
       text: '#2E261F', text2: 'rgba(102,89,71,0.80)', sep: 'rgba(102,89,71,0.22)', pulse: 8.0,
       tagline: 'Imperfect. Enough.',
       about: 'Wabi-sabi finds beauty in impermanence and imperfection. This space collects the kind of words that remind you — nothing needs to be perfect to be worth keeping.',
       features: ['Honest words', 'Gentle rhythm', 'Cherished', 'Simple', 'Grounded'] },
-    { id: 'sakura', name: 'Sakura', icon: '\u{1F338}',
+    { id: 'sakura', name: 'Sakura',
       bg: ['#2E0F1A', '#471429', '#591A38'], glow: '#F28CB8', accent: '#E67AAD',
       text: '#FFEBF2', text2: 'rgba(224,179,199,0.72)', sep: 'rgba(230,140,179,0.20)', pulse: 5.0,
       tagline: 'Brief and beautiful.',
@@ -648,7 +649,6 @@
   var activeIsA = true;
 
   var swapEls = Array.prototype.slice.call(document.querySelectorAll('[data-zswap]'));
-  var heroIcon = document.getElementById('heroIconEmoji');
   var heroName = document.getElementById('heroName');
   var heroTagline = document.getElementById('heroTagline');
   var aboutText = document.getElementById('aboutText');
@@ -667,6 +667,7 @@
     root.style.setProperty('--z-text', skin.text);
     root.style.setProperty('--z-text-2', skin.text2);
     root.style.setProperty('--z-sep', skin.sep);
+    root.style.setProperty('--z-bg-solid', skin.bg[0]);
     root.style.setProperty('--z-pulse-s', skin.pulse + 's');
   }
 
@@ -726,7 +727,6 @@
 
     function doTextSwap() {
       setVars(skin);
-      heroIcon.textContent = skin.icon;
       heroName.textContent = 'InnerWhisper';
       heroTagline.textContent = skin.tagline;
       aboutText.textContent = skin.about;
