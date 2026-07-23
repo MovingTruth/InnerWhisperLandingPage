@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#0F1A2E">
-  <meta name="description" content="InnerWhisper Privacy Policy — how your data is handled (spoiler: it stays on your device).">
-  <meta name="robots" content="noindex">
+  <meta name="description" content="InnerWhisper Privacy Policy — how app data stays under your control on your device and in your personal iCloud account.">
+  <meta name="robots" content="index, follow">
   <title>Privacy Policy &mdash; InnerWhisper</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -145,6 +145,10 @@
       margin-top: 0.05em;
     }
     .policy-section p + p { margin-top: 0.75rem; }
+    .policy-section code {
+      overflow-wrap: anywhere;
+      word-break: break-word;
+    }
 
     /* DIVIDER */
     hr {
@@ -163,8 +167,55 @@
     }
     .doc-footer a { font-weight: 500; }
   </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- family-localization-meta:start -->
+<link rel="canonical" href="https://inner-whisper.movingtruth.com/privacy_policy.html">
+<link rel="alternate" hreflang="en" href="https://inner-whisper.movingtruth.com/privacy_policy.html">
+<link rel="alternate" hreflang="fr" href="https://inner-whisper.movingtruth.com/fr/privacy_policy.html">
+<link rel="alternate" hreflang="x-default" href="https://inner-whisper.movingtruth.com/privacy_policy.html">
+<!-- family-localization-meta:end -->
+
+<!-- family-localization-style:start -->
+<style>
+  .family-language{position:fixed;z-index:1000;inset-block-start:.75rem;inset-inline-end:.75rem;display:flex;align-items:center;gap:.45rem;padding:.42rem .55rem;border:1px solid rgba(201,168,76,.32);border-radius:999px;background:rgba(13,13,13,.88);color:#e8e0d0;font:600 .75rem/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;backdrop-filter:blur(14px)}
+  .family-language span{color:#b6aa96}
+  .family-language a{min-block-size:2rem;display:inline-flex;align-items:center;padding:0 .55rem;border-radius:999px;color:inherit;text-decoration:none}
+  .family-language a:hover,.family-language a:focus-visible{background:rgba(201,168,76,.16);outline:2px solid transparent}
+  .family-language a[aria-current="page"]{background:#c9a84c;color:#111}
+  .language-suggestion{position:fixed;z-index:1100;inset-inline:50%;inset-block-end:1rem;transform:translateX(-50%);inline-size:min(calc(100% - 2rem),42rem);display:flex;align-items:center;justify-content:center;gap:.7rem;flex-wrap:wrap;padding:.8rem 1rem;border:1px solid rgba(201,168,76,.42);border-radius:16px;background:rgba(13,13,13,.96);color:#e8e0d0;font:600 .88rem/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;box-shadow:0 16px 45px rgba(0,0,0,.42);backdrop-filter:blur(16px)}
+  .language-suggestion p{margin:0;color:#e8e0d0}
+  .language-suggestion a,.language-suggestion button{min-block-size:2.35rem;display:inline-flex;align-items:center;padding:0 .8rem;border:1px solid rgba(201,168,76,.5);border-radius:999px;background:transparent;color:#e8e0d0;font:inherit;text-decoration:none;cursor:pointer}
+  .language-suggestion a{background:#c9a84c;color:#111}
+  .language-suggestion a:focus-visible,.language-suggestion button:focus-visible{outline:2px solid #f1d47a;outline-offset:2px}
+  @media (max-width:700px){.family-language{position:absolute;inset-block-start:.45rem;inset-inline-end:.45rem}.family-language span{position:absolute;inline-size:1px;block-size:1px;overflow:hidden;clip-path:inset(50%)}}
+</style>
+<!-- family-localization-style:end -->
+<!-- family-localization-script:start -->
+<script src="localization/language-preference.js" defer></script>
+<!-- family-localization-script:end -->
 </head>
 <body>
+<!-- family-localization:start -->
+<nav class="family-language" aria-label="Language">
+  <span>Language</span>
+  <a href="https://inner-whisper.movingtruth.com/privacy_policy.html" lang="en" data-language-choice="en" aria-current="page">English</a>
+  <a href="https://inner-whisper.movingtruth.com/fr/privacy_policy.html" lang="fr" data-language-choice="fr">Français</a>
+</nav>
+<!-- family-localization:end -->
 
 <header class="nav" role="banner">
   <a href="index.html" class="nav-brand" aria-label="InnerWhisper home">
@@ -183,13 +234,13 @@
   </header>
 
   <div class="callout" role="note">
-    <p><strong>The short version:</strong> InnerWhisper does not collect, transmit, or sell your personal data. Everything stays on your device, encrypted. The only off-device data flow is iCloud favorites sync, handled entirely by Apple&rsquo;s infrastructure. We never see it.</p>
+    <p><strong>The short version:</strong> InnerWhisper does not collect or sell your personal data. Your app data stays on your device or, when iCloud is available, in your personal iCloud account through Apple&rsquo;s systems. Moving Truth never receives your favorites or added quotes. The app can make a separate HTTPS request for an optional supplementary quote file; that request carries no app account or app content.</p>
   </div>
 
   <section class="policy-section" aria-labelledby="section-intro">
     <h2 id="section-intro">1. About This Policy</h2>
     <p>This Privacy Policy describes how InnerWhisper (&ldquo;we,&rdquo; &ldquo;our,&rdquo; or &ldquo;the app&rdquo;) handles information when you use the InnerWhisper iOS application. By using the app, you agree to the practices described here.</p>
-    <p>We are committed to your privacy. The app was designed so that we cannot access your data even if we wanted to &mdash; because it never leaves your device.</p>
+    <p>We are committed to your privacy. The app was designed so that Moving Truth cannot access your data: it remains on your device or, when iCloud is available, passes between your Apple devices through your personal iCloud account.</p>
   </section>
 
   <section class="policy-section" aria-labelledby="section-no-collect">
@@ -203,13 +254,13 @@
       <li>Usage analytics or behavioral data</li>
       <li>Crash logs or diagnostics sent to our servers</li>
     </ul>
-    <p>No account is required to use InnerWhisper. We operate no servers that receive user data.</p>
+    <p>No account is required to use InnerWhisper. Moving Truth operates no service that receives your quotes, favorites, settings, notification schedule, or other app content.</p>
     <p>InnerWhisper&rsquo;s Apple privacy manifest declares <code>NSPrivacyTracking: false</code> and lists no collected data types, in accordance with Apple&rsquo;s privacy requirements.</p>
   </section>
 
   <section class="policy-section" aria-labelledby="section-local">
-    <h2 id="section-local">3. Data Stored Locally on Your Device</h2>
-    <p>The app stores the following data on your device only:</p>
+    <h2 id="section-local">3. Data Stored on Your Device</h2>
+    <p>The app stores the following data on your device. Favorites and encrypted quotes you add can also sync through your personal iCloud account as described in Section 4:</p>
     <ul>
       <li><strong>App preferences</strong> &mdash; notification schedule, visual theme, and quote collection settings, stored in Apple <code>UserDefaults</code> and protected by iOS Data Protection when your device is locked</li>
       <li><strong>Favorites list</strong> &mdash; the IDs of quotes you have saved, stored locally and optionally synced via iCloud (see Section 4)</li>
@@ -221,7 +272,7 @@
 
   <section class="policy-section" aria-labelledby="section-icloud">
     <h2 id="section-icloud">4. iCloud Sync</h2>
-    <p>If you are signed in to iCloud on your device, InnerWhisper syncs two types of data across your Apple devices. All sync is handled entirely by Apple&rsquo;s iCloud infrastructure &mdash; InnerWhisper operates no servers that receive this data.</p>
+    <p>If you are signed in to iCloud on your device, InnerWhisper syncs two types of data across your Apple devices. All sync is handled entirely by Apple&rsquo;s iCloud infrastructure &mdash; Moving Truth operates no service that receives this synced data.</p>
 
     <p><strong>Favorites (iCloud Key-Value Store)</strong></p>
     <ul>
@@ -253,7 +304,7 @@
       <li>Advertising networks or tracking pixels</li>
       <li>Crash reporting or performance monitoring services</li>
     </ul>
-    <p>The core quote library is bundled inside the app. The app may also fetch an optional supplementary quote file from <code>robinobrien.me</code> via HTTPS, at most once every 24 hours. This request carries no user identifiers, account tokens, or personal data &mdash; it is a plain anonymous HTTPS GET. No user data is transmitted.</p>
+    <p>The core quote library is bundled inside the app. The app may also fetch an optional supplementary quote file from <code>robinobrien.me</code> via HTTPS on first load, when its local cache is more than 24 hours old, or when you explicitly request an update. The request contains no app account, advertising identifier, account token, quotes, favorites, settings, or other app content. As with any HTTPS connection, the hosting infrastructure necessarily processes connection information such as an IP address to deliver the file; Moving Truth does not use that request to track or profile you.</p>
   </section>
 
   <section class="policy-section" aria-labelledby="section-children">

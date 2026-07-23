@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0F1A2E">
+  <meta name="description" content="Aide et assistance directe pour InnerWhisper par Moving Truth.">
+  <title>Assistance — InnerWhisper</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg-deep:        #080C14;
+      --gold:           #C9933A;
+      --gold-light:     #E6AD4A;
+      --teal:           #1A8099;
+      --text-primary:   #F0F4F8;
+      --text-secondary: #A0AEBA;
+      --card-bg:        rgba(255,255,255,0.05);
+      --card-border:    rgba(255,255,255,0.09);
+      --radius:         12px;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg-deep);
+      color: var(--text-primary);
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: var(--gold); text-decoration: none; }
+    a:hover { color: var(--gold-light); }
+    a:focus-visible {
+      outline: 3px solid var(--gold-light);
+      outline-offset: 4px;
+      border-radius: 3px;
+    }
+
+    .skip-link {
+      position: fixed;
+      inset-block-start: 0.75rem;
+      inset-inline-start: 0.75rem;
+      z-index: 20;
+      padding: 0.7rem 0.9rem;
+      border-radius: 8px;
+      color: #080C14;
+      background: var(--gold-light);
+      font-weight: 700;
+      transform: translateY(-180%);
+    }
+    .skip-link:focus { transform: translateY(0); }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1rem 1.5rem;
+      background: rgba(8,12,20,0.9);
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+    }
+    .nav-brand {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+    .nav-brand img {
+      width: 30px;
+      height: 30px;
+      border-radius: 7px;
+    }
+    .nav-wordmark {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--gold);
+    }
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      list-style: none;
+      font-size: 0.85rem;
+    }
+    .nav-links a { color: var(--text-secondary); }
+    .nav-links a:hover { color: var(--text-primary); }
+
+    .doc-wrapper {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 3.5rem 1.5rem 5rem;
+    }
+    .doc-header {
+      margin-bottom: 2.25rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+    }
+    .doc-title {
+      font-size: clamp(1.8rem, 4vw, 2.4rem);
+      letter-spacing: -0.025em;
+      margin-bottom: 0.5rem;
+    }
+    .doc-intro {
+      max-width: 630px;
+      color: var(--text-secondary);
+    }
+
+    .support-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.85rem;
+      margin-bottom: 3rem;
+    }
+    .support-card {
+      display: block;
+      min-height: 100%;
+      padding: 1rem 1.1rem;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: var(--radius);
+    }
+    .support-card strong {
+      display: block;
+      color: var(--text-primary);
+      margin-bottom: 0.2rem;
+    }
+    .support-card span {
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+    }
+
+    .support-section {
+      scroll-margin-top: 5rem;
+      margin-bottom: 2.5rem;
+    }
+    .support-section h2 {
+      font-size: 1.15rem;
+      margin-bottom: 0.75rem;
+    }
+    .support-section p,
+    .support-section li {
+      color: var(--text-secondary);
+      font-size: 0.95rem;
+    }
+    .support-section p + p { margin-top: 0.75rem; }
+    .support-section ul {
+      display: flex;
+      flex-direction: column;
+      gap: 0.55rem;
+      list-style: none;
+      margin-top: 0.75rem;
+    }
+    .support-section li {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.65rem;
+    }
+    .support-section li::before {
+      content: '\2014';
+      color: var(--teal);
+      flex-shrink: 0;
+    }
+
+    .contact {
+      padding: 1.4rem 1.5rem;
+      background: rgba(26,128,153,0.12);
+      border: 1px solid rgba(26,128,153,0.3);
+      border-radius: var(--radius);
+    }
+    .contact h2 { margin-bottom: 0.35rem; }
+    .contact p {
+      color: var(--text-secondary);
+      font-size: 0.95rem;
+    }
+    .contact-action {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.7rem 1rem;
+      color: #080C14;
+      background: var(--gold);
+      border-radius: 999px;
+      font-weight: 700;
+    }
+    .contact-action:hover {
+      color: #080C14;
+      background: var(--gold-light);
+    }
+
+    .doc-footer {
+      margin-top: 3.5rem;
+      padding-top: 2rem;
+      border-top: 1px solid rgba(255,255,255,0.08);
+      color: var(--text-secondary);
+      font-size: 0.85rem;
+    }
+
+    @media (max-width: 600px) {
+      .nav-links li:not(:last-child) { display: none; }
+      .support-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- family-localization-meta:start -->
+<link rel="canonical" href="https://inner-whisper.movingtruth.com/fr/support.html">
+<link rel="alternate" hreflang="en" href="https://inner-whisper.movingtruth.com/support.html">
+<link rel="alternate" hreflang="fr" href="https://inner-whisper.movingtruth.com/fr/support.html">
+<link rel="alternate" hreflang="x-default" href="https://inner-whisper.movingtruth.com/support.html">
+<!-- family-localization-meta:end -->
+
+<!-- family-localization-style:start -->
+<style>
+  .family-language{position:fixed;z-index:1000;inset-block-start:.75rem;inset-inline-end:.75rem;display:flex;align-items:center;gap:.45rem;padding:.42rem .55rem;border:1px solid rgba(201,168,76,.32);border-radius:999px;background:rgba(13,13,13,.88);color:#e8e0d0;font:600 .75rem/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;backdrop-filter:blur(14px)}
+  .family-language span{color:#b6aa96}
+  .family-language a{min-block-size:2rem;display:inline-flex;align-items:center;padding:0 .55rem;border-radius:999px;color:inherit;text-decoration:none}
+  .family-language a:hover,.family-language a:focus-visible{background:rgba(201,168,76,.16);outline:2px solid transparent}
+  .family-language a[aria-current="page"]{background:#c9a84c;color:#111}
+  .language-suggestion{position:fixed;z-index:1100;inset-inline:50%;inset-block-end:1rem;transform:translateX(-50%);inline-size:min(calc(100% - 2rem),42rem);display:flex;align-items:center;justify-content:center;gap:.7rem;flex-wrap:wrap;padding:.8rem 1rem;border:1px solid rgba(201,168,76,.42);border-radius:16px;background:rgba(13,13,13,.96);color:#e8e0d0;font:600 .88rem/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;box-shadow:0 16px 45px rgba(0,0,0,.42);backdrop-filter:blur(16px)}
+  .language-suggestion p{margin:0;color:#e8e0d0}
+  .language-suggestion a,.language-suggestion button{min-block-size:2.35rem;display:inline-flex;align-items:center;padding:0 .8rem;border:1px solid rgba(201,168,76,.5);border-radius:999px;background:transparent;color:#e8e0d0;font:inherit;text-decoration:none;cursor:pointer}
+  .language-suggestion a{background:#c9a84c;color:#111}
+  .language-suggestion a:focus-visible,.language-suggestion button:focus-visible{outline:2px solid #f1d47a;outline-offset:2px}
+  @media (max-width:700px){.family-language{position:absolute;inset-block-start:.45rem;inset-inline-end:.45rem}.family-language span{position:absolute;inline-size:1px;block-size:1px;overflow:hidden;clip-path:inset(50%)}}
+</style>
+<!-- family-localization-style:end -->
+<!-- family-localization-script:start -->
+<script src="../localization/language-preference.js" defer></script>
+<!-- family-localization-script:end -->
+</head>
+<body>
+<!-- family-localization:start -->
+<nav class="family-language" aria-label="Langue">
+  <span>Langue</span>
+  <a href="https://inner-whisper.movingtruth.com/support.html" lang="en" data-language-choice="en">English</a>
+  <a href="https://inner-whisper.movingtruth.com/fr/support.html" lang="fr" data-language-choice="fr" aria-current="page">Français</a>
+</nav>
+<!-- family-localization:end -->
+
+<a class="skip-link" href="#main-content">Aller à l’assistance</a>
+
+<header class="nav" role="banner">
+  <a href="index.html" class="nav-brand" aria-label="Accueil d’InnerWhisper">
+    <img src="../assets/icon.png" alt="">
+    <span class="nav-wordmark">InnerWhisper</span>
+  </a>
+  <nav aria-label="Navigation de l’assistance">
+    <ul class="nav-links">
+      <li><a href="index.html">Accueil</a></li>
+      <li><a href="privacy_policy.html">Vie privée</a></li>
+      <li><a href="mailto:support@movingtruth.com">Nous écrire</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main id="main-content">
+  <div class="doc-wrapper">
+    <header class="doc-header">
+      <h1 class="doc-title">Assistance InnerWhisper</h1>
+      <p class="doc-intro">InnerWhisper est conçu pour être calme et simple. Si quelque chose s’interpose entre les mots et vous, commencez ici ou contactez directement Moving Truth.</p>
+    </header>
+
+    <nav class="support-grid" aria-label="Sujets d’assistance courants">
+      <a class="support-card" href="#notifications">
+        <strong>Notifications quotidiennes</strong>
+        <span>Autorisation, horaire et livraison</span>
+      </a>
+      <a class="support-card" href="#icloud">
+        <strong>Favoris et iCloud</strong>
+        <span>Synchronisation entre vos appareils Apple</span>
+      </a>
+      <a class="support-card" href="#added-quotes">
+        <strong>Vos citations ajoutées</strong>
+        <span>Chiffrement, stockage et synchronisation de la clé</span>
+      </a>
+      <a class="support-card" href="#privacy">
+        <strong>Vie privée et suppression</strong>
+        <span>Ce qui reste, où cela reste et comment l’effacer</span>
+      </a>
+    </nav>
+
+    <section class="support-section" id="notifications">
+      <h2>Notifications quotidiennes</h2>
+      <p>InnerWhisper planifie les notifications de citations localement sur votre appareil. Aucun serveur de notification de Moving Truth n’est utilisé.</p>
+      <p>Si les notifications n’arrivent pas, ouvrez Réglages iOS, trouvez InnerWhisper et confirmez qu’elles sont autorisées. Vérifiez ensuite leur horaire et les collections actives dans les réglages d’InnerWhisper. iOS contrôle l’heure finale de livraison et peut retarder des notifications dans certains modes de concentration ou d’économie d’énergie.</p>
+    </section>
+
+    <section class="support-section" id="icloud">
+      <h2>Favoris et iCloud</h2>
+      <p>Les identifiants de vos citations favorites peuvent se synchroniser par le stockage clé-valeur iCloud d’Apple lorsque vous êtes connecté à iCloud. Moving Truth ne reçoit pas cette liste.</p>
+      <p>Si un favori tarde à apparaître sur un autre appareil, confirmez que les deux appareils utilisent le même compte Apple, sont connectés à Internet et autorisent InnerWhisper à utiliser iCloud. Rouvrez l’app sur les deux appareils pour permettre une nouvelle synchronisation.</p>
+    </section>
+
+    <section class="support-section" id="added-quotes">
+      <h2>Vos citations ajoutées</h2>
+      <p>Les citations que vous écrivez sont chiffrées sur votre appareil avant d’être conservées. Lorsque iCloud est disponible, le fichier chiffré peut se synchroniser dans votre conteneur Documents iCloud personnel et sa clé par le trousseau iCloud.</p>
+      <p>Si InnerWhisper indique que vos citations ou votre clé sont encore en cours de synchronisation, gardez l’app installée, confirmez que le trousseau iCloud est activé, attendez quelques minutes puis rouvrez l’app. Ne réinitialisez pas le chiffrement et ne supprimez pas l’app si elle contient l’unique copie d’un texte que vous souhaitez garder.</p>
+    </section>
+
+    <section class="support-section" id="quote-library">
+      <h2>Bibliothèque de citations et mises à jour facultatives</h2>
+      <p>La bibliothèque principale est incluse dans l’app et reste disponible hors ligne. InnerWhisper peut aussi demander par HTTPS un fichier facultatif de citations supplémentaires. Si cette requête n’aboutit pas, la bibliothèque incluse continue de fonctionner.</p>
+      <p>Si une attribution ou une formulation vous paraît douteuse, envoyez-nous la citation et la source qui vous semble plus exacte. N’incluez aucune citation privée ajoutée par vous, sauf si vous souhaitez délibérément que nous la lisions.</p>
+    </section>
+
+    <section class="support-section" id="privacy">
+      <h2>Vie privée et suppression</h2>
+      <p>InnerWhisper ne comporte ni compte, ni publicité, ni analyse, ni SDK de suivi. Vos données restent sur votre appareil ou dans votre compte iCloud personnel par les systèmes d’Apple. Consultez la <a href="privacy_policy.html">politique de confidentialité complète</a> pour connaître précisément les limites de stockage, de synchronisation, de réseau et de suppression.</p>
+      <p>Supprimer InnerWhisper efface ses données locales. Les données synchronisées peuvent rester dans votre compte iCloud personnel jusqu’à ce que vous supprimiez les données iCloud de l’app dans Réglages iOS.</p>
+    </section>
+
+    <section class="support-section" id="accessibility">
+      <h2>Assistance à l’accessibilité</h2>
+      <p>Si VoiceOver, Contrôle vocal, le texte agrandi, Réduire les animations, le contraste, l’accès aux notifications ou un autre besoin d’accès ne fonctionne pas avec grâce, indiquez-nous la tâche que vous cherchiez à accomplir. Les problèmes d’accessibilité sont des problèmes du produit.</p>
+    </section>
+
+    <section class="contact" aria-labelledby="contact-title">
+      <h2 id="contact-title">Écrire à Moving Truth</h2>
+      <p>Indiquez votre modèle d’iPhone ou d’iPad, votre version d’iOS, la version d’InnerWhisper et ce qui s’est passé. N’envoyez pas de citation privée ajoutée par vous, sauf si vous souhaitez délibérément l’inclure dans la conversation d’assistance.</p>
+      <a class="contact-action" href="mailto:support@movingtruth.com?subject=InnerWhisper%20Support">support@movingtruth.com</a>
+    </section>
+
+    <footer class="doc-footer" role="contentinfo">
+      <p><a href="index.html">← Retour à l’accueil d’InnerWhisper</a> · <a href="privacy_policy.html">Politique de confidentialité</a></p>
+    </footer>
+  </div>
+</main>
+
+</body>
+</html>
