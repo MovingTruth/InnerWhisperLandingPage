@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0F1A2E">
+  <meta name="description" content="InnerWhisper 隐私政策——应用数据如何在设备和个人 iCloud 账户中由你掌控。">
+  <meta name="robots" content="index, follow">
+  <title>隐私政策 — InnerWhisper</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg-deep:        #080C14;
+      --bg-mid:         #0F1A2E;
+      --gold:           #C9933A;
+      --gold-light:     #E6AD4A;
+      --teal:           #1A8099;
+      --text-primary:   #F0F4F8;
+      --text-secondary: #A0AEBA;
+      --card-bg:        rgba(255,255,255,0.05);
+      --card-border:    rgba(255,255,255,0.09);
+      --radius:         12px;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg-deep);
+      color: var(--text-primary);
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: var(--gold); text-decoration: none; }
+    a:hover { color: var(--gold-light); }
+
+    /* NAV */
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1rem 1.5rem;
+      background: rgba(8,12,20,0.9);
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+    }
+    .nav-brand {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      text-decoration: none;
+    }
+    .nav-brand img {
+      width: 30px;
+      height: 30px;
+      border-radius: 7px;
+    }
+    .nav-wordmark {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--gold);
+    }
+    .nav-back {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+      transition: color 0.2s;
+    }
+    .nav-back:hover { color: var(--text-primary); }
+
+    /* DOCUMENT LAYOUT */
+    .doc-wrapper {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 3.5rem 1.5rem 5rem;
+    }
+
+    .doc-header {
+      margin-bottom: 3rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+    }
+    .doc-title {
+      font-size: clamp(1.8rem, 4vw, 2.4rem);
+      font-weight: 700;
+      letter-spacing: -0.025em;
+      margin-bottom: 0.5rem;
+    }
+    .doc-meta {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+    }
+
+    /* CALLOUT BOX */
+    .callout {
+      background: rgba(26,128,153,0.12);
+      border: 1px solid rgba(26,128,153,0.3);
+      border-radius: var(--radius);
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 3rem;
+    }
+    .callout p {
+      font-size: 0.95rem;
+      color: var(--text-primary);
+      line-height: 1.65;
+    }
+    .callout strong { color: #fff; }
+
+    /* SECTIONS */
+    .policy-section {
+      margin-bottom: 2.5rem;
+    }
+    .policy-section h2 {
+      font-size: 1.15rem;
+      font-weight: 650;
+      letter-spacing: -0.01em;
+      margin-bottom: 0.75rem;
+      color: var(--text-primary);
+    }
+    .policy-section p,
+    .policy-section li {
+      font-size: 0.95rem;
+      color: var(--text-secondary);
+      line-height: 1.72;
+    }
+    .policy-section ul {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      margin-top: 0.75rem;
+    }
+    .policy-section li {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.65rem;
+    }
+    .policy-section li::before {
+      content: '\2014'; /* em dash */
+      color: var(--teal);
+      flex-shrink: 0;
+      margin-top: 0.05em;
+    }
+    .policy-section p + p { margin-top: 0.75rem; }
+    .policy-section code {
+      overflow-wrap: anywhere;
+      word-break: break-word;
+    }
+
+    /* DIVIDER */
+    hr {
+      border: none;
+      border-top: 1px solid rgba(255,255,255,0.07);
+      margin: 2.5rem 0;
+    }
+
+    /* FOOTER */
+    .doc-footer {
+      margin-top: 3.5rem;
+      padding-top: 2rem;
+      border-top: 1px solid rgba(255,255,255,0.08);
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+    }
+    .doc-footer a { font-weight: 500; }
+  </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- family-localization-meta:start -->
+<link rel="canonical" href="https://inner-whisper.movingtruth.com/zh-Hans/privacy_policy.html">
+<link rel="alternate" hreflang="en" href="https://inner-whisper.movingtruth.com/privacy_policy.html">
+<link rel="alternate" hreflang="fr" href="https://inner-whisper.movingtruth.com/fr/privacy_policy.html">
+<link rel="alternate" hreflang="es" href="https://inner-whisper.movingtruth.com/es/privacy_policy.html">
+<link rel="alternate" hreflang="de" href="https://inner-whisper.movingtruth.com/de/privacy_policy.html">
+<link rel="alternate" hreflang="pt-BR" href="https://inner-whisper.movingtruth.com/pt-BR/privacy_policy.html">
+<link rel="alternate" hreflang="it" href="https://inner-whisper.movingtruth.com/it/privacy_policy.html">
+<link rel="alternate" hreflang="nl" href="https://inner-whisper.movingtruth.com/nl/privacy_policy.html">
+<link rel="alternate" hreflang="hi" href="https://inner-whisper.movingtruth.com/hi/privacy_policy.html">
+<link rel="alternate" hreflang="ar" href="https://inner-whisper.movingtruth.com/ar/privacy_policy.html">
+<link rel="alternate" hreflang="zh-Hans" href="https://inner-whisper.movingtruth.com/zh-Hans/privacy_policy.html">
+<link rel="alternate" hreflang="ja" href="https://inner-whisper.movingtruth.com/ja/privacy_policy.html">
+<link rel="alternate" hreflang="ko" href="https://inner-whisper.movingtruth.com/ko/privacy_policy.html">
+<link rel="alternate" hreflang="ru" href="https://inner-whisper.movingtruth.com/ru/privacy_policy.html">
+<link rel="alternate" hreflang="th" href="https://inner-whisper.movingtruth.com/th/privacy_policy.html">
+<link rel="alternate" hreflang="x-default" href="https://inner-whisper.movingtruth.com/privacy_policy.html">
+<!-- family-localization-meta:end -->
+
+<!-- family-localization-style:start -->
+<style>
+  .family-language{position:absolute;z-index:900;inset-block-start:4.75rem;inset-inline-end:1rem;color:#e8e0d0;font:600 .75rem/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+  .family-language details{position:relative}
+  .family-language summary{min-block-size:2.6rem;display:flex;align-items:center;gap:.55rem;padding:.3rem .75rem;list-style:none;border:1px solid rgba(201,168,76,.24);border-radius:999px;background:rgba(13,13,13,.82);cursor:pointer;backdrop-filter:blur(12px)}
+  .family-language summary::-webkit-details-marker{display:none}
+  .family-language summary::after{content:"⌄";font-size:1rem;color:#c9a84c}
+  .family-language details[open] summary::after{transform:rotate(180deg)}
+  .family-language__label{position:absolute;inline-size:1px;block-size:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+  .family-language__menu{position:absolute;inset-block-start:calc(100% + .45rem);inset-inline-end:0;min-inline-size:12rem;max-block-size:min(65vh,28rem);overflow:auto;display:grid;gap:.2rem;padding:.4rem;border:1px solid rgba(201,168,76,.24);border-radius:16px;background:rgba(13,13,13,.97);box-shadow:0 16px 45px rgba(0,0,0,.42);backdrop-filter:blur(16px)}
+  .family-language a{min-block-size:2.5rem;display:flex;align-items:center;padding:0 .7rem;border-radius:10px;color:inherit;text-decoration:none;white-space:nowrap}
+  .family-language a:hover,.family-language a:focus-visible{background:rgba(201,168,76,.16);outline:2px solid transparent}
+  .family-language a[aria-current="page"]{background:#c9a84c;color:#111}
+  .language-suggestion{position:fixed;z-index:1100;inset-inline:50%;inset-block-end:1rem;transform:translateX(-50%);inline-size:min(calc(100% - 2rem),42rem);display:flex;align-items:center;justify-content:center;gap:.7rem;flex-wrap:wrap;padding:.8rem 1rem;border:1px solid rgba(201,168,76,.42);border-radius:16px;background:rgba(13,13,13,.96);color:#e8e0d0;font:600 .88rem/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;box-shadow:0 16px 45px rgba(0,0,0,.42);backdrop-filter:blur(16px)}
+  .language-suggestion p{margin:0;color:#e8e0d0}
+  .language-suggestion a,.language-suggestion button{min-block-size:2.35rem;display:inline-flex;align-items:center;padding:0 .8rem;border:1px solid rgba(201,168,76,.5);border-radius:999px;background:transparent;color:#e8e0d0;font:inherit;text-decoration:none;cursor:pointer}
+  .language-suggestion a{background:#c9a84c;color:#111}
+  .language-suggestion a:focus-visible,.language-suggestion button:focus-visible{outline:2px solid #f1d47a;outline-offset:2px}
+  @media (max-width:700px){.family-language{inset-block-start:4.8rem;inset-inline-end:.75rem}}
+</style>
+<!-- family-localization-style:end -->
+<!-- family-localization-script:start -->
+<script src="../localization/language-preference.js" defer></script>
+<!-- family-localization-script:end -->
+</head>
+<body>
+<!-- family-localization:start -->
+<div class="family-language">
+<details>
+<summary><span class="family-language__label">语言</span><span>简体中文</span></summary>
+<nav class="family-language__menu" aria-label="语言">
+  <a href="https://inner-whisper.movingtruth.com/privacy_policy.html" lang="en" data-language-choice="en">English</a>
+  <a href="https://inner-whisper.movingtruth.com/fr/privacy_policy.html" lang="fr" data-language-choice="fr">Français</a>
+  <a href="https://inner-whisper.movingtruth.com/es/privacy_policy.html" lang="es" data-language-choice="es">Español</a>
+  <a href="https://inner-whisper.movingtruth.com/de/privacy_policy.html" lang="de" data-language-choice="de">Deutsch</a>
+  <a href="https://inner-whisper.movingtruth.com/pt-BR/privacy_policy.html" lang="pt-BR" data-language-choice="pt-BR">Português (Brasil)</a>
+  <a href="https://inner-whisper.movingtruth.com/it/privacy_policy.html" lang="it" data-language-choice="it">Italiano</a>
+  <a href="https://inner-whisper.movingtruth.com/nl/privacy_policy.html" lang="nl" data-language-choice="nl">Nederlands</a>
+  <a href="https://inner-whisper.movingtruth.com/hi/privacy_policy.html" lang="hi" data-language-choice="hi">हिन्दी</a>
+  <a href="https://inner-whisper.movingtruth.com/ar/privacy_policy.html" lang="ar" data-language-choice="ar">العربية</a>
+  <a href="https://inner-whisper.movingtruth.com/zh-Hans/privacy_policy.html" lang="zh-Hans" data-language-choice="zh-Hans" aria-current="page">简体中文</a>
+  <a href="https://inner-whisper.movingtruth.com/ja/privacy_policy.html" lang="ja" data-language-choice="ja">日本語</a>
+  <a href="https://inner-whisper.movingtruth.com/ko/privacy_policy.html" lang="ko" data-language-choice="ko">한국어</a>
+  <a href="https://inner-whisper.movingtruth.com/ru/privacy_policy.html" lang="ru" data-language-choice="ru">Русский</a>
+  <a href="https://inner-whisper.movingtruth.com/th/privacy_policy.html" lang="th" data-language-choice="th">ไทย</a>
+</nav>
+</details>
+</div>
+<!-- family-localization:end -->
+
+<header class="nav" role="banner">
+  <a href="index.html" class="nav-brand" aria-label="InnerWhisper 主页">
+    <img src="../assets/icon.png" alt="InnerWhisper 应用图标">
+    <span class="nav-wordmark">InnerWhisper</span>
+  </a>
+  <a href="index.html" class="nav-back">← 返回主页</a>
+</header>
+
+<main>
+<div class="doc-wrapper">
+
+  <header class="doc-header">
+    <h1 class="doc-title">隐私政策</h1>
+    <p class="doc-meta">生效日期：2026 • 适用于：iOS 版 InnerWhisper</p>
+  </header>
+
+  <div class="callout" role="note">
+    <p><strong>简要说明：</strong> InnerWhisper 不收集或出售你的个人数据。应用数据留在设备上，或在 iCloud 可用时通过 Apple 系统进入你的个人账户。Moving Truth 从不接收收藏或新增引语。应用可单独通过 HTTPS 请求可选的补充引语文件；请求不包含应用账户或内容。</p>
+  </div>
+
+  <section class="policy-section" aria-labelledby="section-intro">
+    <h2 id="section-intro">1. 关于本政策</h2>
+    <p>本政策说明使用 InnerWhisper iOS 应用时，InnerWhisper（“我们”或“应用”）如何处理信息。使用应用即表示你同意这些做法。</p>
+    <p>我们重视你的隐私。应用的设计使 Moving Truth 无法访问你的数据：数据留在设备上，或在 iCloud 可用时通过个人账户在 Apple 设备间传递。</p>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-no-collect">
+    <h2 id="section-no-collect">2. 我们不收集的信息</h2>
+    <p>InnerWhisper 不收集、存储或传输：</p>
+    <ul>
+      <li>你的姓名、电子邮件或任何身份信息</li>
+      <li>任何位置数据</li>
+      <li>你在应用中接触的健康或身心数据</li>
+      <li>设备标识符（IDFA、IDFV 等）</li>
+      <li>使用分析或行为数据</li>
+      <li>发送到我们服务器的崩溃日志或诊断</li>
+    </ul>
+    <p>使用 InnerWhisper 无需账户。Moving Truth 不运营接收你的引语、收藏、设置、通知计划或其他应用内容的服务。</p>
+    <p>InnerWhisper 的 Apple Privacy Manifest 声明 <code>NSPrivacyTracking: false</code> 并依照 Apple 隐私要求，不列出任何收集的数据类型。</p>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-local">
+    <h2 id="section-local">3. 存储在设备上的数据</h2>
+    <p>应用在设备上存储以下数据。收藏和新增的加密引语也可按第 4 节通过个人 iCloud 账户同步：</p>
+    <ul>
+      <li><strong>应用偏好</strong> — 通知计划、视觉主题与引语合集设置，存储于 Apple <code>UserDefaults</code> 并在设备锁定时受 iOS Data Protection 保护</li>
+      <li><strong>收藏列表</strong> — 已保存引语的 ID，本地存储并可选择通过 iCloud 同步（见第 4 节）</li>
+      <li><strong>加密密钥</strong> — 存储在 iOS Keychain，受设备密码和 Secure Enclave 保护</li>
+      <li><strong>引语文件</strong> — 汇总引语库及你新增的引语，以加密文件存储，使用 Keychain 中的密钥进行 AES-256-GCM 加密</li>
+    </ul>
+    <p>引语文件在磁盘上使用 AES-256-GCM 加密。偏好和设置依赖 iOS Data Protection。你可在 Settings 随时开关加密；关闭后仅依赖 iOS 文件保护。删除应用会移除设备上的全部本地数据。</p>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-icloud">
+    <h2 id="section-icloud">4. iCloud 同步</h2>
+    <p>若设备已登录 iCloud，InnerWhisper 会在 Apple 设备间同步两类数据。同步完全由 Apple 的 iCloud 基础设施处理，Moving Truth 不运营接收这些数据的服务。</p>
+
+    <p><strong>收藏（iCloud Key-Value Store）</strong></p>
+    <ul>
+      <li>收藏引语 ID 列表使用 Apple 的 <code>NSUbiquitousKeyValueStore</code> API 同步。</li>
+      <li>仅同步不透明的引语标识字符串（例如 <code>00000001-0000-4000-a000-000000000001</code>），不包含引语正文或个人笔记。</li>
+    </ul>
+
+    <p><strong>你新增的引语（iCloud Documents）</strong></p>
+    <ul>
+      <li>你自己撰写的引语存储为 AES-256-GCM 加密文件，通过个人 iCloud Documents 容器同步（<code>iCloud.ca.imposterSyndromium.InnerWhisper</code>）。</li>
+      <li>该文件的加密密钥通过 iCloud Keychain 同步（<code>synchronizable: true</code>），因此所有已登录设备都可获得同一密钥。</li>
+      <li>文件内容在到达 iCloud 前已加密，Apple 和我们都无法读取明文。</li>
+    </ul>
+
+    <p><a href="https://www.apple.com/legal/privacy/" target="_blank" rel="noopener">Apple 隐私政策</a> 适用于所有经 iCloud 处理的数据。你可随时在以下位置关闭 InnerWhisper 的 iCloud 同步： <strong>iOS Settings &rarr; [Your Name] &rarr; iCloud &rarr; Apps Using iCloud</strong>.</p>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-notifications">
+    <h2 id="section-notifications">5. 推送通知</h2>
+    <p>InnerWhisper 将每日引语作为 <em>本地通知</em>，完全由 iOS 在设备上安排并送达。通知内容、计划或送达确认都不会传到服务器。</p>
+    <p>初次使用时 iOS 可能请求通知权限。你可随时在以下位置撤回： <strong>iOS Settings &rarr; InnerWhisper &rarr; Notifications</strong>.</p>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-third-party">
+    <h2 id="section-third-party">6. 无第三方服务</h2>
+    <p>InnerWhisper 不集成第三方分析、广告或崩溃报告服务。具体而言，应用不包含：</p>
+    <ul>
+      <li>分析 SDK（Firebase Analytics、Amplitude、Mixpanel 等）</li>
+      <li>广告网络或追踪像素</li>
+      <li>崩溃报告或性能监控服务</li>
+    </ul>
+    <p>核心引语库内置于应用。应用也可从以下位置获取可选的补充引语文件： <code>movingtruth.github.io</code> 首次加载、本地缓存超过 24 小时或你明确要求更新时，通过 HTTPS 请求。请求不含应用账户、广告标识符、账户令牌、引语、收藏、设置或其他内容。与任何 HTTPS 连接一样，托管基础设施需处理 IP 地址等连接信息以传送文件；Moving Truth 不用该请求追踪或分析你。</p>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-children">
+    <h2 id="section-children">7. 儿童隐私</h2>
+    <p>InnerWhisper 不面向 13 岁以下儿童。我们不会有意收集儿童个人信息。若你认为儿童向我们提供了个人信息，请联系下方地址，我们会立即删除。</p>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-deletion">
+    <h2 id="section-deletion">8. 数据保留与删除</h2>
+    <p>所有 InnerWhisper 数据仅存在于你的设备和个人 iCloud 账户。我们无法访问，也无法代你删除。</p>
+    <ul>
+      <li><strong>删除本地数据：</strong> 从设备删除 InnerWhisper，iOS 会自动移除所有相关数据。</li>
+      <li><strong>删除通过 iCloud 同步的收藏：</strong> 删除应用后，前往 <strong>iOS Settings &rarr; [Your Name] &rarr; iCloud &rarr; Manage Account Storage</strong> 并在列出时移除 InnerWhisper 的 iCloud 数据。</li>
+    </ul>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-changes">
+    <h2 id="section-changes">9. 政策变更</h2>
+    <p>我们可能不时更新本政策，并会修改页面顶部的生效日期。请定期查看。变更发布后继续使用 InnerWhisper，即表示接受更新后的政策。</p>
+  </section>
+
+  <hr>
+
+  <section class="policy-section" aria-labelledby="section-contact">
+    <h2 id="section-contact">10. 联系</h2>
+    <p>如对本政策或 InnerWhisper 的数据做法有疑问，请联系：</p>
+    <p>
+      电子邮件： <a href="mailto:support@movingtruth.com">support@movingtruth.com</a>
+    </p>
+  </section>
+
+  <footer class="doc-footer" role="contentinfo">
+    <p><a href="index.html">← 返回 InnerWhisper 主页</a></p>
+  </footer>
+
+</div>
+</main>
+
+</body>
+</html>

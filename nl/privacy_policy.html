@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0F1A2E">
+  <meta name="description" content="Privacybeleid van InnerWhisper — hoe appgegevens onder jouw controle blijven op je apparaat en in je persoonlijke iCloud-account.">
+  <meta name="robots" content="index, follow">
+  <title>Privacybeleid — InnerWhisper</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg-deep:        #080C14;
+      --bg-mid:         #0F1A2E;
+      --gold:           #C9933A;
+      --gold-light:     #E6AD4A;
+      --teal:           #1A8099;
+      --text-primary:   #F0F4F8;
+      --text-secondary: #A0AEBA;
+      --card-bg:        rgba(255,255,255,0.05);
+      --card-border:    rgba(255,255,255,0.09);
+      --radius:         12px;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg-deep);
+      color: var(--text-primary);
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: var(--gold); text-decoration: none; }
+    a:hover { color: var(--gold-light); }
+
+    /* NAV */
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1rem 1.5rem;
+      background: rgba(8,12,20,0.9);
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+    }
+    .nav-brand {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      text-decoration: none;
+    }
+    .nav-brand img {
+      width: 30px;
+      height: 30px;
+      border-radius: 7px;
+    }
+    .nav-wordmark {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--gold);
+    }
+    .nav-back {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+      transition: color 0.2s;
+    }
+    .nav-back:hover { color: var(--text-primary); }
+
+    /* DOCUMENT LAYOUT */
+    .doc-wrapper {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 3.5rem 1.5rem 5rem;
+    }
+
+    .doc-header {
+      margin-bottom: 3rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+    }
+    .doc-title {
+      font-size: clamp(1.8rem, 4vw, 2.4rem);
+      font-weight: 700;
+      letter-spacing: -0.025em;
+      margin-bottom: 0.5rem;
+    }
+    .doc-meta {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+    }
+
+    /* CALLOUT BOX */
+    .callout {
+      background: rgba(26,128,153,0.12);
+      border: 1px solid rgba(26,128,153,0.3);
+      border-radius: var(--radius);
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 3rem;
+    }
+    .callout p {
+      font-size: 0.95rem;
+      color: var(--text-primary);
+      line-height: 1.65;
+    }
+    .callout strong { color: #fff; }
+
+    /* SECTIONS */
+    .policy-section {
+      margin-bottom: 2.5rem;
+    }
+    .policy-section h2 {
+      font-size: 1.15rem;
+      font-weight: 650;
+      letter-spacing: -0.01em;
+      margin-bottom: 0.75rem;
+      color: var(--text-primary);
+    }
+    .policy-section p,
+    .policy-section li {
+      font-size: 0.95rem;
+      color: var(--text-secondary);
+      line-height: 1.72;
+    }
+    .policy-section ul {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      margin-top: 0.75rem;
+    }
+    .policy-section li {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.65rem;
+    }
+    .policy-section li::before {
+      content: '\2014'; /* em dash */
+      color: var(--teal);
+      flex-shrink: 0;
+      margin-top: 0.05em;
+    }
+    .policy-section p + p { margin-top: 0.75rem; }
+    .policy-section code {
+      overflow-wrap: anywhere;
+      word-break: break-word;
+    }
+
+    /* DIVIDER */
+    hr {
+      border: none;
+      border-top: 1px solid rgba(255,255,255,0.07);
+      margin: 2.5rem 0;
+    }
+
+    /* FOOTER */
+    .doc-footer {
+      margin-top: 3.5rem;
+      padding-top: 2rem;
+      border-top: 1px solid rgba(255,255,255,0.08);
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+    }
+    .doc-footer a { font-weight: 500; }
+  </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- family-localization-meta:start -->
+<link rel="canonical" href="https://inner-whisper.movingtruth.com/nl/privacy_policy.html">
+<link rel="alternate" hreflang="en" href="https://inner-whisper.movingtruth.com/privacy_policy.html">
+<link rel="alternate" hreflang="fr" href="https://inner-whisper.movingtruth.com/fr/privacy_policy.html">
+<link rel="alternate" hreflang="es" href="https://inner-whisper.movingtruth.com/es/privacy_policy.html">
+<link rel="alternate" hreflang="de" href="https://inner-whisper.movingtruth.com/de/privacy_policy.html">
+<link rel="alternate" hreflang="pt-BR" href="https://inner-whisper.movingtruth.com/pt-BR/privacy_policy.html">
+<link rel="alternate" hreflang="it" href="https://inner-whisper.movingtruth.com/it/privacy_policy.html">
+<link rel="alternate" hreflang="nl" href="https://inner-whisper.movingtruth.com/nl/privacy_policy.html">
+<link rel="alternate" hreflang="hi" href="https://inner-whisper.movingtruth.com/hi/privacy_policy.html">
+<link rel="alternate" hreflang="ar" href="https://inner-whisper.movingtruth.com/ar/privacy_policy.html">
+<link rel="alternate" hreflang="zh-Hans" href="https://inner-whisper.movingtruth.com/zh-Hans/privacy_policy.html">
+<link rel="alternate" hreflang="ja" href="https://inner-whisper.movingtruth.com/ja/privacy_policy.html">
+<link rel="alternate" hreflang="ko" href="https://inner-whisper.movingtruth.com/ko/privacy_policy.html">
+<link rel="alternate" hreflang="ru" href="https://inner-whisper.movingtruth.com/ru/privacy_policy.html">
+<link rel="alternate" hreflang="th" href="https://inner-whisper.movingtruth.com/th/privacy_policy.html">
+<link rel="alternate" hreflang="x-default" href="https://inner-whisper.movingtruth.com/privacy_policy.html">
+<!-- family-localization-meta:end -->
+
+<!-- family-localization-style:start -->
+<style>
+  .family-language{position:absolute;z-index:900;inset-block-start:4.75rem;inset-inline-end:1rem;color:#e8e0d0;font:600 .75rem/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+  .family-language details{position:relative}
+  .family-language summary{min-block-size:2.6rem;display:flex;align-items:center;gap:.55rem;padding:.3rem .75rem;list-style:none;border:1px solid rgba(201,168,76,.24);border-radius:999px;background:rgba(13,13,13,.82);cursor:pointer;backdrop-filter:blur(12px)}
+  .family-language summary::-webkit-details-marker{display:none}
+  .family-language summary::after{content:"⌄";font-size:1rem;color:#c9a84c}
+  .family-language details[open] summary::after{transform:rotate(180deg)}
+  .family-language__label{position:absolute;inline-size:1px;block-size:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+  .family-language__menu{position:absolute;inset-block-start:calc(100% + .45rem);inset-inline-end:0;min-inline-size:12rem;max-block-size:min(65vh,28rem);overflow:auto;display:grid;gap:.2rem;padding:.4rem;border:1px solid rgba(201,168,76,.24);border-radius:16px;background:rgba(13,13,13,.97);box-shadow:0 16px 45px rgba(0,0,0,.42);backdrop-filter:blur(16px)}
+  .family-language a{min-block-size:2.5rem;display:flex;align-items:center;padding:0 .7rem;border-radius:10px;color:inherit;text-decoration:none;white-space:nowrap}
+  .family-language a:hover,.family-language a:focus-visible{background:rgba(201,168,76,.16);outline:2px solid transparent}
+  .family-language a[aria-current="page"]{background:#c9a84c;color:#111}
+  .language-suggestion{position:fixed;z-index:1100;inset-inline:50%;inset-block-end:1rem;transform:translateX(-50%);inline-size:min(calc(100% - 2rem),42rem);display:flex;align-items:center;justify-content:center;gap:.7rem;flex-wrap:wrap;padding:.8rem 1rem;border:1px solid rgba(201,168,76,.42);border-radius:16px;background:rgba(13,13,13,.96);color:#e8e0d0;font:600 .88rem/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;box-shadow:0 16px 45px rgba(0,0,0,.42);backdrop-filter:blur(16px)}
+  .language-suggestion p{margin:0;color:#e8e0d0}
+  .language-suggestion a,.language-suggestion button{min-block-size:2.35rem;display:inline-flex;align-items:center;padding:0 .8rem;border:1px solid rgba(201,168,76,.5);border-radius:999px;background:transparent;color:#e8e0d0;font:inherit;text-decoration:none;cursor:pointer}
+  .language-suggestion a{background:#c9a84c;color:#111}
+  .language-suggestion a:focus-visible,.language-suggestion button:focus-visible{outline:2px solid #f1d47a;outline-offset:2px}
+  @media (max-width:700px){.family-language{inset-block-start:4.8rem;inset-inline-end:.75rem}}
+</style>
+<!-- family-localization-style:end -->
+<!-- family-localization-script:start -->
+<script src="../localization/language-preference.js" defer></script>
+<!-- family-localization-script:end -->
+</head>
+<body>
+<!-- family-localization:start -->
+<div class="family-language">
+<details>
+<summary><span class="family-language__label">Taal</span><span>Nederlands</span></summary>
+<nav class="family-language__menu" aria-label="Taal">
+  <a href="https://inner-whisper.movingtruth.com/privacy_policy.html" lang="en" data-language-choice="en">English</a>
+  <a href="https://inner-whisper.movingtruth.com/fr/privacy_policy.html" lang="fr" data-language-choice="fr">Français</a>
+  <a href="https://inner-whisper.movingtruth.com/es/privacy_policy.html" lang="es" data-language-choice="es">Español</a>
+  <a href="https://inner-whisper.movingtruth.com/de/privacy_policy.html" lang="de" data-language-choice="de">Deutsch</a>
+  <a href="https://inner-whisper.movingtruth.com/pt-BR/privacy_policy.html" lang="pt-BR" data-language-choice="pt-BR">Português (Brasil)</a>
+  <a href="https://inner-whisper.movingtruth.com/it/privacy_policy.html" lang="it" data-language-choice="it">Italiano</a>
+  <a href="https://inner-whisper.movingtruth.com/nl/privacy_policy.html" lang="nl" data-language-choice="nl" aria-current="page">Nederlands</a>
+  <a href="https://inner-whisper.movingtruth.com/hi/privacy_policy.html" lang="hi" data-language-choice="hi">हिन्दी</a>
+  <a href="https://inner-whisper.movingtruth.com/ar/privacy_policy.html" lang="ar" data-language-choice="ar">العربية</a>
+  <a href="https://inner-whisper.movingtruth.com/zh-Hans/privacy_policy.html" lang="zh-Hans" data-language-choice="zh-Hans">简体中文</a>
+  <a href="https://inner-whisper.movingtruth.com/ja/privacy_policy.html" lang="ja" data-language-choice="ja">日本語</a>
+  <a href="https://inner-whisper.movingtruth.com/ko/privacy_policy.html" lang="ko" data-language-choice="ko">한국어</a>
+  <a href="https://inner-whisper.movingtruth.com/ru/privacy_policy.html" lang="ru" data-language-choice="ru">Русский</a>
+  <a href="https://inner-whisper.movingtruth.com/th/privacy_policy.html" lang="th" data-language-choice="th">ไทย</a>
+</nav>
+</details>
+</div>
+<!-- family-localization:end -->
+
+<header class="nav" role="banner">
+  <a href="index.html" class="nav-brand" aria-label="Startpagina van InnerWhisper">
+    <img src="../assets/icon.png" alt="Appicoon van InnerWhisper">
+    <span class="nav-wordmark">InnerWhisper</span>
+  </a>
+  <a href="index.html" class="nav-back">← Terug naar start</a>
+</header>
+
+<main>
+<div class="doc-wrapper">
+
+  <header class="doc-header">
+    <h1 class="doc-title">Privacybeleid</h1>
+    <p class="doc-meta">Ingangsdatum: 2026 • Geldt voor: InnerWhisper voor iOS</p>
+  </header>
+
+  <div class="callout" role="note">
+    <p><strong>In het kort:</strong> InnerWhisper verzamelt of verkoopt je persoonsgegevens niet. Appgegevens blijven op je apparaat of, wanneer iCloud beschikbaar is, via Apples systemen in je persoonlijke iCloud-account. Moving Truth ontvangt nooit je favorieten of toegevoegde citaten. De app kan een aparte HTTPS-aanvraag doen voor een optioneel aanvullend citaatbestand; die aanvraag bevat geen appaccount of appinhoud.</p>
+  </div>
+
+  <section class="policy-section" aria-labelledby="section-intro">
+    <h2 id="section-intro">1. Over dit beleid</h2>
+    <p>Dit privacybeleid beschrijft hoe InnerWhisper (‘wij’, ‘ons’ of ‘de app’) omgaat met informatie wanneer je de iOS-app InnerWhisper gebruikt. Door de app te gebruiken stem je in met de hier beschreven werkwijzen.</p>
+    <p>We zetten ons in voor je privacy. De app is zo ontworpen dat Moving Truth geen toegang tot je gegevens heeft: ze blijven op je apparaat of gaan, wanneer iCloud beschikbaar is, via je persoonlijke iCloud-account tussen je Apple-apparaten.</p>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-no-collect">
+    <h2 id="section-no-collect">2. Informatie die we niet verzamelen</h2>
+    <p>InnerWhisper verzamelt, bewaart of verzendt niet:</p>
+    <ul>
+      <li>Je naam, e-mailadres of andere identificerende gegevens</li>
+      <li>Locatiegegevens van welke aard dan ook</li>
+      <li>Gezondheids- of welzijnsgegevens waarmee je in de app werkt</li>
+      <li>Apparaat-ID’s (IDFA, IDFV of vergelijkbaar)</li>
+      <li>Gebruiksanalyses of gedragsgegevens</li>
+      <li>Crashlogboeken of diagnostiek die naar onze servers wordt gestuurd</li>
+    </ul>
+    <p>Voor InnerWhisper is geen account nodig. Moving Truth beheert geen dienst die je citaten, favorieten, instellingen, meldingsschema of andere appinhoud ontvangt.</p>
+    <p>Het Apple-privacymanifest van InnerWhisper verklaart <code>NSPrivacyTracking: false</code> en noemt overeenkomstig Apples privacyvereisten geen verzamelde gegevenstypen.</p>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-local">
+    <h2 id="section-local">3. Gegevens die op je apparaat worden bewaard</h2>
+    <p>De app bewaart de volgende gegevens op je apparaat. Favorieten en versleutelde citaten die je toevoegt kunnen ook via je persoonlijke iCloud-account synchroniseren, zoals beschreven in deel 4:</p>
+    <ul>
+      <li><strong>Appvoorkeuren</strong> — meldingsschema, visueel thema en instellingen van citatenverzamelingen, bewaard in Apples <code>UserDefaults</code> en beschermd door iOS-gegevensbeveiliging wanneer je apparaat is vergrendeld</li>
+      <li><strong>Favorietenlijst</strong> — de ID’s van opgeslagen citaten, lokaal bewaard en optioneel gesynchroniseerd via iCloud (zie deel 4)</li>
+      <li><strong>Versleutelingssleutels</strong> — bewaard in de iOS-sleutelhanger en beschermd door je toegangscode en Secure Enclave</li>
+      <li><strong>Citaatbestanden</strong> — de samengevoegde citatenbibliotheek en zelf toegevoegde citaten, als AES-256-GCM-versleutelde bestanden in de appopslag met sleutels uit de sleutelhanger</li>
+    </ul>
+    <p>Citaatbestanden worden op het apparaat versleuteld met AES-256-GCM. Appvoorkeuren en instellingen gebruiken iOS-gegevensbeveiliging. Je kunt versleuteling op elk moment in de appinstellingen in- of uitschakelen; wanneer ze uitstaat vertrouwen citaatbestanden alleen op iOS-bestandsbeveiliging. De app verwijderen wist alle lokale gegevens.</p>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-icloud">
+    <h2 id="section-icloud">4. iCloud-synchronisatie</h2>
+    <p>Wanneer je op je apparaat bij iCloud bent ingelogd, synchroniseert InnerWhisper twee soorten gegevens tussen je Apple-apparaten. Alle synchronisatie verloopt volledig via Apples iCloud-infrastructuur — Moving Truth beheert geen dienst die deze gegevens ontvangt.</p>
+
+    <p><strong>Favorieten (iCloud-sleutelwaardearchief)</strong></p>
+    <ul>
+      <li>Je lijst met ID’s van favoriete citaten wordt gesynchroniseerd via Apples <code>NSUbiquitousKeyValueStore</code> API.</li>
+      <li>Alleen ondoorzichtige identificatiereeksen worden gesynchroniseerd (bijvoorbeeld <code>00000001-0000-4000-a000-000000000001</code>). Citaattekst en persoonlijke notities zijn niet inbegrepen.</li>
+    </ul>
+
+    <p><strong>Je toegevoegde citaten (iCloud-documenten)</strong></p>
+    <ul>
+      <li>Citaten die je zelf schrijft worden bewaard in een met AES-256-GCM versleuteld bestand dat via je persoonlijke iCloud-documentencontainer wordt gesynchroniseerd (<code>iCloud.ca.imposterSyndromium.InnerWhisper</code>).</li>
+      <li>De versleutelingssleutel voor dit bestand wordt via iCloud-sleutelhanger gesynchroniseerd (<code>synchronizable: true</code>), zodat dezelfde sleutel beschikbaar is op al je ingelogde apparaten.</li>
+      <li>De bestandsinhoud wordt versleuteld voordat die iCloud bereikt en is nooit als platte tekst leesbaar voor Apple of voor ons.</li>
+    </ul>
+
+    <p><a href="https://www.apple.com/legal/privacy/" target="_blank" rel="noopener">Apples privacybeleid</a> is van toepassing op alle gegevens die via iCloud worden verwerkt. Je kunt iCloud-synchronisatie voor InnerWhisper op elk moment uitschakelen in <strong>iOS Settings &rarr; [Your Name] &rarr; iCloud &rarr; Apps Using iCloud</strong>.</p>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-notifications">
+    <h2 id="section-notifications">5. Meldingen</h2>
+    <p>InnerWhisper levert dagelijkse citaten als <em>lokale meldingen</em>, volledig door iOS op je apparaat gepland en geleverd. Geen inhoud, schema of afleverbevestiging wordt naar een server verzonden.</p>
+    <p>iOS kan bij het eerste gebruik toestemming vragen voor meldingen. Je kunt die toestemming op elk moment intrekken in <strong>iOS Settings &rarr; InnerWhisper &rarr; Notifications</strong>.</p>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-third-party">
+    <h2 id="section-third-party">6. Geen diensten van derden</h2>
+    <p>InnerWhisper integreert geen analyse-, advertentie- of crashrapportagediensten van derden. De app bevat met name geen:</p>
+    <ul>
+      <li>Analyse-SDK’s (Firebase Analytics, Amplitude, Mixpanel enz.)</li>
+      <li>Advertentienetwerken of trackingpixels</li>
+      <li>Crashrapportage- of prestatiebewakingsdiensten</li>
+    </ul>
+    <p>De belangrijkste citatenbibliotheek is in de app opgenomen. De app kan ook een optioneel aanvullend citaatbestand ophalen van <code>movingtruth.github.io</code> via HTTPS bij de eerste keer laden, wanneer de lokale cache ouder is dan 24 uur of wanneer je uitdrukkelijk om een update vraagt. De aanvraag bevat geen appaccount, advertentie-ID, accounttoken, citaten, favorieten, instellingen of andere appinhoud. Zoals bij elke HTTPS-verbinding verwerkt de hostinginfrastructuur noodzakelijk verbindingsgegevens zoals een IP-adres om het bestand te leveren; Moving Truth gebruikt die aanvraag niet om je te volgen of profileren.</p>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-children">
+    <h2 id="section-children">7. Privacy van kinderen</h2>
+    <p>InnerWhisper is niet gericht op kinderen jonger dan 13 jaar. We verzamelen niet bewust persoonsgegevens van kinderen. Denk je dat een kind ons persoonsgegevens heeft gegeven, neem dan contact op via het adres hieronder; we verwijderen ze onmiddellijk.</p>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-deletion">
+    <h2 id="section-deletion">8. Gegevens bewaren en verwijderen</h2>
+    <p>Alle InnerWhisper-gegevens bestaan uitsluitend op je apparaat en in je persoonlijke iCloud-account. We hebben geen toegang en kunnen ze niet namens jou verwijderen.</p>
+    <ul>
+      <li><strong>Lokale gegevens verwijderen:</strong> Verwijder de InnerWhisper-app van je apparaat. iOS verwijdert alle bijbehorende gegevens automatisch.</li>
+      <li><strong>Met iCloud gesynchroniseerde favorieten verwijderen:</strong> Ga na het verwijderen van de app naar <strong>iOS Settings &rarr; [Your Name] &rarr; iCloud &rarr; Manage Account Storage</strong> en verwijder de iCloud-gegevens van InnerWhisper als die worden vermeld.</li>
+    </ul>
+  </section>
+
+  <section class="policy-section" aria-labelledby="section-changes">
+    <h2 id="section-changes">9. Wijzigingen in dit beleid</h2>
+    <p>We kunnen dit privacybeleid van tijd tot tijd bijwerken. Dan passen we de ingangsdatum bovenaan deze pagina aan. We raden aan dit beleid regelmatig te lezen. Als je InnerWhisper blijft gebruiken nadat wijzigingen zijn gepubliceerd, aanvaard je het bijgewerkte beleid.</p>
+  </section>
+
+  <hr>
+
+  <section class="policy-section" aria-labelledby="section-contact">
+    <h2 id="section-contact">10. Contact</h2>
+    <p>Neem bij vragen over dit privacybeleid of de gegevenspraktijken van InnerWhisper contact met ons op:</p>
+    <p>
+      E-mail: <a href="mailto:support@movingtruth.com">support@movingtruth.com</a>
+    </p>
+  </section>
+
+  <footer class="doc-footer" role="contentinfo">
+    <p><a href="index.html">← Terug naar de startpagina van InnerWhisper</a></p>
+  </footer>
+
+</div>
+</main>
+
+</body>
+</html>
