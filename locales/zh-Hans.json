@@ -1,244 +1,1025 @@
 {
-  "translations": {
-    "InnerWhisper — a daily whisper app by Moving Truth. Quotes, stillness, and reflection, delivered quietly. No account, tracking, or ads; optional sync uses your personal iCloud account.": "InnerWhisper — Moving Truth 的每日低语应用。引语、静心与反思，安静抵达。无账户、追踪或广告；可选同步使用你的个人 iCloud 账户。",
-    "InnerWhisper — by Moving Truth": "InnerWhisper — Moving Truth 出品",
-    "InnerWhisper home": "InnerWhisper 主页",
-    "Open navigation menu": "打开导航菜单",
-    "Features": "功能",
-    "Quotes": "引语",
-    "Privacy": "隐私",
-    "Download": "下载",
-    "InnerWhisper leaf": "InnerWhisper 叶片",
-    "InnerWhisper app icon": "InnerWhisper 应用图标",
-    "A quiet word, exactly when you need it.": "一句安静的话，恰好在你需要时。",
-    "InnerWhisper — a quiet word, exactly when you need it.": "InnerWhisper — 一句安静的话，恰好在你需要时。",
-    "Download on the App Store": "从 App Store 下载",
-    "📱 Download on the App Store": "📱 从 App Store 下载",
-    "Download on iOS": "下载 iOS 版",
-    "Contact Support": "联系支持",
-    "scroll to explore": "滚动探索",
-    "About InnerWhisper": "关于 InnerWhisper",
-    "One quiet word, placed gently in your day. From Moving Truth — over a thousand quotes drawn from the world’s deepest thinkers, delivered with care.": "一句安静的话，轻轻落入你的一天。来自 Moving Truth——从世界深邃思想者中精选的一千多条引语，用心送达。",
-    "A whisper, not a feed. Encrypted on your device. No account. No tracking. No ads.": "一声低语，不是信息流。在设备上加密。无账户，无追踪，无广告。",
-    "Chosen words": "精选文字",
-    "Your pace": "你的节奏",
-    "Held close": "贴近保存",
-    "Kept private": "保持私密",
-    "Simply made": "简洁制作",
-    "Visual themes": "视觉主题",
-    "Set your atmosphere.": "设定你的氛围。",
-    "Three immersive animated environments for the main quote screen, each designed to help you be present with the words in front of you.": "主引语屏幕提供三种沉浸式动态环境，每一种都帮助你与眼前文字同在。",
-    "Space theme screenshot": "太空主题截图",
-    "Deep space theme with moving stars": "繁星移动的深空主题",
-    "Deep Space": "深空",
-    "Moving stars and galaxy": "移动的星星与银河",
-    "Aurora theme screenshot": "极光主题截图",
-    "Aurora theme environment": "极光主题环境",
-    "Aurora Northern Lights": "北极光",
-    "Forest theme screenshot": "森林主题截图",
-    "Forest theme environment": "森林主题环境",
-    "Forest": "森林",
-    "Forest twilight": "森林暮色",
-    "Quote collections": "引语合集",
-    "Wisdom across traditions.": "跨越传统的智慧。",
-    "Enable the collections that speak to you. Disable the ones that don’t. Your feed, your way.": "启用与你共鸣的合集，关闭不共鸣的。你的空间，由你决定。",
-    "✨ General": "✨ 通用",
-    "⚡ Motivational": "⚡ 激励",
-    "⚖️ Stoicism": "⚖️ 斯多葛主义",
-    "🍃 Nature": "🍃 自然",
-    "🌲 Forest": "🌲 森林",
-    "🌙 Space": "🌙 太空",
-    "あ Japanese Proverbs": "あ 日本谚语",
-    "🌊 Alan Watts": "🌊 艾伦·瓦茨",
-    "🕊️ Gandhi": "🕊️ 甘地",
-    "🏛️ World Leaders": "🏛️ 世界领袖",
-    "🎭 Actors": "🎭 演员",
-    "Built for your eyes only.": "只为你而建。",
-    "InnerWhisper was designed from day one with the principle that your mental wellness data belongs to you, and only you.": "InnerWhisper 从第一天起就遵循一个原则：你的心理健康数据只属于你。",
-    "No account required — ever. Open the app and start immediately.": "永远无需账户。打开应用即可开始。",
-    "No analytics, crash reporting, or tracking sent off your device.": "不会将分析、崩溃报告或追踪数据发送出设备。",
-    "No advertising networks or third-party SDKs of any kind.": "没有任何广告网络或第三方 SDK。",
-    "Encryption keys secured in the iOS Keychain. Quote files encrypted with AES-256-GCM on disk.": "加密密钥保存在 iOS Keychain；引语文件在磁盘上使用 AES-256-GCM 加密。",
-    "Notification content is generated on-device — nothing sent to our servers.": "通知内容在设备上生成，不会发送到我们的服务器。",
-    "Favorites and your added quotes sync via Apple’s iCloud infrastructure, not ours. Apple’s privacy policy applies.": "收藏和你添加的引语通过 Apple 的 iCloud 基础设施同步，而非我们的系统。适用 Apple 隐私政策。",
-    "Privacy manifest filed with Apple: tracking disabled, no personal data types declared.": "已向 Apple 提交 Privacy Manifest：关闭追踪，未声明任何个人数据类型。",
-    "Read the full InnerWhisper Privacy Policy": "阅读完整的 InnerWhisper 隐私政策",
-    "Read the full Privacy Policy →": "阅读完整隐私政策 →",
-    "About Moving Truth": "关于 Moving Truth",
-    "Moving Truth. Opens movingtruth.com": "Moving Truth。打开 movingtruth.com",
-    "Moving Truth logo": "Moving Truth 标志",
-    "by Moving Truth": "Moving Truth 出品",
-    "Made with ♥ by Skylaur Roe": "Skylaur Roe 用 ♥ 制作",
-    "Links": "链接",
-    "🌍 Quote Collections": "🌍 引语合集",
-    "🔒 Privacy Policy": "🔒 隐私政策",
-    "💬 Quote Sources": "💬 引语来源",
-    "InnerWhisper’s quotes are drawn from public-domain works, historical writings, and widely circulated sources. We can’t guarantee every quote’s exact wording or attribution — many well-known quotes are paraphrased or disputed in origin, a well-documented issue in quotation literature. Spot something off? We’d genuinely like to know:": "InnerWhisper 的引语来自公版作品、历史文献和广泛流传的来源。我们无法保证每条引语的精确措辞或归属；许多名言经过转述或来源存疑。发现问题？我们真诚希望你告诉我们：",
-    "About-page mood": "关于页面氛围",
-    "Set the mood": "设定氛围",
-    "Now available": "现已推出",
-    "InnerWhisper is on the App Store.": "InnerWhisper 已登陆 App Store。",
-    "Download it, and let a quote find you when you need it. Questions? We're at": "下载应用，让一句引语在需要时找到你。有问题？请联系",
-    "Footer links": "页脚链接",
-    "Privacy Policy": "隐私政策",
-    "Support": "支持",
-    "© 2026 InnerWhisper by Moving Truth. Made with SwiftUI for iOS.": "© 2026 InnerWhisper，Moving Truth 出品。使用 SwiftUI 为 iOS 打造。",
-    "Privacy Policy — InnerWhisper": "隐私政策 — InnerWhisper",
-    "InnerWhisper Privacy Policy — how app data stays under your control on your device and in your personal iCloud account.": "InnerWhisper 隐私政策——应用数据如何在设备和个人 iCloud 账户中由你掌控。",
-    "← Back to Home": "← 返回主页",
-    "Effective date: 2026 • Applies to: InnerWhisper for iOS": "生效日期：2026 • 适用于：iOS 版 InnerWhisper",
-    "The short version:": "简要说明：",
-    "InnerWhisper does not collect or sell your personal data. Your app data stays on your device or, when iCloud is available, in your personal iCloud account through Apple’s systems. Moving Truth never receives your favorites or added quotes. The app can make a separate HTTPS request for an optional supplementary quote file; that request carries no app account or app content.": "InnerWhisper 不收集或出售你的个人数据。应用数据留在设备上，或在 iCloud 可用时通过 Apple 系统进入你的个人账户。Moving Truth 从不接收收藏或新增引语。应用可单独通过 HTTPS 请求可选的补充引语文件；请求不包含应用账户或内容。",
-    "1. About This Policy": "1. 关于本政策",
-    "This Privacy Policy describes how InnerWhisper (“we,” “our,” or “the app”) handles information when you use the InnerWhisper iOS application. By using the app, you agree to the practices described here.": "本政策说明使用 InnerWhisper iOS 应用时，InnerWhisper（“我们”或“应用”）如何处理信息。使用应用即表示你同意这些做法。",
-    "We are committed to your privacy. The app was designed so that Moving Truth cannot access your data: it remains on your device or, when iCloud is available, passes between your Apple devices through your personal iCloud account.": "我们重视你的隐私。应用的设计使 Moving Truth 无法访问你的数据：数据留在设备上，或在 iCloud 可用时通过个人账户在 Apple 设备间传递。",
-    "2. Information We Do Not Collect": "2. 我们不收集的信息",
-    "InnerWhisper does not collect, store, or transmit:": "InnerWhisper 不收集、存储或传输：",
-    "Your name, email address, or any identifying information": "你的姓名、电子邮件或任何身份信息",
-    "Location data of any kind": "任何位置数据",
-    "Health or wellness data you interact with in the app": "你在应用中接触的健康或身心数据",
-    "Device identifiers (IDFA, IDFV, or similar)": "设备标识符（IDFA、IDFV 等）",
-    "Usage analytics or behavioral data": "使用分析或行为数据",
-    "Crash logs or diagnostics sent to our servers": "发送到我们服务器的崩溃日志或诊断",
-    "No account is required to use InnerWhisper. Moving Truth operates no service that receives your quotes, favorites, settings, notification schedule, or other app content.": "使用 InnerWhisper 无需账户。Moving Truth 不运营接收你的引语、收藏、设置、通知计划或其他应用内容的服务。",
-    "InnerWhisper’s Apple privacy manifest declares": "InnerWhisper 的 Apple Privacy Manifest 声明",
-    "and lists no collected data types, in accordance with Apple’s privacy requirements.": "并依照 Apple 隐私要求，不列出任何收集的数据类型。",
-    "3. Data Stored on Your Device": "3. 存储在设备上的数据",
-    "The app stores the following data on your device. Favorites and encrypted quotes you add can also sync through your personal iCloud account as described in Section 4:": "应用在设备上存储以下数据。收藏和新增的加密引语也可按第 4 节通过个人 iCloud 账户同步：",
-    "App preferences": "应用偏好",
-    "— notification schedule, visual theme, and quote collection settings, stored in Apple": "— 通知计划、视觉主题与引语合集设置，存储于 Apple",
-    "and protected by iOS Data Protection when your device is locked": "并在设备锁定时受 iOS Data Protection 保护",
-    "Favorites list": "收藏列表",
-    "— the IDs of quotes you have saved, stored locally and optionally synced via iCloud (see Section 4)": "— 已保存引语的 ID，本地存储并可选择通过 iCloud 同步（见第 4 节）",
-    "Encryption keys": "加密密钥",
-    "— stored in the iOS Keychain, protected by your device passcode and Secure Enclave": "— 存储在 iOS Keychain，受设备密码和 Secure Enclave 保护",
-    "Quote files": "引语文件",
-    "— the aggregated quote library and any quotes you add yourself, stored as encrypted files in app storage, encrypted with AES-256-GCM using keys held in the Keychain": "— 汇总引语库及你新增的引语，以加密文件存储，使用 Keychain 中的密钥进行 AES-256-GCM 加密",
-    "Quote files are encrypted on disk using AES-256-GCM. App preferences and settings rely on iOS Data Protection. You can toggle encryption on or off at any time in the app’s Settings; when disabled, quote files rely on iOS file protection only. Deleting the app removes all locally stored data from your device.": "引语文件在磁盘上使用 AES-256-GCM 加密。偏好和设置依赖 iOS Data Protection。你可在 Settings 随时开关加密；关闭后仅依赖 iOS 文件保护。删除应用会移除设备上的全部本地数据。",
-    "4. iCloud Sync": "4. iCloud 同步",
-    "If you are signed in to iCloud on your device, InnerWhisper syncs two types of data across your Apple devices. All sync is handled entirely by Apple’s iCloud infrastructure — Moving Truth operates no service that receives this synced data.": "若设备已登录 iCloud，InnerWhisper 会在 Apple 设备间同步两类数据。同步完全由 Apple 的 iCloud 基础设施处理，Moving Truth 不运营接收这些数据的服务。",
-    "Favorites (iCloud Key-Value Store)": "收藏（iCloud Key-Value Store）",
-    "Your list of favorited quote IDs is synced using Apple’s": "收藏引语 ID 列表使用 Apple 的",
-    "API.": "API 同步。",
-    "Only opaque quote identifier strings are synced (e.g.,": "仅同步不透明的引语标识字符串（例如",
-    "). No quote text or personal notes are included.": "），不包含引语正文或个人笔记。",
-    "Your Added Quotes (iCloud Documents)": "你新增的引语（iCloud Documents）",
-    "Any quotes you write yourself are stored as an AES-256-GCM encrypted file synced via your personal iCloud Documents container (": "你自己撰写的引语存储为 AES-256-GCM 加密文件，通过个人 iCloud Documents 容器同步（",
-    ").": "）。",
-    "The encryption key for this file is synced via iCloud Keychain (": "该文件的加密密钥通过 iCloud Keychain 同步（",
-    "), so the same key is available on all your signed-in devices.": "），因此所有已登录设备都可获得同一密钥。",
-    "The content of the file is encrypted before it reaches iCloud and is never readable in plaintext by Apple or by us.": "文件内容在到达 iCloud 前已加密，Apple 和我们都无法读取明文。",
-    "Apple’s Privacy Policy": "Apple 隐私政策",
-    "applies to all data processed through iCloud. You can disable iCloud sync for InnerWhisper at any time in": "适用于所有经 iCloud 处理的数据。你可随时在以下位置关闭 InnerWhisper 的 iCloud 同步：",
-    "5. Push Notifications": "5. 推送通知",
-    "InnerWhisper delivers daily quote notifications as": "InnerWhisper 将每日引语作为",
-    "local notifications": "本地通知",
-    ", scheduled and delivered entirely on your device by iOS. No notification content, schedule, or delivery confirmation is transmitted to any server.": "，完全由 iOS 在设备上安排并送达。通知内容、计划或送达确认都不会传到服务器。",
-    "iOS may request permission to send notifications when you first use the app. You can revoke notification permission at any time in": "初次使用时 iOS 可能请求通知权限。你可随时在以下位置撤回：",
-    "6. No Third-Party Services": "6. 无第三方服务",
-    "InnerWhisper does not integrate with any third-party analytics, advertising, or crash-reporting services. Specifically, the app contains no:": "InnerWhisper 不集成第三方分析、广告或崩溃报告服务。具体而言，应用不包含：",
-    "Analytics SDKs (Firebase Analytics, Amplitude, Mixpanel, etc.)": "分析 SDK（Firebase Analytics、Amplitude、Mixpanel 等）",
-    "Advertising networks or tracking pixels": "广告网络或追踪像素",
-    "Crash reporting or performance monitoring services": "崩溃报告或性能监控服务",
-    "The core quote library is bundled inside the app. The app may also fetch an optional supplementary quote file from": "核心引语库内置于应用。应用也可从以下位置获取可选的补充引语文件：",
-    "via HTTPS on first load, when its local cache is more than 24 hours old, or when you explicitly request an update. The request contains no app account, advertising identifier, account token, quotes, favorites, settings, or other app content. As with any HTTPS connection, the hosting infrastructure necessarily processes connection information such as an IP address to deliver the file; Moving Truth does not use that request to track or profile you.": "首次加载、本地缓存超过 24 小时或你明确要求更新时，通过 HTTPS 请求。请求不含应用账户、广告标识符、账户令牌、引语、收藏、设置或其他内容。与任何 HTTPS 连接一样，托管基础设施需处理 IP 地址等连接信息以传送文件；Moving Truth 不用该请求追踪或分析你。",
-    "7. Children’s Privacy": "7. 儿童隐私",
-    "InnerWhisper is not directed at children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us at the address below and we will delete it promptly.": "InnerWhisper 不面向 13 岁以下儿童。我们不会有意收集儿童个人信息。若你认为儿童向我们提供了个人信息，请联系下方地址，我们会立即删除。",
-    "8. Data Retention and Deletion": "8. 数据保留与删除",
-    "All InnerWhisper data exists solely on your device and in your personal iCloud account. We have no access to it and cannot delete it on your behalf.": "所有 InnerWhisper 数据仅存在于你的设备和个人 iCloud 账户。我们无法访问，也无法代你删除。",
-    "To delete local data:": "删除本地数据：",
-    "Delete the InnerWhisper app from your device. iOS removes all associated data automatically.": "从设备删除 InnerWhisper，iOS 会自动移除所有相关数据。",
-    "To delete iCloud-synced favorites:": "删除通过 iCloud 同步的收藏：",
-    "After deleting the app, go to": "删除应用后，前往",
-    "and remove InnerWhisper’s iCloud data if listed.": "并在列出时移除 InnerWhisper 的 iCloud 数据。",
-    "9. Changes to This Policy": "9. 政策变更",
-    "We may update this Privacy Policy from time to time. When we do, we will revise the effective date at the top of this page. We encourage you to review this policy periodically. Continued use of InnerWhisper after changes are posted constitutes your acceptance of the updated policy.": "我们可能不时更新本政策，并会修改页面顶部的生效日期。请定期查看。变更发布后继续使用 InnerWhisper，即表示接受更新后的政策。",
-    "10. Contact": "10. 联系",
-    "If you have questions about this Privacy Policy or InnerWhisper’s data practices, please contact us:": "如对本政策或 InnerWhisper 的数据做法有疑问，请联系：",
-    "Email:": "电子邮件：",
-    "← Back to InnerWhisper home": "← 返回 InnerWhisper 主页",
-    "Support — InnerWhisper": "支持 — InnerWhisper",
-    "Help and direct support for InnerWhisper by Moving Truth.": "Moving Truth 为 InnerWhisper 提供帮助与直接支持。",
-    "Skip to support": "跳到支持",
-    "Home": "主页",
-    "Support navigation": "支持导航",
-    "Common support topics": "常见支持主题",
-    "Email us": "给我们发邮件",
-    "InnerWhisper Support": "InnerWhisper 支持",
-    "InnerWhisper is meant to be quiet and uncomplicated. If something gets between you and the words, start here or contact Moving Truth directly.": "InnerWhisper 本应安静而简单。如果有任何事情挡在你和文字之间，请从这里开始或直接联系 Moving Truth。",
-    "Daily notifications": "每日通知",
-    "Permission, timing, and delivery": "权限、时间与送达",
-    "Favorites and iCloud": "收藏与 iCloud",
-    "Sync across your Apple devices": "在 Apple 设备间同步",
-    "Your added quotes": "你新增的引语",
-    "Encryption, storage, and key sync": "加密、存储与密钥同步",
-    "Privacy and deletion": "隐私与删除",
-    "What stays where and how to remove it": "什么存在哪里，以及如何移除",
-    "InnerWhisper schedules quote notifications locally on your device. It does not use a Moving Truth notification server.": "InnerWhisper 在设备上本地安排引语通知，不使用 Moving Truth 通知服务器。",
-    "If notifications are not arriving, open iOS Settings, find InnerWhisper, and confirm that Notifications are allowed. Then check the notification schedule and enabled quote collections inside InnerWhisper Settings. iOS controls final delivery timing and may delay notifications in some Focus or power-saving states.": "若通知未到达，请打开 iOS Settings，找到 InnerWhisper，确认允许 Notifications；再检查应用内的通知计划和已启用合集。最终送达时间由 iOS 控制，某些 Focus 或省电状态可能造成延迟。",
-    "Favorite quote identifiers can sync through Apple’s iCloud Key-Value Store when you are signed in to iCloud. Moving Truth does not receive the list.": "登录 iCloud 后，收藏引语标识可通过 Apple 的 iCloud Key-Value Store 同步。Moving Truth 不接收该列表。",
-    "If a favorite is slow to appear on another device, confirm that both devices use the same Apple Account, have an internet connection, and allow InnerWhisper to use iCloud. Reopen the app on both devices to give iCloud another opportunity to synchronize.": "若收藏迟迟未出现在另一设备，请确认两台设备使用同一 Apple Account、连接网络并允许 InnerWhisper 使用 iCloud。重新打开两台设备上的应用，让 iCloud 再次同步。",
-    "Quotes you write are encrypted on your device before storage. When iCloud is available, the encrypted file can sync through your personal iCloud Documents container and its encryption key can sync through iCloud Keychain.": "你撰写的引语在存储前于设备上加密。iCloud 可用时，加密文件可通过个人 iCloud Documents 容器同步，密钥可通过 iCloud Keychain 同步。",
-    "If InnerWhisper says that your quotes or key are still syncing, keep the app installed, confirm that iCloud Keychain is enabled, wait a few minutes, and reopen the app. Do not reset encryption or delete the app when it holds the only copy of text you want to keep.": "若 InnerWhisper 显示引语或密钥仍在同步，请保持应用安装，确认 iCloud Keychain 已启用，等待几分钟后重开。若应用中保存着你要保留文字的唯一副本，不要重置加密或删除应用。",
-    "Quote library and optional updates": "引语库与可选更新",
-    "The core quote library is included with the app and remains available offline. InnerWhisper can also request an optional supplementary quote file over HTTPS. If that request is unavailable, the bundled library continues to work.": "核心引语库随应用提供，可离线使用。InnerWhisper 也可通过 HTTPS 请求可选补充文件。请求不可用时，内置引语库仍正常工作。",
-    "If you notice a doubtful attribution or wording, email us with the quote and the source you believe is more accurate. Please do not include any private quote you added yourself unless you deliberately want us to read it.": "若发现归属或措辞可疑，请将引语和你认为更准确的来源发给我们。除非你明确希望我们阅读，否则不要附上自己新增的私密引语。",
-    "InnerWhisper has no account, advertising, analytics, or tracking SDK. Your app data remains on your device or in your personal iCloud account through Apple’s systems. Read the": "InnerWhisper 无账户、广告、分析或追踪 SDK。应用数据留在设备上，或通过 Apple 系统留在个人 iCloud 账户。请阅读",
-    "full Privacy Policy": "完整隐私政策",
-    "for the precise storage, sync, network, and deletion boundaries.": "了解存储、同步、网络与删除的准确边界。",
-    "Deleting InnerWhisper removes its local app data. Synced data may remain in your personal iCloud account until you remove the app’s stored iCloud data through iOS Settings.": "删除 InnerWhisper 会移除本地应用数据。同步数据可能留在个人 iCloud 账户，直到你通过 iOS Settings 删除应用的 iCloud 数据。",
-    "Accessibility support": "无障碍支持",
-    "If VoiceOver, Voice Control, Larger Text, Reduce Motion, contrast, notification access, or another access need is not working gracefully, please tell us which task you were trying to complete. Accessibility problems are product problems.": "若 VoiceOver、Voice Control、Larger Text、Reduce Motion、对比度、通知访问或其他辅助需求无法顺畅工作，请告诉我们你要完成的任务。无障碍问题就是产品问题。",
-    "Email Moving Truth": "给 Moving Truth 发邮件",
-    "Include your iPhone or iPad model, iOS version, InnerWhisper version, and what happened. Please do not send private added quotes unless you intentionally want them included in the support conversation.": "请提供 iPhone 或 iPad 型号、iOS 版本、InnerWhisper 版本及发生的情况。除非你明确希望将其加入支持对话，否则不要发送私密的新增引语。",
-    "·": "·",
-    "All apps": "所有应用",
-    "Explore all Moving Truth apps": "探索所有 Moving Truth 应用"
-  },
-  "scriptTranslations": {
-    "A quiet word, exactly when you need it.": "一句安静的话，恰好在你需要时。",
-    "Moonlit": "月光",
-    "Zen Garden": "禅意庭园",
-    "Ember Night": "余烬之夜",
-    "Aurora": "极光",
-    "One quiet word, placed gently in your day. From Moving Truth — over a thousand quotes drawn from the world’s deepest thinkers, delivered with care.": "一句安静的话，轻轻落入你的一天。来自 Moving Truth——从世界深邃思想者中精选的一千多条引语，用心送达。",
-    "Chosen words": "精选文字",
-    "Your pace": "你的节奏",
-    "Held close": "贴近保存",
-    "Kept private": "保持私密",
-    "Simply made": "简洁制作",
-    "Let stillness speak.": "让静默开口。",
-    "A daily word from the world’s deepest thinkers, arriving in its own time. Gather what resonates. Let the rest pass.": "来自世界深邃思想者的每日一句，在自己的时刻抵达。收下共鸣的，让其余经过。",
-    "Curated wisdom": "精心挑选的智慧",
-    "Your schedule": "你的时间",
-    "Simply beautiful": "纯粹美好",
-    "Roots. Stillness. Growth.": "根。静默。生长。",
-    "Daily wisdom, drawn from the well of human experience. Arrive here, breath by breath, day by day. Some words take root immediately. Others need time.": "从人类经验深处汲取的每日智慧。一次呼吸、一天一天地来到这里。有些文字立刻扎根，有些需要时间。",
-    "Tended quotes": "悉心照料的引语",
-    "Morning ritual": "晨间仪式",
-    "Gathered": "已收藏",
-    "Private space": "私密空间",
-    "Natural feel": "自然感受",
-    "Something small. Sustained.": "一点微小，持续存在。",
-    "A single ember doesn’t demand your attention — it simply glows, patient and warm. One quote. One moment. Yours to keep or release.": "一枚余烬不要求你的注意，只是耐心而温暖地发光。一句引语，一个时刻，由你保留或放下。",
-    "Timed arrival": "按时抵达",
-    "Kept warm": "温暖保存",
-    "Protected": "受保护",
-    "Refined": "精炼",
-    "Imperfect. Enough.": "不完美，也足够。",
-    "Wabi-sabi finds beauty in impermanence and imperfection. This space collects the kind of words that remind you — nothing needs to be perfect to be worth keeping.": "侘寂在无常与不完美中看见美。这里收集的文字提醒你：值得保留的东西不必完美。",
-    "Honest words": "真诚的文字",
-    "Gentle rhythm": "温柔节奏",
-    "Cherished": "珍藏",
-    "Simple": "简单",
-    "Grounded": "踏实",
-    "Brief and beautiful.": "短暂而美丽。",
-    "Cherry blossoms don’t cling to the branch. Words are delivered the same way — arriving fully, then letting go. What stays with you, stays.": "樱花不会紧抓枝头。文字也这样抵达——完整出现，然后放手。留在你心里的，自会留下。",
-    "Fleeting wisdom": "转瞬的智慧",
-    "Timed release": "适时放下",
-    "Remembered": "被记住",
-    "Quiet beauty": "安静的美",
-    "Softly made": "温柔制作",
-    " mood": " — 氛围"
+  "schema": "release-fabric/catalog@2",
+  "messages": {
+    "inner-whisper.index.text.0001": {
+      "value": "InnerWhisper — Moving Truth 出品",
+      "sourceSha256": "0ac7f0d866ebda30ac5c3ba07180cafcd57a31ff3c6a4d9bceaf19e1881d0a88"
+    },
+    "inner-whisper.index.text.0002": {
+      "value": "功能",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    "inner-whisper.index.text.0003": {
+      "value": "引语",
+      "sourceSha256": "8dc37869d63b05bdda85dc47d06976975ee238de6526a124ac082a5e2fa4c533"
+    },
+    "inner-whisper.index.text.0004": {
+      "value": "隐私",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-whisper.index.text.0005": {
+      "value": "下载",
+      "sourceSha256": "d6eafe82359100423c93c5ce53c352c1b51ca1e699215fcec3f5c5dd9bf12d24"
+    },
+    "inner-whisper.index.text.0006": {
+      "value": "所有应用",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-whisper.index.text.0007": {
+      "value": "一句安静的话，恰好在你需要时。",
+      "sourceSha256": "2fe8918f5434580d3d0e982010795bdb321820932ce05aaa31460009bdd5e05f"
+    },
+    "inner-whisper.index.text.0008": {
+      "value": "InnerWhisper — 一句安静的话，恰好在你需要时。",
+      "sourceSha256": "406fe0e8e7d07cc29d31f0e23a58abcafeaa8eee4ce73448a2acd08e6d0b9554"
+    },
+    "inner-whisper.index.text.0009": {
+      "value": "下载 iOS 版",
+      "sourceSha256": "9b5b04ff74aae2bd3bf16f67aff3d6bd0ce6057615f25753344aa17241bea439"
+    },
+    "inner-whisper.index.text.0010": {
+      "value": "联系支持",
+      "sourceSha256": "f8d47b82e285ba9584ad79631b61d57c5887b2fc1ddcc29093ee7f88c4b2042d"
+    },
+    "inner-whisper.index.text.0011": {
+      "value": "滚动探索",
+      "sourceSha256": "ab07532e4272f92b25b9d24083ed1629d783f3565c64d4442064f165a8f17192"
+    },
+    "inner-whisper.index.text.0012": {
+      "value": "一句安静的话，轻轻落入你的一天。来自 Moving Truth——从世界深邃思想者中精选的一千多条引语，用心送达。",
+      "sourceSha256": "0a37b4b107efcb837e712b11ce93d4b540dfb33982a10e5d8bb416b68d8b62e8"
+    },
+    "inner-whisper.index.text.0013": {
+      "value": "一声低语，不是信息流。在设备上加密。无账户，无追踪，无广告。",
+      "sourceSha256": "a84fe3b877b6b45faaf59deea8dc2380d146220a388dfdd37db6ba92b9c0b6c1"
+    },
+    "inner-whisper.index.text.0014": {
+      "value": "精选文字",
+      "sourceSha256": "cb988770458d7108f6f7841c5adaff2481f0f53b8bcbe2ca7baaf7bc43a9d12b"
+    },
+    "inner-whisper.index.text.0015": {
+      "value": "你的节奏",
+      "sourceSha256": "d49f8d9f65e3e428b67cfd3458e09c0fcecaf93306e7f3cdbfcbe1a59bff9246"
+    },
+    "inner-whisper.index.text.0016": {
+      "value": "贴近保存",
+      "sourceSha256": "bdae4643e2ded0b08b92ef132fc8324f4b03bacdbf5300eab517b16ec1f41d27"
+    },
+    "inner-whisper.index.text.0017": {
+      "value": "保持私密",
+      "sourceSha256": "187c44112cef269684fa358a68cefa913e3d18f55b0936b55f56dbbb2ec7d43d"
+    },
+    "inner-whisper.index.text.0018": {
+      "value": "简洁制作",
+      "sourceSha256": "7afd25621d13bcd7789e577b5f33e95b88294b2c510ecbe1a3133348aff4046d"
+    },
+    "inner-whisper.index.text.0019": {
+      "value": "视觉主题",
+      "sourceSha256": "f9a374909063bc66e3c4d3348860fccc9a5cde5f80b9647727dffd6f4d38b3b2"
+    },
+    "inner-whisper.index.text.0020": {
+      "value": "设定你的氛围。",
+      "sourceSha256": "a9a36b89f678bf450b8212ee9e3a17732213b7637d13264cccf517eb5c4bf865"
+    },
+    "inner-whisper.index.text.0021": {
+      "value": "主引语屏幕提供三种沉浸式动态环境，每一种都帮助你与眼前文字同在。",
+      "sourceSha256": "8985be48c60d4a817c2d84f0329060cf1e2b83f4ed857d30cd02c3a732f72352"
+    },
+    "inner-whisper.index.text.0022": {
+      "value": "深空",
+      "sourceSha256": "36355fb3d7a9705dd5b81a8e534be4cc10345a42adc105f360beadca39bef548"
+    },
+    "inner-whisper.index.text.0023": {
+      "value": "移动的星星与银河",
+      "sourceSha256": "d1364545a6003f50258a93650345a2cd635cbe800da452c0f27cc50a9af8c417"
+    },
+    "inner-whisper.index.text.0024": {
+      "value": "北极光",
+      "sourceSha256": "a4c9d067fa0838aa2072c4bbd241196f75439d6d586a1e4447d28325ffb53539"
+    },
+    "inner-whisper.index.text.0025": {
+      "value": "森林",
+      "sourceSha256": "eed88b3afe90b755e6c7524ea01c2b5a3e75235801054adb2a3a04bb6feaaab7"
+    },
+    "inner-whisper.index.text.0026": {
+      "value": "森林暮色",
+      "sourceSha256": "73988dd48bb1922dd8dc1c4c43a97db6c140029360005190373acf197d9a54de"
+    },
+    "inner-whisper.index.text.0027": {
+      "value": "引语合集",
+      "sourceSha256": "7d5765573ac4acfafc4c18d195f29629adc6c8bc0e6ffdc1dc9b2678689e0f4e"
+    },
+    "inner-whisper.index.text.0028": {
+      "value": "跨越传统的智慧。",
+      "sourceSha256": "7bb25d6a864833f83344433a00b5f332415b2d38d44c6ab7dc9ae4d6fe1d5c4a"
+    },
+    "inner-whisper.index.text.0029": {
+      "value": "启用与你共鸣的合集，关闭不共鸣的。你的空间，由你决定。",
+      "sourceSha256": "521c23197a41dce9fe5b4b9822e0fe7a01fc73015be6166c23360a72c90ad906"
+    },
+    "inner-whisper.index.text.0030": {
+      "value": "✨ 通用",
+      "sourceSha256": "13035221ac5e9aa7399d0b43ee62b2a0ba26634b79ecadfa97b5557fff1cb991"
+    },
+    "inner-whisper.index.text.0031": {
+      "value": "⚡ 激励",
+      "sourceSha256": "52a74938eb9122c8459a91495d202ba040a998a52e14841290be2aaff3a532c5"
+    },
+    "inner-whisper.index.text.0032": {
+      "value": "⚖️ 斯多葛主义",
+      "sourceSha256": "bbab7533feaf7e7be22052211c050c195505da64bbd4b379d4b74428127ff8c6"
+    },
+    "inner-whisper.index.text.0033": {
+      "value": "🍃 自然",
+      "sourceSha256": "266d1bd2b60882357730d6367b5b865dc7a80cef6d9d18f863a6146e9088be5b"
+    },
+    "inner-whisper.index.text.0034": {
+      "value": "🌲 森林",
+      "sourceSha256": "bf3edef7d4d68f230346e34b27bd63bf61162c0c10016ad426eda5e75b02db96"
+    },
+    "inner-whisper.index.text.0035": {
+      "value": "🌙 太空",
+      "sourceSha256": "927b0c2e5f921da3dce3f16823f4d0e0024f81dac38a7c534568101d1dfeb640"
+    },
+    "inner-whisper.index.text.0036": {
+      "value": "あ 日本谚语",
+      "sourceSha256": "de5b088510be723536595797cca07ce7281f078b50533e09f3459501e23f4d2d"
+    },
+    "inner-whisper.index.text.0037": {
+      "value": "🌊 艾伦·瓦茨",
+      "sourceSha256": "e39be16595b2c8f74115f9a4fa2a3236959a8280ac6244cc2ff5ee3e291df930"
+    },
+    "inner-whisper.index.text.0038": {
+      "value": "🕊️ 甘地",
+      "sourceSha256": "775629588ffc0fae680d571c8a2d4c90626fd8d4ffb18ffec027c0d18415e497"
+    },
+    "inner-whisper.index.text.0039": {
+      "value": "🏛️ 世界领袖",
+      "sourceSha256": "25e000cf542dcdf4a10ab1e57c7987f6ce947c0db5ad1c737910fb28212eb733"
+    },
+    "inner-whisper.index.text.0040": {
+      "value": "🎭 演员",
+      "sourceSha256": "32a5ef62e4458de2dba0a3b54f8034065618c482cdb4bd37b6930c202102468a"
+    },
+    "inner-whisper.index.text.0041": {
+      "value": "只为你而建。",
+      "sourceSha256": "e08049dc7be28b0df9d5753c9013a90650f8524919ae624efaecb7872c9d769f"
+    },
+    "inner-whisper.index.text.0042": {
+      "value": "InnerWhisper 从第一天起就遵循一个原则：你的心理健康数据只属于你。",
+      "sourceSha256": "47bdc3df299eb4f6774d6d1fd7c060aa69bd84ffac0bb982259439b2b6cfdf79"
+    },
+    "inner-whisper.index.text.0043": {
+      "value": "永远无需账户。打开应用即可开始。",
+      "sourceSha256": "e89b60f25c810090fdd830d7562fc123cd2caf7914b46ec660ea22e93d354789"
+    },
+    "inner-whisper.index.text.0044": {
+      "value": "不会将分析、崩溃报告或追踪数据发送出设备。",
+      "sourceSha256": "57086800f4479c71b2a51e366d00a86a55edde1df7fa4b69914d572289a2102c"
+    },
+    "inner-whisper.index.text.0045": {
+      "value": "没有任何广告网络或第三方 SDK。",
+      "sourceSha256": "6cf40b8832ca833ed7b8ce6da59ec1983861b9d8b041b2f3e13e2968a8219a97"
+    },
+    "inner-whisper.index.text.0046": {
+      "value": "加密密钥保存在 iOS Keychain；引语文件在磁盘上使用 AES-256-GCM 加密。",
+      "sourceSha256": "9e38a1b0ab16b7bca711a917d1279ab32901e295e6861fac787f5d3c9c38271d"
+    },
+    "inner-whisper.index.text.0047": {
+      "value": "通知内容在设备上生成，不会发送到我们的服务器。",
+      "sourceSha256": "e460f2d61ec9d649cf5f15ccc51e1aae44d5bdf8539c1f2351dfc956cea33160"
+    },
+    "inner-whisper.index.text.0048": {
+      "value": "收藏和你添加的引语通过 Apple 的 iCloud 基础设施同步，而非我们的系统。适用 Apple 隐私政策。",
+      "sourceSha256": "33b4cb06aefe789a62910c03927b251d4022a1ff592201c3afaffda6562bde50"
+    },
+    "inner-whisper.index.text.0049": {
+      "value": "已向 Apple 提交 Privacy Manifest：关闭追踪，未声明任何个人数据类型。",
+      "sourceSha256": "5415eb6c60b0ff1f07b6266e08323485b4eda879b2247cc0ef2cbf3512321799"
+    },
+    "inner-whisper.index.text.0050": {
+      "value": "阅读完整隐私政策 →",
+      "sourceSha256": "f02a7103d4c944a0ec94c355874e5044ed7d363a7fefe8a8c8e1304eaf056c28"
+    },
+    "inner-whisper.index.text.0051": {
+      "value": "Moving Truth 出品",
+      "sourceSha256": "3daa3456fa0b55162e7c72b8d69a3fff181d034edf3423bcf3ce5a972cf2aab4"
+    },
+    "inner-whisper.index.text.0052": {
+      "value": "Skylaur Roe 用 ♥ 制作",
+      "sourceSha256": "305e512fb0fab67d1cc253725023b9061f3dba1b8d4f968f0f6f2615d6ada736"
+    },
+    "inner-whisper.index.text.0053": {
+      "value": "探索所有 Moving Truth 应用",
+      "sourceSha256": "1a8f383841d7faff0dd5d4232e122c1fc9c9cd70a6081e1df6caffd492edc277"
+    },
+    "inner-whisper.index.text.0054": {
+      "value": "🌍 引语合集",
+      "sourceSha256": "4fa1493da7516ee17d5cf1146161135be3f91fd4dd81a956d452caf84de79294"
+    },
+    "inner-whisper.index.text.0055": {
+      "value": "🔒 隐私政策",
+      "sourceSha256": "734035b5e2a3dec202e88bbd07efb22e1f513e5d0f9cfda0b51a1d3da5fbc236"
+    },
+    "inner-whisper.index.text.0056": {
+      "value": "💬 引语来源",
+      "sourceSha256": "95c52c90d0f5edbc53f4b9051505c3183c593ab4dddbf5c12f397f1e9df7a2a0"
+    },
+    "inner-whisper.index.text.0057": {
+      "value": "InnerWhisper 的引语来自公版作品、历史文献和广泛流传的来源。我们无法保证每条引语的精确措辞或归属；许多名言经过转述或来源存疑。发现问题？我们真诚希望你告诉我们：",
+      "sourceSha256": "a2fc097c7ceea65ba45bc0d76a4c468505d5c3e30dd5bdacb77efbcf61107651"
+    },
+    "inner-whisper.index.text.0058": {
+      "value": "设定氛围",
+      "sourceSha256": "cd7e82a4e39373da8ef574b19bbe9a6327f84123b643915df00f8c7adf412048"
+    },
+    "inner-whisper.index.text.0059": {
+      "value": "现已推出",
+      "sourceSha256": "ece3a35b6a6ac125992853db808bc7831e7d4b45aa055608f41e94aa6bd4afe9"
+    },
+    "inner-whisper.index.text.0060": {
+      "value": "InnerWhisper 已登陆 App Store。",
+      "sourceSha256": "4b8a19a7e0bd194c45fb354dcaead26f287f103983cb39764236320772bef49b"
+    },
+    "inner-whisper.index.text.0061": {
+      "value": "下载应用，让一句引语在需要时找到你。有问题？请联系",
+      "sourceSha256": "e90fbdb71004bcc19802fbbaf88f889b9150c25f696a6cf0f5638e1ff887fc0f"
+    },
+    "inner-whisper.index.text.0062": {
+      "value": "📱 从 App Store 下载",
+      "sourceSha256": "d7d6f648b27b842eb26c80c3d4f2f06acb16c7fb85a8091070668898a192940f"
+    },
+    "inner-whisper.index.text.0063": {
+      "value": "隐私政策",
+      "sourceSha256": "506ff394621596dd88138642eddfc1e41833b3ae92d95e5c77c94327098abd9a"
+    },
+    "inner-whisper.index.text.0064": {
+      "value": "支持",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-whisper.index.text.0065": {
+      "value": "功能",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    "inner-whisper.index.text.0066": {
+      "value": "隐私",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-whisper.index.text.0067": {
+      "value": "所有应用",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-whisper.index.text.0068": {
+      "value": "© 2026 InnerWhisper，Moving Truth 出品。使用 SwiftUI 为 iOS 打造。",
+      "sourceSha256": "6d671ce245bd7af26e2735b03c4fe525bedc62d9ccbbd489f697cb09845daf71"
+    },
+    "inner-whisper.index.attribute.0001": {
+      "value": "InnerWhisper — Moving Truth 的每日低语应用。引语、静心与反思，安静抵达。无账户、追踪或广告；可选同步使用你的个人 iCloud 账户。",
+      "sourceSha256": "06fc03809480fd440e040326ed053eaf863d251f70c975bcc4b50c1cc79a985a"
+    },
+    "inner-whisper.index.attribute.0002": {
+      "value": "InnerWhisper — Moving Truth 出品",
+      "sourceSha256": "0ac7f0d866ebda30ac5c3ba07180cafcd57a31ff3c6a4d9bceaf19e1881d0a88"
+    },
+    "inner-whisper.index.attribute.0003": {
+      "value": "InnerWhisper 主页",
+      "sourceSha256": "4d8038b0934744ad7ae4e4c882606c0ac2eabbebd51cae473611c66205be85ae"
+    },
+    "inner-whisper.index.attribute.0004": {
+      "value": "InnerWhisper 应用图标",
+      "sourceSha256": "5de43521f26ee0e57fb421004d6e9297349dadcbdb79ae2ed30aa80d3fe183b7"
+    },
+    "inner-whisper.index.attribute.0005": {
+      "value": "打开导航菜单",
+      "sourceSha256": "ef373a9f3656aedacc224159b6b974f7f0e1d0874f2bf688e04ec8c255f827f2"
+    },
+    "inner-whisper.index.attribute.0006": {
+      "value": "InnerWhisper 叶片",
+      "sourceSha256": "6a23d73bf8c4b58b86d4a1b2aed587e81bcefd1118c13379fbaa2261c66ee9de"
+    },
+    "inner-whisper.index.attribute.0007": {
+      "value": "从 App Store 下载",
+      "sourceSha256": "ccd534e0d967abf1ad3fdbfb48fdbb86bbcce702b83f9dca9bf549d92818367e"
+    },
+    "inner-whisper.index.attribute.0008": {
+      "value": "关于 InnerWhisper",
+      "sourceSha256": "15d583c14082fbb5b20a6594b6262ab814f233e841a77c46dd6679f09bfefaeb"
+    },
+    "inner-whisper.index.attribute.0009": {
+      "value": "功能",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    "inner-whisper.index.attribute.0010": {
+      "value": "太空主题截图",
+      "sourceSha256": "a82d5dd5e23f3848fd19d853efae0e9e0d37c1cc452216977fa87977c2c9af19"
+    },
+    "inner-whisper.index.attribute.0011": {
+      "value": "繁星移动的深空主题",
+      "sourceSha256": "d72c622ae7219e306bd48e55558ce795224c1d4cd6b77d1dd3b636c19aae700d"
+    },
+    "inner-whisper.index.attribute.0012": {
+      "value": "极光主题截图",
+      "sourceSha256": "6a5cb9622a385825c5f5c05de320c68d4d37f6177b1793fbec1ef545b4d2d8d9"
+    },
+    "inner-whisper.index.attribute.0013": {
+      "value": "极光主题环境",
+      "sourceSha256": "23f9275004d6204b6311f1c5bef3669c871e205365c0b59b5d94198dbbfd8f2d"
+    },
+    "inner-whisper.index.attribute.0014": {
+      "value": "森林主题截图",
+      "sourceSha256": "f6d929dabfb7242b3fd2d4a21e504dc7c4ed1488d7569424acb14092cc7074f4"
+    },
+    "inner-whisper.index.attribute.0015": {
+      "value": "森林主题环境",
+      "sourceSha256": "96b07e8a86d108b80b2cfa4ccc6b34154f611b3b06b7e1ba9f728c0a22ae143d"
+    },
+    "inner-whisper.index.attribute.0016": {
+      "value": "阅读完整的 InnerWhisper 隐私政策",
+      "sourceSha256": "97db98ed9e5fa52b52cd1647b4814b193e55f45463d728c2d3622181d4f0edc8"
+    },
+    "inner-whisper.index.attribute.0017": {
+      "value": "关于 Moving Truth",
+      "sourceSha256": "9e010112763306f8c869449c867a0a6e7bd9a0f2207e01ee92965346f2bf5cbe"
+    },
+    "inner-whisper.index.attribute.0018": {
+      "value": "Moving Truth。打开 movingtruth.com",
+      "sourceSha256": "5b7032d6f78452d2eb6600a557b42ecdf67966e8dc057586856fb65f9f1aaa08"
+    },
+    "inner-whisper.index.attribute.0019": {
+      "value": "Moving Truth 标志",
+      "sourceSha256": "3c19c00420a1f78422a5cdb3fe3d6d00e2c33c24e5cb83ec54b8459b70b8fbb7"
+    },
+    "inner-whisper.index.attribute.0020": {
+      "value": "链接",
+      "sourceSha256": "9024c197d84940e47ff6aa631b7711c4cbff4e7fb2fe1a574a3592b662983a0d"
+    },
+    "inner-whisper.index.attribute.0021": {
+      "value": "关于页面氛围",
+      "sourceSha256": "735f268b4fea060f1734880cfcf79e212d97965fee39558532b19f1b4dae344a"
+    },
+    "inner-whisper.index.attribute.0022": {
+      "value": "InnerWhisper 应用图标",
+      "sourceSha256": "5de43521f26ee0e57fb421004d6e9297349dadcbdb79ae2ed30aa80d3fe183b7"
+    },
+    "inner-whisper.index.attribute.0023": {
+      "value": "页脚链接",
+      "sourceSha256": "b8e78ad47ec6b1e4ce82786cf3900fd8697c05d914c13ddb5cc942d2c202b83b"
+    },
+    "inner-whisper.index.script.0001": {
+      "value": "一句安静的话，恰好在你需要时。",
+      "sourceSha256": "2fe8918f5434580d3d0e982010795bdb321820932ce05aaa31460009bdd5e05f"
+    },
+    "inner-whisper.index.script.0002": {
+      "value": "精选文字",
+      "sourceSha256": "cb988770458d7108f6f7841c5adaff2481f0f53b8bcbe2ca7baaf7bc43a9d12b"
+    },
+    "inner-whisper.index.script.0003": {
+      "value": "你的节奏",
+      "sourceSha256": "d49f8d9f65e3e428b67cfd3458e09c0fcecaf93306e7f3cdbfcbe1a59bff9246"
+    },
+    "inner-whisper.index.script.0004": {
+      "value": "贴近保存",
+      "sourceSha256": "bdae4643e2ded0b08b92ef132fc8324f4b03bacdbf5300eab517b16ec1f41d27"
+    },
+    "inner-whisper.index.script.0005": {
+      "value": "保持私密",
+      "sourceSha256": "187c44112cef269684fa358a68cefa913e3d18f55b0936b55f56dbbb2ec7d43d"
+    },
+    "inner-whisper.index.script.0006": {
+      "value": "简洁制作",
+      "sourceSha256": "7afd25621d13bcd7789e577b5f33e95b88294b2c510ecbe1a3133348aff4046d"
+    },
+    "inner-whisper.index.script.0007": {
+      "value": "极光",
+      "sourceSha256": "e9de098c7733b1b9a6c985aaf3555f7cd10877a0fae0f1ecaab71fefc05d0b3a"
+    },
+    "inner-whisper.index.script.0008": {
+      "value": " — 氛围",
+      "sourceSha256": "66c02dfbdb4096b47c2356db083a0b1292b776916776400d004f4001556cb5fb"
+    },
+    "inner-whisper.index.script.0009": {
+      "value": "一句安静的话，轻轻落入你的一天。来自 Moving Truth——从世界深邃思想者中精选的一千多条引语，用心送达。",
+      "sourceSha256": "0a37b4b107efcb837e712b11ce93d4b540dfb33982a10e5d8bb416b68d8b62e8"
+    },
+    "inner-whisper.index.script.0010": {
+      "value": "月光",
+      "sourceSha256": "4361d21ad810cb99006604ea8d1f67083a56ec1707f74317adc47e924ddf11e4"
+    },
+    "inner-whisper.index.script.0011": {
+      "value": "让静默开口。",
+      "sourceSha256": "aea6757fbdfd3b9e898413ea31fcaeeca7b823eaad98b340ce9c95f110278e4b"
+    },
+    "inner-whisper.index.script.0012": {
+      "value": "来自世界深邃思想者的每日一句，在自己的时刻抵达。收下共鸣的，让其余经过。",
+      "sourceSha256": "572185be6c2815021a86c0f451a044e767bba89622656d82f388f2bf5d532321"
+    },
+    "inner-whisper.index.script.0013": {
+      "value": "精心挑选的智慧",
+      "sourceSha256": "32c55aaf210542011fd520b66f40f1f912ce425366b89a18766cbc5c80b816d1"
+    },
+    "inner-whisper.index.script.0014": {
+      "value": "你的时间",
+      "sourceSha256": "0dcfbd5190cf2adae4cc975c3202e70e9d2591c3466752aaca51e5a20ce8efdc"
+    },
+    "inner-whisper.index.script.0015": {
+      "value": "纯粹美好",
+      "sourceSha256": "79b363c087fd0ad2a40a3e0a1ffe2b552a16ab2bcc4b14a432ddb578fed0f222"
+    },
+    "inner-whisper.index.script.0016": {
+      "value": "禅意庭园",
+      "sourceSha256": "6b6088e05cd412981cba40fb0ab60e3ec9edc54ecfd5e0b2f4122e2c0a2b784c"
+    },
+    "inner-whisper.index.script.0017": {
+      "value": "根。静默。生长。",
+      "sourceSha256": "99cad103e37351535e0af4a1a49dbecbdc4594e5b6802f2cd6e23f778f367ca0"
+    },
+    "inner-whisper.index.script.0018": {
+      "value": "从人类经验深处汲取的每日智慧。一次呼吸、一天一天地来到这里。有些文字立刻扎根，有些需要时间。",
+      "sourceSha256": "6dd3e98730d97598b2f185dcb30517dfe0aa7f2d254ee81cfeb938582bb231a5"
+    },
+    "inner-whisper.index.script.0019": {
+      "value": "悉心照料的引语",
+      "sourceSha256": "51ce282dad0523c3910db1612ba6ebc78ce153d4e5629a79715dfdfd4127cef1"
+    },
+    "inner-whisper.index.script.0020": {
+      "value": "晨间仪式",
+      "sourceSha256": "9109ec6d44bf8027031c888e354910159f4afa31a1b1856795435c40db92b362"
+    },
+    "inner-whisper.index.script.0021": {
+      "value": "已收藏",
+      "sourceSha256": "cbc1860a640e1754024e37b60caed8cbf24e12c783ef598df21fca23b7739f30"
+    },
+    "inner-whisper.index.script.0022": {
+      "value": "私密空间",
+      "sourceSha256": "6536d2398dad1265c0d37c1c0934e3fa0e16d6f38ed02ac055e0abbd685b850a"
+    },
+    "inner-whisper.index.script.0023": {
+      "value": "自然感受",
+      "sourceSha256": "5c3c3c838d69021c1453e7d7dfbb3faa04a9c8edf7c8fbc3a34fafdc2eb2f7f1"
+    },
+    "inner-whisper.index.script.0024": {
+      "value": "余烬之夜",
+      "sourceSha256": "819554cefbf22cab5ec4501af8547b88f91872395775a8192093cab67be0daf1"
+    },
+    "inner-whisper.index.script.0025": {
+      "value": "一点微小，持续存在。",
+      "sourceSha256": "3396fc0fa7deb2c3f989e1079f792c11e04dcb84f815e7bb91ebf4f963dfd8cb"
+    },
+    "inner-whisper.index.script.0026": {
+      "value": "一枚余烬不要求你的注意，只是耐心而温暖地发光。一句引语，一个时刻，由你保留或放下。",
+      "sourceSha256": "f536040b53298515d1d0faaf6fd967c535b16f6cb5a47d4c56c3855aaaedd806"
+    },
+    "inner-whisper.index.script.0027": {
+      "value": "按时抵达",
+      "sourceSha256": "b00a80d6ff7fd4afdf12a8d4697dbdd7d23516e312f13f3e2b083e00bcf1844b"
+    },
+    "inner-whisper.index.script.0028": {
+      "value": "温暖保存",
+      "sourceSha256": "0ebb570aac6cbc684aeea6628f4a5a231d9fc604e4eaa644baea2ac169cb4602"
+    },
+    "inner-whisper.index.script.0029": {
+      "value": "受保护",
+      "sourceSha256": "b0ed263373361b8ec0ea4f86a4a6970a2e44fb0a83bb60f4dde908bca272683e"
+    },
+    "inner-whisper.index.script.0030": {
+      "value": "精炼",
+      "sourceSha256": "d81ab3063ec476535604befadd2d7543875359eb40bf563324887321eda16769"
+    },
+    "inner-whisper.index.script.0031": {
+      "value": "不完美，也足够。",
+      "sourceSha256": "228e067260afa138eb0b90ddc2cee3dde9f73640f1034869c48c1bf954280156"
+    },
+    "inner-whisper.index.script.0032": {
+      "value": "侘寂在无常与不完美中看见美。这里收集的文字提醒你：值得保留的东西不必完美。",
+      "sourceSha256": "fdd343e8577d33f6e0a68ba891e82a18d5a38923e59d0fc2e2c09fd6d9fb410b"
+    },
+    "inner-whisper.index.script.0033": {
+      "value": "真诚的文字",
+      "sourceSha256": "902aa9212389c8914d6cd2df19e1d25b3cfc65a4c95ff2b0c57385d2e7066192"
+    },
+    "inner-whisper.index.script.0034": {
+      "value": "温柔节奏",
+      "sourceSha256": "a92342eee32b139c9338dac6ec00ee7754db74690a21f6d0bc8bc996500440f0"
+    },
+    "inner-whisper.index.script.0035": {
+      "value": "珍藏",
+      "sourceSha256": "91e29155f215d2be26e4657eb09e88ffc001baa1927e9bacceda702a043f1d7e"
+    },
+    "inner-whisper.index.script.0036": {
+      "value": "简单",
+      "sourceSha256": "3fee95da5ab69ebfdc16ec892b754105a11c20203054a6c6bcc0a60176891043"
+    },
+    "inner-whisper.index.script.0037": {
+      "value": "踏实",
+      "sourceSha256": "5b6f73f04fe1a6af2dc43bebb45478862b0bd1fe079eed12f8bc2000a59bf68c"
+    },
+    "inner-whisper.index.script.0038": {
+      "value": "短暂而美丽。",
+      "sourceSha256": "734c0153b1109c04450ef156c8182541c2ec5f5d9d29ee532f7a6d772454b567"
+    },
+    "inner-whisper.index.script.0039": {
+      "value": "樱花不会紧抓枝头。文字也这样抵达——完整出现，然后放手。留在你心里的，自会留下。",
+      "sourceSha256": "61781afb82edf1099de1b13ba98f2087d0bcee0ad1ac693e8c193fa9342ba152"
+    },
+    "inner-whisper.index.script.0040": {
+      "value": "转瞬的智慧",
+      "sourceSha256": "daea37a32747c93b18ff43b3dfc152b4de9977a2ea5363c089f9f934d8050b94"
+    },
+    "inner-whisper.index.script.0041": {
+      "value": "适时放下",
+      "sourceSha256": "b80586a757f801d27e25e46b2b913041f8140dccd15dc914f6568b6018336d5c"
+    },
+    "inner-whisper.index.script.0042": {
+      "value": "被记住",
+      "sourceSha256": "a913983316ada7af9d13ea3590615911c1bba6453759f6ee6e56d214d97e976f"
+    },
+    "inner-whisper.index.script.0043": {
+      "value": "安静的美",
+      "sourceSha256": "dc1dd4ff6afebef677e77c6002e67ad7209bd7bd115c4497c69ef752f0dd5ba5"
+    },
+    "inner-whisper.index.script.0044": {
+      "value": "温柔制作",
+      "sourceSha256": "5fe9ec730b409b34e0ff019925e447784e4967dd91e9e7d63dc86ba877841e9e"
+    },
+    "inner-whisper.privacy-policy.text.0001": {
+      "value": "隐私政策 — InnerWhisper",
+      "sourceSha256": "40e0affb7c94421305c87d1ad561fe741de7f3174ba8a606ad39737ab10d9678"
+    },
+    "inner-whisper.privacy-policy.text.0002": {
+      "value": "← 返回主页",
+      "sourceSha256": "85a6fae78f2983c9a3eb734e890848e2faab63926b43fa53fa7767fdd259ddb9"
+    },
+    "inner-whisper.privacy-policy.text.0003": {
+      "value": "隐私政策",
+      "sourceSha256": "506ff394621596dd88138642eddfc1e41833b3ae92d95e5c77c94327098abd9a"
+    },
+    "inner-whisper.privacy-policy.text.0004": {
+      "value": "生效日期：2026 • 适用于：iOS 版 InnerWhisper",
+      "sourceSha256": "9511ad9d32bf2fc3123034d0f71143da95346d3bdaf76ab95fe26d0f00a11def"
+    },
+    "inner-whisper.privacy-policy.text.0005": {
+      "value": "简要说明：",
+      "sourceSha256": "b15965b78fb7b55212e89d6d88ef412bbd939f3cf1c1a7e8769fff06705538b8"
+    },
+    "inner-whisper.privacy-policy.text.0006": {
+      "value": "InnerWhisper 不收集或出售你的个人数据。应用数据留在设备上，或在 iCloud 可用时通过 Apple 系统进入你的个人账户。Moving Truth 从不接收收藏或新增引语。应用可单独通过 HTTPS 请求可选的补充引语文件；请求不包含应用账户或内容。",
+      "sourceSha256": "682fdf97dcb4d0c15413815c6d34de0da21077e7177df0a30d9b67f093e6c516"
+    },
+    "inner-whisper.privacy-policy.text.0007": {
+      "value": "1. 关于本政策",
+      "sourceSha256": "f939ba39e3a8d3a804d2bd5de1d7ef9156356eb639d3b8954a9fafd6b05b8234"
+    },
+    "inner-whisper.privacy-policy.text.0008": {
+      "value": "本政策说明使用 InnerWhisper iOS 应用时，InnerWhisper（“我们”或“应用”）如何处理信息。使用应用即表示你同意这些做法。",
+      "sourceSha256": "f7c8b9ac148f8558918f936dd32e402f10bf154ad314df1198f36e5957469829"
+    },
+    "inner-whisper.privacy-policy.text.0009": {
+      "value": "我们重视你的隐私。应用的设计使 Moving Truth 无法访问你的数据：数据留在设备上，或在 iCloud 可用时通过个人账户在 Apple 设备间传递。",
+      "sourceSha256": "2103c3beaf654701b3d9b6febfcd20caff78c2d503b4e5be4181e502a1354f92"
+    },
+    "inner-whisper.privacy-policy.text.0010": {
+      "value": "2. 我们不收集的信息",
+      "sourceSha256": "d874bd496502820aaa82180e6ce95495918d7e14290390abfc264bbfeaff345e"
+    },
+    "inner-whisper.privacy-policy.text.0011": {
+      "value": "InnerWhisper 不收集、存储或传输：",
+      "sourceSha256": "0de9ec93025af5387ec298872ab5d05947bbc72b879574efa14b81c5757a9ba4"
+    },
+    "inner-whisper.privacy-policy.text.0012": {
+      "value": "你的姓名、电子邮件或任何身份信息",
+      "sourceSha256": "82dd412b21fdb7289f3d2ce7d327c1457ab7b1236740e5d524f3af7e37f07381"
+    },
+    "inner-whisper.privacy-policy.text.0013": {
+      "value": "任何位置数据",
+      "sourceSha256": "42f051f8f4915f19a8d0fed76ca9da1758d012330da711cc8115c169860997c3"
+    },
+    "inner-whisper.privacy-policy.text.0014": {
+      "value": "你在应用中接触的健康或身心数据",
+      "sourceSha256": "207409d49671e84f19aa643d91e69d87ea249bd5a4935736cada81f4444fed2e"
+    },
+    "inner-whisper.privacy-policy.text.0015": {
+      "value": "设备标识符（IDFA、IDFV 等）",
+      "sourceSha256": "3df786df3b206e2828e98ee729bc18e45fc12f522b80ff8e4ce99ad5b8005229"
+    },
+    "inner-whisper.privacy-policy.text.0016": {
+      "value": "使用分析或行为数据",
+      "sourceSha256": "5c5e4d40c0ce998cb3c9be99debe1e80b3669f44694c6ba24434435a95fe89ea"
+    },
+    "inner-whisper.privacy-policy.text.0017": {
+      "value": "发送到我们服务器的崩溃日志或诊断",
+      "sourceSha256": "c6c3c21505b3dabdd9e32292880cc05e4ec16d7e292b19b60bc072932d6ecbbe"
+    },
+    "inner-whisper.privacy-policy.text.0018": {
+      "value": "使用 InnerWhisper 无需账户。Moving Truth 不运营接收你的引语、收藏、设置、通知计划或其他应用内容的服务。",
+      "sourceSha256": "b9306c28436c90d6138113708a1fa9192a289a22aba40eda0f9ffe33357658cd"
+    },
+    "inner-whisper.privacy-policy.text.0019": {
+      "value": "InnerWhisper 的 Apple Privacy Manifest 声明",
+      "sourceSha256": "d7c6f1d0c75dbdb13523cf97e47c499d0e5dda0d9ebbd09cbf56b15ad890f2a9"
+    },
+    "inner-whisper.privacy-policy.text.0020": {
+      "value": "并依照 Apple 隐私要求，不列出任何收集的数据类型。",
+      "sourceSha256": "66e8da332e274ce827d3f2124acfa9c911acc298c92995f30c2f87506a2f0946"
+    },
+    "inner-whisper.privacy-policy.text.0021": {
+      "value": "3. 存储在设备上的数据",
+      "sourceSha256": "2b99034e2f1f92be06660e42ff1029afe32d19f1f796764171c1d833f02f92d0"
+    },
+    "inner-whisper.privacy-policy.text.0022": {
+      "value": "应用在设备上存储以下数据。收藏和新增的加密引语也可按第 4 节通过个人 iCloud 账户同步：",
+      "sourceSha256": "904c43834481d4c8f78e008394950664a1cf0c1fd2f39ac410d352bce3b438f4"
+    },
+    "inner-whisper.privacy-policy.text.0023": {
+      "value": "应用偏好",
+      "sourceSha256": "c769a96e14b48fa37a9d7f2673c2423fe08f37e8ca116ce45897844fd5a308a4"
+    },
+    "inner-whisper.privacy-policy.text.0024": {
+      "value": "— 通知计划、视觉主题与引语合集设置，存储于 Apple",
+      "sourceSha256": "c7b53424255de8f00abc89aee954aac9966d6e12385d53430595495c3ef6d29b"
+    },
+    "inner-whisper.privacy-policy.text.0025": {
+      "value": "并在设备锁定时受 iOS Data Protection 保护",
+      "sourceSha256": "bca7255baba32240bd90766d3696acf930871e6906f5c0656ef1ee4e167e66b0"
+    },
+    "inner-whisper.privacy-policy.text.0026": {
+      "value": "收藏列表",
+      "sourceSha256": "57103a742c23ef589d4cf151120b2288f8dfab5498cacffb1fab8be2ce6316ed"
+    },
+    "inner-whisper.privacy-policy.text.0027": {
+      "value": "— 已保存引语的 ID，本地存储并可选择通过 iCloud 同步（见第 4 节）",
+      "sourceSha256": "de06f56b5bf3351f418ece324cf714b13b4a8614ff13c2d3a6284bf78235e71c"
+    },
+    "inner-whisper.privacy-policy.text.0028": {
+      "value": "加密密钥",
+      "sourceSha256": "cb29ca3bf2fa756be0783e371c3f4cdd113eb799585c61873902efa809fbbe8d"
+    },
+    "inner-whisper.privacy-policy.text.0029": {
+      "value": "— 存储在 iOS Keychain，受设备密码和 Secure Enclave 保护",
+      "sourceSha256": "f41a6fb9e5c2a46a89fc8bcc4475b6dafe1c1db87267e087a8988c177e1e0036"
+    },
+    "inner-whisper.privacy-policy.text.0030": {
+      "value": "引语文件",
+      "sourceSha256": "3464e437fd75be42fd5f53c5310a3aa53c15e436109cd767375011b820e30b03"
+    },
+    "inner-whisper.privacy-policy.text.0031": {
+      "value": "— 汇总引语库及你新增的引语，以加密文件存储，使用 Keychain 中的密钥进行 AES-256-GCM 加密",
+      "sourceSha256": "0f426819be20701ab1310d13243eb436f7dea4a72ee1eb25301e2d39ac1213e8"
+    },
+    "inner-whisper.privacy-policy.text.0032": {
+      "value": "引语文件在磁盘上使用 AES-256-GCM 加密。偏好和设置依赖 iOS Data Protection。你可在 Settings 随时开关加密；关闭后仅依赖 iOS 文件保护。删除应用会移除设备上的全部本地数据。",
+      "sourceSha256": "2149f95253cada00d9af66864c5fe244ab43f0bab9a2e36f6580d34f18532156"
+    },
+    "inner-whisper.privacy-policy.text.0033": {
+      "value": "4. iCloud 同步",
+      "sourceSha256": "4ffb68e50d547de408d09a66dfeb5523e6034d0d495f0ea108c64e0fac83e380"
+    },
+    "inner-whisper.privacy-policy.text.0034": {
+      "value": "若设备已登录 iCloud，InnerWhisper 会在 Apple 设备间同步两类数据。同步完全由 Apple 的 iCloud 基础设施处理，Moving Truth 不运营接收这些数据的服务。",
+      "sourceSha256": "473bcd2a4546234f3d0775dc73c7d330abce847de6642d6c8e04af0647b3795e"
+    },
+    "inner-whisper.privacy-policy.text.0035": {
+      "value": "收藏（iCloud Key-Value Store）",
+      "sourceSha256": "01368f4489c12ad3efb2ad170bd1ad32d03012b50ae5055fa6526994c06f3f7a"
+    },
+    "inner-whisper.privacy-policy.text.0036": {
+      "value": "收藏引语 ID 列表使用 Apple 的",
+      "sourceSha256": "c209aa3bd856269b011be67f81b494350e1adb1caca87be9e6f8c2cf29bdc7ae"
+    },
+    "inner-whisper.privacy-policy.text.0037": {
+      "value": "API 同步。",
+      "sourceSha256": "374d7824a35f0cd0d2f5dc68baa40b9902ae052f713271353a62143c133d10c5"
+    },
+    "inner-whisper.privacy-policy.text.0038": {
+      "value": "仅同步不透明的引语标识字符串（例如",
+      "sourceSha256": "cff853fe7aec1ebc8b4ca5d519bb136e858983693d7a1c2b734ca7cbf6896c48"
+    },
+    "inner-whisper.privacy-policy.text.0039": {
+      "value": "），不包含引语正文或个人笔记。",
+      "sourceSha256": "84467024bcd43f3ef147aee0b7333265d82ef90c6f591ac7b64db648cd45bff2"
+    },
+    "inner-whisper.privacy-policy.text.0040": {
+      "value": "你新增的引语（iCloud Documents）",
+      "sourceSha256": "bb6abe6817f9ec625d1bf0b4d0b40c8f8165b4fec192cd7486e5c33d56e2c8f9"
+    },
+    "inner-whisper.privacy-policy.text.0041": {
+      "value": "你自己撰写的引语存储为 AES-256-GCM 加密文件，通过个人 iCloud Documents 容器同步（",
+      "sourceSha256": "d0b6686415fbddff8745e52d4c2016f58d4ff276c28f1f09ba2a40d43092f03e"
+    },
+    "inner-whisper.privacy-policy.text.0042": {
+      "value": "）。",
+      "sourceSha256": "c4b2896a2081395e282313d6683f07c81e3339ef8b9d2b5a299ea5b626a0998f"
+    },
+    "inner-whisper.privacy-policy.text.0043": {
+      "value": "该文件的加密密钥通过 iCloud Keychain 同步（",
+      "sourceSha256": "1cd36d2112deba43f5763f6114413cd2faab93b938e735d24a81b743070d9cb6"
+    },
+    "inner-whisper.privacy-policy.text.0044": {
+      "value": "），因此所有已登录设备都可获得同一密钥。",
+      "sourceSha256": "7ca544076679be84a15b1ee80a8f237e2d7deb74e8e636d83517d0b683527212"
+    },
+    "inner-whisper.privacy-policy.text.0045": {
+      "value": "文件内容在到达 iCloud 前已加密，Apple 和我们都无法读取明文。",
+      "sourceSha256": "581226fc10b805630ed7b513fae60b848557605c36c5f47db5e39635063e96e6"
+    },
+    "inner-whisper.privacy-policy.text.0046": {
+      "value": "Apple 隐私政策",
+      "sourceSha256": "9789f3cfa8d40a4e94624574c040b9fef55348bdf21e4ba6e39b1b4a6d0a63cc"
+    },
+    "inner-whisper.privacy-policy.text.0047": {
+      "value": "适用于所有经 iCloud 处理的数据。你可随时在以下位置关闭 InnerWhisper 的 iCloud 同步：",
+      "sourceSha256": "91018ecbedef164a0760785f778171b729b57d4565e317512dcf90412535028b"
+    },
+    "inner-whisper.privacy-policy.text.0048": {
+      "value": "5. 推送通知",
+      "sourceSha256": "c14ef12a130416e728ec612780a4ee01038e51970958f2d7d9fd757c83358404"
+    },
+    "inner-whisper.privacy-policy.text.0049": {
+      "value": "InnerWhisper 将每日引语作为",
+      "sourceSha256": "a36ae589cf7afd5d9d290f9f122fb389bc2b3c04fccf1d4b2be1dd10be2bc9b1"
+    },
+    "inner-whisper.privacy-policy.text.0050": {
+      "value": "本地通知",
+      "sourceSha256": "468b9165376c932dd209b742f778413c391a475b5ae7ffd7c897255b4c77a7d1"
+    },
+    "inner-whisper.privacy-policy.text.0051": {
+      "value": "，完全由 iOS 在设备上安排并送达。通知内容、计划或送达确认都不会传到服务器。",
+      "sourceSha256": "3ef88f2e318d321c23977182a13128cd676bfc19cbef6f94eb6ffcac30c1f648"
+    },
+    "inner-whisper.privacy-policy.text.0052": {
+      "value": "初次使用时 iOS 可能请求通知权限。你可随时在以下位置撤回：",
+      "sourceSha256": "e6d6351c0eebccff755fda2de177c494ec2f249975a9f7adb14fd3952b417ebc"
+    },
+    "inner-whisper.privacy-policy.text.0053": {
+      "value": "6. 无第三方服务",
+      "sourceSha256": "b78866576d7ab0eabc16772852869aa5d406576178e0c24a2112e1c2c8d636e3"
+    },
+    "inner-whisper.privacy-policy.text.0054": {
+      "value": "InnerWhisper 不集成第三方分析、广告或崩溃报告服务。具体而言，应用不包含：",
+      "sourceSha256": "1875f574037720ecfa592051ef4ef75559b657495d7f5606c0b98b170d822603"
+    },
+    "inner-whisper.privacy-policy.text.0055": {
+      "value": "分析 SDK（Firebase Analytics、Amplitude、Mixpanel 等）",
+      "sourceSha256": "ded14b4f3ec4b519e5bcb35399ccb82ef93a2598debe309e718e794bf0121ec8"
+    },
+    "inner-whisper.privacy-policy.text.0056": {
+      "value": "广告网络或追踪像素",
+      "sourceSha256": "f7ef9adb270928df2ac994bef2942e676cc2eb69216092cef31d2f907c545aab"
+    },
+    "inner-whisper.privacy-policy.text.0057": {
+      "value": "崩溃报告或性能监控服务",
+      "sourceSha256": "a124070e53fda6f7f63fc660c6b10c8243cde0f51d8d6fc763d9980e3f2742ca"
+    },
+    "inner-whisper.privacy-policy.text.0058": {
+      "value": "核心引语库内置于应用。应用也可从以下位置获取可选的补充引语文件：",
+      "sourceSha256": "0b8280e40d139b38af6a741f21ad669a7e624d3bb7be33e034434b4e79363b7e"
+    },
+    "inner-whisper.privacy-policy.text.0059": {
+      "value": "首次加载、本地缓存超过 24 小时或你明确要求更新时，通过 HTTPS 请求。请求不含应用账户、广告标识符、账户令牌、引语、收藏、设置或其他内容。与任何 HTTPS 连接一样，托管基础设施需处理 IP 地址等连接信息以传送文件；Moving Truth 不用该请求追踪或分析你。",
+      "sourceSha256": "de2719421ae740526a697ca71b99a57e39c47d1e5697d20172f7877c2cedf114"
+    },
+    "inner-whisper.privacy-policy.text.0060": {
+      "value": "7. 儿童隐私",
+      "sourceSha256": "d79e31e712454ce7c502adebaa2e6e47572d4086e060dab4c1fa45c8e241513b"
+    },
+    "inner-whisper.privacy-policy.text.0061": {
+      "value": "InnerWhisper 不面向 13 岁以下儿童。我们不会有意收集儿童个人信息。若你认为儿童向我们提供了个人信息，请联系下方地址，我们会立即删除。",
+      "sourceSha256": "627a3dfbeab713eede889ac5522a89ba559cc40e2eef2106891adfa55722f77e"
+    },
+    "inner-whisper.privacy-policy.text.0062": {
+      "value": "8. 数据保留与删除",
+      "sourceSha256": "cd649912f37d37dcda21f08217ff3d4650f85e6806d2f64402458c9581c97128"
+    },
+    "inner-whisper.privacy-policy.text.0063": {
+      "value": "所有 InnerWhisper 数据仅存在于你的设备和个人 iCloud 账户。我们无法访问，也无法代你删除。",
+      "sourceSha256": "958edd47a61a34fec579e340d74e37f3d27f9b7495ede5dd3120cc2a7847c5c9"
+    },
+    "inner-whisper.privacy-policy.text.0064": {
+      "value": "删除本地数据：",
+      "sourceSha256": "f5db43b949eb0a10bb5f7feef59c6e48b1e5f135c12cb9911c65b98483c6ec5f"
+    },
+    "inner-whisper.privacy-policy.text.0065": {
+      "value": "从设备删除 InnerWhisper，iOS 会自动移除所有相关数据。",
+      "sourceSha256": "5d6a175f236de1ac6db923bb6f7f457a28cb385744feddade95008f3fb3eba01"
+    },
+    "inner-whisper.privacy-policy.text.0066": {
+      "value": "删除通过 iCloud 同步的收藏：",
+      "sourceSha256": "bcb1d425f4a251b94ebf7bcc6b06dbbc35a81cc3ce97de09290513e9e658d557"
+    },
+    "inner-whisper.privacy-policy.text.0067": {
+      "value": "删除应用后，前往",
+      "sourceSha256": "44c2cb78550e70363c0f446ddf56a6cfa5d2ae6704309c8e709578be05b02bf1"
+    },
+    "inner-whisper.privacy-policy.text.0068": {
+      "value": "并在列出时移除 InnerWhisper 的 iCloud 数据。",
+      "sourceSha256": "4ceda1b238e1ab5ac1cbc3f71b7da57453a430b24a37c6a3fba26700c985139c"
+    },
+    "inner-whisper.privacy-policy.text.0069": {
+      "value": "9. 政策变更",
+      "sourceSha256": "90b39c181ac6a82fb0737bbb96872a3a3a091e1be9c7a7dcd7d99d6e66ef7f3c"
+    },
+    "inner-whisper.privacy-policy.text.0070": {
+      "value": "我们可能不时更新本政策，并会修改页面顶部的生效日期。请定期查看。变更发布后继续使用 InnerWhisper，即表示接受更新后的政策。",
+      "sourceSha256": "c0371f5f1268c112021938552ce3eeba5e0089343d484d439251b952d83bc1ea"
+    },
+    "inner-whisper.privacy-policy.text.0071": {
+      "value": "10. 联系",
+      "sourceSha256": "2f41786a75a2b2cb39fb0078d952bdcc91e0b3144b4bf6a1d777e7c9ffea0f88"
+    },
+    "inner-whisper.privacy-policy.text.0072": {
+      "value": "如对本政策或 InnerWhisper 的数据做法有疑问，请联系：",
+      "sourceSha256": "9d4ea5e0f263e75eeabbb5d9bf4995a24ab19b4936e819f6c7c28429b2ccc946"
+    },
+    "inner-whisper.privacy-policy.text.0073": {
+      "value": "电子邮件：",
+      "sourceSha256": "17507dcf845793fab0da66594804a4ca956ba284bcf36f4cef09e0a0a50c421a"
+    },
+    "inner-whisper.privacy-policy.text.0074": {
+      "value": "← 返回 InnerWhisper 主页",
+      "sourceSha256": "bca41695343bb5d4629281b9509398816049ec23657d80af0d4a72ccbe52b222"
+    },
+    "inner-whisper.privacy-policy.attribute.0001": {
+      "value": "InnerWhisper 隐私政策——应用数据如何在设备和个人 iCloud 账户中由你掌控。",
+      "sourceSha256": "3760e1dc998480d2b8a7004c54a2c93b17cfe7f05b002ad48c1eb13432960f4d"
+    },
+    "inner-whisper.privacy-policy.attribute.0002": {
+      "value": "InnerWhisper 主页",
+      "sourceSha256": "4d8038b0934744ad7ae4e4c882606c0ac2eabbebd51cae473611c66205be85ae"
+    },
+    "inner-whisper.privacy-policy.attribute.0003": {
+      "value": "InnerWhisper 应用图标",
+      "sourceSha256": "5de43521f26ee0e57fb421004d6e9297349dadcbdb79ae2ed30aa80d3fe183b7"
+    },
+    "inner-whisper.support.text.0001": {
+      "value": "支持 — InnerWhisper",
+      "sourceSha256": "0a2e5e3fe05658ac83fbf189bba300f66cc076d82491cc9c6156c4b6cfc6471b"
+    },
+    "inner-whisper.support.text.0002": {
+      "value": "跳到支持",
+      "sourceSha256": "49fc540da4953ba81e4675082a1aeac85858d8b7252da90d30c61413f338be2d"
+    },
+    "inner-whisper.support.text.0003": {
+      "value": "主页",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-whisper.support.text.0004": {
+      "value": "隐私",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-whisper.support.text.0005": {
+      "value": "给我们发邮件",
+      "sourceSha256": "d9172c43bec620b2f327bc61666c5225489d09ce0341fd2becc3a9889de8531a"
+    },
+    "inner-whisper.support.text.0006": {
+      "value": "InnerWhisper 支持",
+      "sourceSha256": "8eced69a2ecd56be783f5d0fbd5cf5a9ad8819a4125fb7b70acc6126d2bb41a5"
+    },
+    "inner-whisper.support.text.0007": {
+      "value": "InnerWhisper 本应安静而简单。如果有任何事情挡在你和文字之间，请从这里开始或直接联系 Moving Truth。",
+      "sourceSha256": "06d29233991ccd54e7f2e75550aa6b54f29c509fabb61d8d47c74065059838b2"
+    },
+    "inner-whisper.support.text.0008": {
+      "value": "每日通知",
+      "sourceSha256": "8caec8e6ba48e7429522a281aa9403734996e37f35384bf3f992ce2872e83fa6"
+    },
+    "inner-whisper.support.text.0009": {
+      "value": "权限、时间与送达",
+      "sourceSha256": "f0d52c89084245a5f24df75c01873f5577b823ae3570766fc4533a61ba5578ed"
+    },
+    "inner-whisper.support.text.0010": {
+      "value": "收藏与 iCloud",
+      "sourceSha256": "53645c28b7fc81193c417dd914ded2681ec72c5435674c06056cd3091d2e36fd"
+    },
+    "inner-whisper.support.text.0011": {
+      "value": "在 Apple 设备间同步",
+      "sourceSha256": "a62cac007967c6cdd4191d0d97794c5fa8ae03d5be5f9fd43237e199c0521f15"
+    },
+    "inner-whisper.support.text.0012": {
+      "value": "你新增的引语",
+      "sourceSha256": "8da5acfbc539e1d68dc82299b3bf93cb5eda68baad837cd17aae6c0bf427cc0c"
+    },
+    "inner-whisper.support.text.0013": {
+      "value": "加密、存储与密钥同步",
+      "sourceSha256": "8c0db78aa893c52decb529c8a58f6840edd291a086627e13ff1931af3b288eda"
+    },
+    "inner-whisper.support.text.0014": {
+      "value": "隐私与删除",
+      "sourceSha256": "f9e0019b70c750acc3bf656642a92e858b5460d71637e8ad0031e0a429c3e24d"
+    },
+    "inner-whisper.support.text.0015": {
+      "value": "什么存在哪里，以及如何移除",
+      "sourceSha256": "8300a4f97655612362525344d6f9c3c2769e82a973bc318383c09eb9f53d7e43"
+    },
+    "inner-whisper.support.text.0016": {
+      "value": "每日通知",
+      "sourceSha256": "8caec8e6ba48e7429522a281aa9403734996e37f35384bf3f992ce2872e83fa6"
+    },
+    "inner-whisper.support.text.0017": {
+      "value": "InnerWhisper 在设备上本地安排引语通知，不使用 Moving Truth 通知服务器。",
+      "sourceSha256": "1e8a0c1592b6290313764fec68958cb772d887dad85c95c826de2d9d0240a6fe"
+    },
+    "inner-whisper.support.text.0018": {
+      "value": "若通知未到达，请打开 iOS Settings，找到 InnerWhisper，确认允许 Notifications；再检查应用内的通知计划和已启用合集。最终送达时间由 iOS 控制，某些 Focus 或省电状态可能造成延迟。",
+      "sourceSha256": "3010777d6bbbd51cc6135cebe87bbe7be7cca18d54c4704cbeccf31b6da6da67"
+    },
+    "inner-whisper.support.text.0019": {
+      "value": "收藏与 iCloud",
+      "sourceSha256": "53645c28b7fc81193c417dd914ded2681ec72c5435674c06056cd3091d2e36fd"
+    },
+    "inner-whisper.support.text.0020": {
+      "value": "登录 iCloud 后，收藏引语标识可通过 Apple 的 iCloud Key-Value Store 同步。Moving Truth 不接收该列表。",
+      "sourceSha256": "62dcf3b82afb65a51aa04a5e10c55533a2150bb21e6492289c4f06c7ad66e643"
+    },
+    "inner-whisper.support.text.0021": {
+      "value": "若收藏迟迟未出现在另一设备，请确认两台设备使用同一 Apple Account、连接网络并允许 InnerWhisper 使用 iCloud。重新打开两台设备上的应用，让 iCloud 再次同步。",
+      "sourceSha256": "0cc7cadfd97828a752c07613aa59db1a91fa213c317fb55acf5ec018dc25dea5"
+    },
+    "inner-whisper.support.text.0022": {
+      "value": "你新增的引语",
+      "sourceSha256": "8da5acfbc539e1d68dc82299b3bf93cb5eda68baad837cd17aae6c0bf427cc0c"
+    },
+    "inner-whisper.support.text.0023": {
+      "value": "你撰写的引语在存储前于设备上加密。iCloud 可用时，加密文件可通过个人 iCloud Documents 容器同步，密钥可通过 iCloud Keychain 同步。",
+      "sourceSha256": "bfedbf2fd7a2a47ae3a1e4c683012b5ccca6b2616335d66c484b08fd9cc7f80a"
+    },
+    "inner-whisper.support.text.0024": {
+      "value": "若 InnerWhisper 显示引语或密钥仍在同步，请保持应用安装，确认 iCloud Keychain 已启用，等待几分钟后重开。若应用中保存着你要保留文字的唯一副本，不要重置加密或删除应用。",
+      "sourceSha256": "b9b15c581ba000b778d02f65b8ea3d6c52436e88ad099ae1b1884cc05a89148d"
+    },
+    "inner-whisper.support.text.0025": {
+      "value": "引语库与可选更新",
+      "sourceSha256": "2d2d625aab3b12732a2e74c539814da6871d1d316d546d85af0372c1f5f6815f"
+    },
+    "inner-whisper.support.text.0026": {
+      "value": "核心引语库随应用提供，可离线使用。InnerWhisper 也可通过 HTTPS 请求可选补充文件。请求不可用时，内置引语库仍正常工作。",
+      "sourceSha256": "00a26faea63af2474a8e61992e58f82a9f5f67dbcf312ea8f7743fcb7817f2b9"
+    },
+    "inner-whisper.support.text.0027": {
+      "value": "若发现归属或措辞可疑，请将引语和你认为更准确的来源发给我们。除非你明确希望我们阅读，否则不要附上自己新增的私密引语。",
+      "sourceSha256": "50832f426a67e060fbbb511bf794400361b3f86a6d42ca88d1c972601befcdc5"
+    },
+    "inner-whisper.support.text.0028": {
+      "value": "隐私与删除",
+      "sourceSha256": "f9e0019b70c750acc3bf656642a92e858b5460d71637e8ad0031e0a429c3e24d"
+    },
+    "inner-whisper.support.text.0029": {
+      "value": "InnerWhisper 无账户、广告、分析或追踪 SDK。应用数据留在设备上，或通过 Apple 系统留在个人 iCloud 账户。请阅读",
+      "sourceSha256": "1a35e943001339cafa2a999d31d6a1b9059f9a9fff57b919a54009588fca8050"
+    },
+    "inner-whisper.support.text.0030": {
+      "value": "完整隐私政策",
+      "sourceSha256": "ce726049cfb146092149684232d2034ebf351a0dd4229ab9107dc45c79a5bc0f"
+    },
+    "inner-whisper.support.text.0031": {
+      "value": "了解存储、同步、网络与删除的准确边界。",
+      "sourceSha256": "20e1999fbe92cb1b147e6c39feb2302bf437b636ea019be9cf1652a842d53554"
+    },
+    "inner-whisper.support.text.0032": {
+      "value": "删除 InnerWhisper 会移除本地应用数据。同步数据可能留在个人 iCloud 账户，直到你通过 iOS Settings 删除应用的 iCloud 数据。",
+      "sourceSha256": "9728ccb8595efd62e372b242003ba1b522d819b07136619e99aeb7108822381c"
+    },
+    "inner-whisper.support.text.0033": {
+      "value": "无障碍支持",
+      "sourceSha256": "429f5d39ccc2f70ddc86028c1b7db989938503ce0e3b61415fbd86bdef7b11b2"
+    },
+    "inner-whisper.support.text.0034": {
+      "value": "若 VoiceOver、Voice Control、Larger Text、Reduce Motion、对比度、通知访问或其他辅助需求无法顺畅工作，请告诉我们你要完成的任务。无障碍问题就是产品问题。",
+      "sourceSha256": "6c469261cab79274e99291e859bf3f0e69c71d96709a5371ea62bea4cd268cb6"
+    },
+    "inner-whisper.support.text.0035": {
+      "value": "给 Moving Truth 发邮件",
+      "sourceSha256": "8d419c582e4a3c2533d874feb8855c30f4d1dcd4ff4be9ae6f1a353a5f190224"
+    },
+    "inner-whisper.support.text.0036": {
+      "value": "请提供 iPhone 或 iPad 型号、iOS 版本、InnerWhisper 版本及发生的情况。除非你明确希望将其加入支持对话，否则不要发送私密的新增引语。",
+      "sourceSha256": "823e2d89e7842e1990486cf857b65c7c16841eb40cf87ea4988067cef6c2bd34"
+    },
+    "inner-whisper.support.text.0037": {
+      "value": "← 返回 InnerWhisper 主页",
+      "sourceSha256": "bca41695343bb5d4629281b9509398816049ec23657d80af0d4a72ccbe52b222"
+    },
+    "inner-whisper.support.text.0038": {
+      "value": "·",
+      "sourceSha256": "a137f17a19a09cbe511ba654931ed30fd9c52205140ec096fa6180f1a0577546"
+    },
+    "inner-whisper.support.text.0039": {
+      "value": "隐私政策",
+      "sourceSha256": "506ff394621596dd88138642eddfc1e41833b3ae92d95e5c77c94327098abd9a"
+    },
+    "inner-whisper.support.attribute.0001": {
+      "value": "Moving Truth 为 InnerWhisper 提供帮助与直接支持。",
+      "sourceSha256": "bc93225e6a82f4bb8dcc7c70ec8253c5e866e7ae4528dc1845c6da8f00792b9c"
+    },
+    "inner-whisper.support.attribute.0002": {
+      "value": "InnerWhisper 主页",
+      "sourceSha256": "4d8038b0934744ad7ae4e4c882606c0ac2eabbebd51cae473611c66205be85ae"
+    },
+    "inner-whisper.support.attribute.0003": {
+      "value": "支持导航",
+      "sourceSha256": "7b7e157a2b9186fd1c9e0c78ad0cd48392273430f90e661487aea3256e12569e"
+    },
+    "inner-whisper.support.attribute.0004": {
+      "value": "常见支持主题",
+      "sourceSha256": "b85a539eae9acb1c88f7caa27b161dde4c07b25145ee0f11bf6d549089acb0c2"
+    }
   }
 }

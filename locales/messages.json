@@ -1,0 +1,2047 @@
+{
+  "schema": "release-fabric/messages@1",
+  "site": "inner-whisper",
+  "messages": [
+    {
+      "id": "inner-whisper.index.text.0001",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/head[1]/title[1]/text()[1]",
+      "source": "InnerWhisper — by Moving Truth",
+      "sourceSha256": "0ac7f0d866ebda30ac5c3ba07180cafcd57a31ff3c6a4d9bceaf19e1881d0a88"
+    },
+    {
+      "id": "inner-whisper.index.text.0002",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/header[1]/ul[1]/li[1]/a[1]/text()[1]",
+      "source": "Features",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    {
+      "id": "inner-whisper.index.text.0003",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/header[1]/ul[1]/li[2]/a[1]/text()[1]",
+      "source": "Quotes",
+      "sourceSha256": "8dc37869d63b05bdda85dc47d06976975ee238de6526a124ac082a5e2fa4c533"
+    },
+    {
+      "id": "inner-whisper.index.text.0004",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/header[1]/ul[1]/li[3]/a[1]/text()[1]",
+      "source": "Privacy",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    {
+      "id": "inner-whisper.index.text.0005",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/header[1]/ul[1]/li[4]/a[1]/text()[1]",
+      "source": "Download",
+      "sourceSha256": "d6eafe82359100423c93c5ce53c352c1b51ca1e699215fcec3f5c5dd9bf12d24"
+    },
+    {
+      "id": "inner-whisper.index.text.0006",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/header[1]/ul[1]/li[5]/a[1]/text()[1]",
+      "source": "All apps",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    {
+      "id": "inner-whisper.index.text.0007",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#heroTagline/text()[1]",
+      "source": "A quiet word, exactly when you need it.",
+      "sourceSha256": "2fe8918f5434580d3d0e982010795bdb321820932ce05aaa31460009bdd5e05f"
+    },
+    {
+      "id": "inner-whisper.index.text.0008",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#hero-heading/text()[1]",
+      "source": "InnerWhisper — a quiet word, exactly when you need it.",
+      "sourceSha256": "406fe0e8e7d07cc29d31f0e23a58abcafeaa8eee4ce73448a2acd08e6d0b9554"
+    },
+    {
+      "id": "inner-whisper.index.text.0009",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#home/div[2]/a[1]/text()[1]",
+      "source": "Download on iOS",
+      "sourceSha256": "9b5b04ff74aae2bd3bf16f67aff3d6bd0ce6057615f25753344aa17241bea439"
+    },
+    {
+      "id": "inner-whisper.index.text.0010",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#home/div[2]/a[2]/text()[1]",
+      "source": "Contact Support",
+      "sourceSha256": "f8d47b82e285ba9584ad79631b61d57c5887b2fc1ddcc29093ee7f88c4b2042d"
+    },
+    {
+      "id": "inner-whisper.index.text.0011",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#home/p[2]/text()[1]",
+      "source": "scroll to explore",
+      "sourceSha256": "ab07532e4272f92b25b9d24083ed1629d783f3565c64d4442064f165a8f17192"
+    },
+    {
+      "id": "inner-whisper.index.text.0012",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#aboutText/text()[1]",
+      "source": "One quiet word, placed gently in your day. From Moving Truth — over a thousand quotes drawn from the world’s deepest thinkers, delivered with care.",
+      "sourceSha256": "0a37b4b107efcb837e712b11ce93d4b540dfb33982a10e5d8bb416b68d8b62e8"
+    },
+    {
+      "id": "inner-whisper.index.text.0013",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/section[2]/p[2]/text()[1]",
+      "source": "A whisper, not a feed. Encrypted on your device. No account. No tracking. No ads.",
+      "sourceSha256": "a84fe3b877b6b45faaf59deea8dc2380d146220a388dfdd37db6ba92b9c0b6c1"
+    },
+    {
+      "id": "inner-whisper.index.text.0014",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#features/div[1]/div[1]/span[1]/text()[1]",
+      "source": "Chosen words",
+      "sourceSha256": "cb988770458d7108f6f7841c5adaff2481f0f53b8bcbe2ca7baaf7bc43a9d12b"
+    },
+    {
+      "id": "inner-whisper.index.text.0015",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#features/div[1]/div[2]/span[1]/text()[1]",
+      "source": "Your pace",
+      "sourceSha256": "d49f8d9f65e3e428b67cfd3458e09c0fcecaf93306e7f3cdbfcbe1a59bff9246"
+    },
+    {
+      "id": "inner-whisper.index.text.0016",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#features/div[1]/div[3]/span[1]/text()[1]",
+      "source": "Held close",
+      "sourceSha256": "bdae4643e2ded0b08b92ef132fc8324f4b03bacdbf5300eab517b16ec1f41d27"
+    },
+    {
+      "id": "inner-whisper.index.text.0017",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#features/div[1]/div[4]/span[1]/text()[1]",
+      "source": "Kept private",
+      "sourceSha256": "187c44112cef269684fa358a68cefa913e3d18f55b0936b55f56dbbb2ec7d43d"
+    },
+    {
+      "id": "inner-whisper.index.text.0018",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#features/div[1]/div[5]/span[1]/text()[1]",
+      "source": "Simply made",
+      "sourceSha256": "7afd25621d13bcd7789e577b5f33e95b88294b2c510ecbe1a3133348aff4046d"
+    },
+    {
+      "id": "inner-whisper.index.text.0019",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#themes/div[1]/div[1]/span[1]/text()[1]",
+      "source": "Visual themes",
+      "sourceSha256": "f9a374909063bc66e3c4d3348860fccc9a5cde5f80b9647727dffd6f4d38b3b2"
+    },
+    {
+      "id": "inner-whisper.index.text.0020",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#themes-heading/text()[1]",
+      "source": "Set your atmosphere.",
+      "sourceSha256": "a9a36b89f678bf450b8212ee9e3a17732213b7637d13264cccf517eb5c4bf865"
+    },
+    {
+      "id": "inner-whisper.index.text.0021",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#themes/div[1]/div[1]/p[1]/text()[1]",
+      "source": "Three immersive animated environments for the main quote screen, each designed to help you be present with the words in front of you.",
+      "sourceSha256": "8985be48c60d4a817c2d84f0329060cf1e2b83f4ed857d30cd02c3a732f72352"
+    },
+    {
+      "id": "inner-whisper.index.text.0022",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#themes/div[1]/div[2]/div[1]/strong[1]/text()[1]",
+      "source": "Deep Space",
+      "sourceSha256": "36355fb3d7a9705dd5b81a8e534be4cc10345a42adc105f360beadca39bef548"
+    },
+    {
+      "id": "inner-whisper.index.text.0023",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#themes/div[1]/div[2]/div[1]/p[1]/text()[1]",
+      "source": "Moving stars and galaxy",
+      "sourceSha256": "d1364545a6003f50258a93650345a2cd635cbe800da452c0f27cc50a9af8c417"
+    },
+    {
+      "id": "inner-whisper.index.text.0024",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#themes/div[1]/div[2]/div[2]/p[1]/text()[1]",
+      "source": "Aurora Northern Lights",
+      "sourceSha256": "a4c9d067fa0838aa2072c4bbd241196f75439d6d586a1e4447d28325ffb53539"
+    },
+    {
+      "id": "inner-whisper.index.text.0025",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#themes/div[1]/div[2]/div[3]/strong[1]/text()[1]",
+      "source": "Forest",
+      "sourceSha256": "eed88b3afe90b755e6c7524ea01c2b5a3e75235801054adb2a3a04bb6feaaab7"
+    },
+    {
+      "id": "inner-whisper.index.text.0026",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#themes/div[1]/div[2]/div[3]/p[1]/text()[1]",
+      "source": "Forest twilight",
+      "sourceSha256": "73988dd48bb1922dd8dc1c4c43a97db6c140029360005190373acf197d9a54de"
+    },
+    {
+      "id": "inner-whisper.index.text.0027",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#collections/div[1]/div[1]/span[1]/text()[1]",
+      "source": "Quote collections",
+      "sourceSha256": "7d5765573ac4acfafc4c18d195f29629adc6c8bc0e6ffdc1dc9b2678689e0f4e"
+    },
+    {
+      "id": "inner-whisper.index.text.0028",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#collections-heading/text()[1]",
+      "source": "Wisdom across traditions.",
+      "sourceSha256": "7bb25d6a864833f83344433a00b5f332415b2d38d44c6ab7dc9ae4d6fe1d5c4a"
+    },
+    {
+      "id": "inner-whisper.index.text.0029",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#collections/div[1]/div[1]/p[1]/text()[1]",
+      "source": "Enable the collections that speak to you. Disable the ones that don’t. Your feed, your way.",
+      "sourceSha256": "521c23197a41dce9fe5b4b9822e0fe7a01fc73015be6166c23360a72c90ad906"
+    },
+    {
+      "id": "inner-whisper.index.text.0030",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#collections/div[1]/ul[1]/li[1]/text()[1]",
+      "source": "✨ General",
+      "sourceSha256": "13035221ac5e9aa7399d0b43ee62b2a0ba26634b79ecadfa97b5557fff1cb991"
+    },
+    {
+      "id": "inner-whisper.index.text.0031",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#collections/div[1]/ul[1]/li[2]/text()[1]",
+      "source": "⚡ Motivational",
+      "sourceSha256": "52a74938eb9122c8459a91495d202ba040a998a52e14841290be2aaff3a532c5"
+    },
+    {
+      "id": "inner-whisper.index.text.0032",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#collections/div[1]/ul[1]/li[3]/text()[1]",
+      "source": "⚖️ Stoicism",
+      "sourceSha256": "bbab7533feaf7e7be22052211c050c195505da64bbd4b379d4b74428127ff8c6"
+    },
+    {
+      "id": "inner-whisper.index.text.0033",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#collections/div[1]/ul[1]/li[4]/text()[1]",
+      "source": "🍃 Nature",
+      "sourceSha256": "266d1bd2b60882357730d6367b5b865dc7a80cef6d9d18f863a6146e9088be5b"
+    },
+    {
+      "id": "inner-whisper.index.text.0034",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#collections/div[1]/ul[1]/li[5]/text()[1]",
+      "source": "🌲 Forest",
+      "sourceSha256": "bf3edef7d4d68f230346e34b27bd63bf61162c0c10016ad426eda5e75b02db96"
+    },
+    {
+      "id": "inner-whisper.index.text.0035",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#collections/div[1]/ul[1]/li[6]/text()[1]",
+      "source": "🌙 Space",
+      "sourceSha256": "927b0c2e5f921da3dce3f16823f4d0e0024f81dac38a7c534568101d1dfeb640"
+    },
+    {
+      "id": "inner-whisper.index.text.0036",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#collections/div[1]/ul[1]/li[7]/text()[1]",
+      "source": "あ Japanese Proverbs",
+      "sourceSha256": "de5b088510be723536595797cca07ce7281f078b50533e09f3459501e23f4d2d"
+    },
+    {
+      "id": "inner-whisper.index.text.0037",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#collections/div[1]/ul[1]/li[8]/text()[1]",
+      "source": "🌊 Alan Watts",
+      "sourceSha256": "e39be16595b2c8f74115f9a4fa2a3236959a8280ac6244cc2ff5ee3e291df930"
+    },
+    {
+      "id": "inner-whisper.index.text.0038",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#collections/div[1]/ul[1]/li[9]/text()[1]",
+      "source": "🕊️ Gandhi",
+      "sourceSha256": "775629588ffc0fae680d571c8a2d4c90626fd8d4ffb18ffec027c0d18415e497"
+    },
+    {
+      "id": "inner-whisper.index.text.0039",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#collections/div[1]/ul[1]/li[10]/text()[1]",
+      "source": "🏛️ World Leaders",
+      "sourceSha256": "25e000cf542dcdf4a10ab1e57c7987f6ce947c0db5ad1c737910fb28212eb733"
+    },
+    {
+      "id": "inner-whisper.index.text.0040",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#collections/div[1]/ul[1]/li[11]/text()[1]",
+      "source": "🎭 Actors",
+      "sourceSha256": "32a5ef62e4458de2dba0a3b54f8034065618c482cdb4bd37b6930c202102468a"
+    },
+    {
+      "id": "inner-whisper.index.text.0041",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#privacy-heading/text()[1]",
+      "source": "Built for your eyes only.",
+      "sourceSha256": "e08049dc7be28b0df9d5753c9013a90650f8524919ae624efaecb7872c9d769f"
+    },
+    {
+      "id": "inner-whisper.index.text.0042",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#privacy-callout/div[1]/p[1]/text()[1]",
+      "source": "InnerWhisper was designed from day one with the principle that your mental wellness data belongs to you, and only you.",
+      "sourceSha256": "47bdc3df299eb4f6774d6d1fd7c060aa69bd84ffac0bb982259439b2b6cfdf79"
+    },
+    {
+      "id": "inner-whisper.index.text.0043",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#privacy-callout/div[1]/ul[1]/li[1]/text()[1]",
+      "source": "No account required — ever. Open the app and start immediately.",
+      "sourceSha256": "e89b60f25c810090fdd830d7562fc123cd2caf7914b46ec660ea22e93d354789"
+    },
+    {
+      "id": "inner-whisper.index.text.0044",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#privacy-callout/div[1]/ul[1]/li[2]/text()[1]",
+      "source": "No analytics, crash reporting, or tracking sent off your device.",
+      "sourceSha256": "57086800f4479c71b2a51e366d00a86a55edde1df7fa4b69914d572289a2102c"
+    },
+    {
+      "id": "inner-whisper.index.text.0045",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#privacy-callout/div[1]/ul[1]/li[3]/text()[1]",
+      "source": "No advertising networks or third-party SDKs of any kind.",
+      "sourceSha256": "6cf40b8832ca833ed7b8ce6da59ec1983861b9d8b041b2f3e13e2968a8219a97"
+    },
+    {
+      "id": "inner-whisper.index.text.0046",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#privacy-callout/div[1]/ul[1]/li[4]/text()[1]",
+      "source": "Encryption keys secured in the iOS Keychain. Quote files encrypted with AES-256-GCM on disk.",
+      "sourceSha256": "9e38a1b0ab16b7bca711a917d1279ab32901e295e6861fac787f5d3c9c38271d"
+    },
+    {
+      "id": "inner-whisper.index.text.0047",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#privacy-callout/div[1]/ul[1]/li[5]/text()[1]",
+      "source": "Notification content is generated on-device — nothing sent to our servers.",
+      "sourceSha256": "e460f2d61ec9d649cf5f15ccc51e1aae44d5bdf8539c1f2351dfc956cea33160"
+    },
+    {
+      "id": "inner-whisper.index.text.0048",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#privacy-callout/div[1]/ul[1]/li[6]/text()[1]",
+      "source": "Favorites and your added quotes sync via Apple’s iCloud infrastructure, not ours. Apple’s privacy policy applies.",
+      "sourceSha256": "33b4cb06aefe789a62910c03927b251d4022a1ff592201c3afaffda6562bde50"
+    },
+    {
+      "id": "inner-whisper.index.text.0049",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#privacy-callout/div[1]/ul[1]/li[7]/text()[1]",
+      "source": "Privacy manifest filed with Apple: tracking disabled, no personal data types declared.",
+      "sourceSha256": "5415eb6c60b0ff1f07b6266e08323485b4eda879b2247cc0ef2cbf3512321799"
+    },
+    {
+      "id": "inner-whisper.index.text.0050",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#privacy-callout/div[1]/a[1]/text()[1]",
+      "source": "Read the full Privacy Policy →",
+      "sourceSha256": "f02a7103d4c944a0ec94c355874e5044ed7d363a7fefe8a8c8e1304eaf056c28"
+    },
+    {
+      "id": "inner-whisper.index.text.0051",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/section[7]/span[2]/text()[1]",
+      "source": "by Moving Truth",
+      "sourceSha256": "3daa3456fa0b55162e7c72b8d69a3fff181d034edf3423bcf3ce5a972cf2aab4"
+    },
+    {
+      "id": "inner-whisper.index.text.0052",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/section[7]/span[3]/text()[1]",
+      "source": "Made with ♥ by Skylaur Roe",
+      "sourceSha256": "305e512fb0fab67d1cc253725023b9061f3dba1b8d4f968f0f6f2615d6ada736"
+    },
+    {
+      "id": "inner-whisper.index.text.0053",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/section[7]/a[2]/text()[1]",
+      "source": "Explore all Moving Truth apps",
+      "sourceSha256": "1a8f383841d7faff0dd5d4232e122c1fc9c9cd70a6081e1df6caffd492edc277"
+    },
+    {
+      "id": "inner-whisper.index.text.0054",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/section[8]/a[1]/text()[1]",
+      "source": "🌍 Quote Collections",
+      "sourceSha256": "4fa1493da7516ee17d5cf1146161135be3f91fd4dd81a956d452caf84de79294"
+    },
+    {
+      "id": "inner-whisper.index.text.0055",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/section[8]/a[2]/text()[1]",
+      "source": "🔒 Privacy Policy",
+      "sourceSha256": "734035b5e2a3dec202e88bbd07efb22e1f513e5d0f9cfda0b51a1d3da5fbc236"
+    },
+    {
+      "id": "inner-whisper.index.text.0056",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/section[8]/details[1]/summary[1]/text()[1]",
+      "source": "💬 Quote Sources",
+      "sourceSha256": "95c52c90d0f5edbc53f4b9051505c3183c593ab4dddbf5c12f397f1e9df7a2a0"
+    },
+    {
+      "id": "inner-whisper.index.text.0057",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/section[8]/details[1]/p[1]/text()[1]",
+      "source": "InnerWhisper’s quotes are drawn from public-domain works, historical writings, and widely circulated sources. We can’t guarantee every quote’s exact wording or attribution — many well-known quotes are paraphrased or disputed in origin, a well-documented issue in quotation literature. Spot something off? We’d genuinely like to know:",
+      "sourceSha256": "a2fc097c7ceea65ba45bc0d76a4c468505d5c3e30dd5bdacb77efbcf61107651"
+    },
+    {
+      "id": "inner-whisper.index.text.0058",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/section[9]/p[1]/text()[1]",
+      "source": "Set the mood",
+      "sourceSha256": "cd7e82a4e39373da8ef574b19bbe9a6327f84123b643915df00f8c7adf412048"
+    },
+    {
+      "id": "inner-whisper.index.text.0059",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#coming-soon/div[1]/span[1]/text()[1]",
+      "source": "Now available",
+      "sourceSha256": "ece3a35b6a6ac125992853db808bc7831e7d4b45aa055608f41e94aa6bd4afe9"
+    },
+    {
+      "id": "inner-whisper.index.text.0060",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#cta-heading/text()[1]",
+      "source": "InnerWhisper is on the App Store.",
+      "sourceSha256": "4b8a19a7e0bd194c45fb354dcaead26f287f103983cb39764236320772bef49b"
+    },
+    {
+      "id": "inner-whisper.index.text.0061",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#coming-soon/div[1]/p[1]/text()[1]",
+      "source": "Download it, and let a quote find you when you need it. Questions? We're at",
+      "sourceSha256": "e90fbdb71004bcc19802fbbaf88f889b9150c25f696a6cf0f5638e1ff887fc0f"
+    },
+    {
+      "id": "inner-whisper.index.text.0062",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#coming-soon/div[1]/a[1]/text()[1]",
+      "source": "📱 Download on the App Store",
+      "sourceSha256": "d7d6f648b27b842eb26c80c3d4f2f06acb16c7fb85a8091070668898a192940f"
+    },
+    {
+      "id": "inner-whisper.index.text.0063",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]/text()[1]",
+      "source": "Privacy Policy",
+      "sourceSha256": "506ff394621596dd88138642eddfc1e41833b3ae92d95e5c77c94327098abd9a"
+    },
+    {
+      "id": "inner-whisper.index.text.0064",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]/text()[1]",
+      "source": "Support",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    {
+      "id": "inner-whisper.index.text.0065",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]/text()[1]",
+      "source": "Features",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    {
+      "id": "inner-whisper.index.text.0066",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]/text()[1]",
+      "source": "Privacy",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    {
+      "id": "inner-whisper.index.text.0067",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]/text()[1]",
+      "source": "All apps",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    {
+      "id": "inner-whisper.index.text.0068",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/footer[1]/div[1]/p[1]/text()[1]",
+      "source": "© 2026 InnerWhisper by Moving Truth. Made with SwiftUI for iOS.",
+      "sourceSha256": "6d671ce245bd7af26e2735b03c4fe525bedc62d9ccbbd489f697cb09845daf71"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0001",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/head[1]/meta[4]/@content",
+      "source": "InnerWhisper — a daily whisper app by Moving Truth. Quotes, stillness, and reflection, delivered quietly. No account, tracking, or ads; optional sync uses your personal iCloud account.",
+      "sourceSha256": "06fc03809480fd440e040326ed053eaf863d251f70c975bcc4b50c1cc79a985a"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0002",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/head[1]/meta[5]/@content",
+      "source": "InnerWhisper — by Moving Truth",
+      "sourceSha256": "0ac7f0d866ebda30ac5c3ba07180cafcd57a31ff3c6a4d9bceaf19e1881d0a88"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0003",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/header[1]/a[1]/@aria-label",
+      "source": "InnerWhisper home",
+      "sourceSha256": "4d8038b0934744ad7ae4e4c882606c0ac2eabbebd51cae473611c66205be85ae"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0004",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/header[1]/a[1]/img[1]/@alt",
+      "source": "InnerWhisper app icon",
+      "sourceSha256": "5de43521f26ee0e57fb421004d6e9297349dadcbdb79ae2ed30aa80d3fe183b7"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0005",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/header[1]/label[1]/@aria-label",
+      "source": "Open navigation menu",
+      "sourceSha256": "ef373a9f3656aedacc224159b6b974f7f0e1d0874f2bf688e04ec8c255f827f2"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0006",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#home/div[1]/img[1]/@alt",
+      "source": "InnerWhisper leaf",
+      "sourceSha256": "6a23d73bf8c4b58b86d4a1b2aed587e81bcefd1118c13379fbaa2261c66ee9de"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0007",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#home/div[2]/a[1]/@aria-label",
+      "source": "Download on the App Store",
+      "sourceSha256": "ccd534e0d967abf1ad3fdbfb48fdbb86bbcce702b83f9dca9bf549d92818367e"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0008",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/main[1]/section[2]/@aria-label",
+      "source": "About InnerWhisper",
+      "sourceSha256": "15d583c14082fbb5b20a6594b6262ab814f233e841a77c46dd6679f09bfefaeb"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0009",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#features/@aria-label",
+      "source": "Features",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0010",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#themes/div[1]/div[2]/div[1]/div[1]/@aria-label",
+      "source": "Space theme screenshot",
+      "sourceSha256": "a82d5dd5e23f3848fd19d853efae0e9e0d37c1cc452216977fa87977c2c9af19"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0011",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#themes/div[1]/div[2]/div[1]/div[1]/img[1]/@alt",
+      "source": "Deep space theme with moving stars",
+      "sourceSha256": "d72c622ae7219e306bd48e55558ce795224c1d4cd6b77d1dd3b636c19aae700d"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0012",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#themes/div[1]/div[2]/div[2]/div[1]/@aria-label",
+      "source": "Aurora theme screenshot",
+      "sourceSha256": "6a5cb9622a385825c5f5c05de320c68d4d37f6177b1793fbec1ef545b4d2d8d9"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0013",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#themes/div[1]/div[2]/div[2]/div[1]/img[1]/@alt",
+      "source": "Aurora theme environment",
+      "sourceSha256": "23f9275004d6204b6311f1c5bef3669c871e205365c0b59b5d94198dbbfd8f2d"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0014",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#themes/div[1]/div[2]/div[3]/div[1]/@aria-label",
+      "source": "Forest theme screenshot",
+      "sourceSha256": "f6d929dabfb7242b3fd2d4a21e504dc7c4ed1488d7569424acb14092cc7074f4"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0015",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#themes/div[1]/div[2]/div[3]/div[1]/img[1]/@alt",
+      "source": "Forest theme environment",
+      "sourceSha256": "96b07e8a86d108b80b2cfa4ccc6b34154f611b3b06b7e1ba9f728c0a22ae143d"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0016",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#privacy-callout/div[1]/a[1]/@aria-label",
+      "source": "Read the full InnerWhisper Privacy Policy",
+      "sourceSha256": "97db98ed9e5fa52b52cd1647b4814b193e55f45463d728c2d3622181d4f0edc8"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0017",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/main[1]/section[7]/@aria-label",
+      "source": "About Moving Truth",
+      "sourceSha256": "9e010112763306f8c869449c867a0a6e7bd9a0f2207e01ee92965346f2bf5cbe"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0018",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/main[1]/section[7]/a[1]/@aria-label",
+      "source": "Moving Truth. Opens movingtruth.com",
+      "sourceSha256": "5b7032d6f78452d2eb6600a557b42ecdf67966e8dc057586856fb65f9f1aaa08"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0019",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/main[1]/section[7]/a[1]/div[1]/img[1]/@alt",
+      "source": "Moving Truth logo",
+      "sourceSha256": "3c19c00420a1f78422a5cdb3fe3d6d00e2c33c24e5cb83ec54b8459b70b8fbb7"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0020",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/main[1]/section[8]/@aria-label",
+      "source": "Links",
+      "sourceSha256": "9024c197d84940e47ff6aa631b7711c4cbff4e7fb2fe1a574a3592b662983a0d"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0021",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/main[1]/section[9]/@aria-label",
+      "source": "About-page mood",
+      "sourceSha256": "735f268b4fea060f1734880cfcf79e212d97965fee39558532b19f1b4dae344a"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0022",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/footer[1]/div[1]/div[1]/img[1]/@alt",
+      "source": "InnerWhisper app icon",
+      "sourceSha256": "5de43521f26ee0e57fb421004d6e9297349dadcbdb79ae2ed30aa80d3fe183b7"
+    },
+    {
+      "id": "inner-whisper.index.attribute.0023",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/@aria-label",
+      "source": "Footer links",
+      "sourceSha256": "b8e78ad47ec6b1e4ce82786cf3900fd8697c05d914c13ddb5cc942d2c202b83b"
+    },
+    {
+      "id": "inner-whisper.index.script.0001",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[1]",
+      "source": "A quiet word, exactly when you need it.",
+      "sourceSha256": "2fe8918f5434580d3d0e982010795bdb321820932ce05aaa31460009bdd5e05f"
+    },
+    {
+      "id": "inner-whisper.index.script.0002",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[2]",
+      "source": "Chosen words",
+      "sourceSha256": "cb988770458d7108f6f7841c5adaff2481f0f53b8bcbe2ca7baaf7bc43a9d12b"
+    },
+    {
+      "id": "inner-whisper.index.script.0003",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[3]",
+      "source": "Your pace",
+      "sourceSha256": "d49f8d9f65e3e428b67cfd3458e09c0fcecaf93306e7f3cdbfcbe1a59bff9246"
+    },
+    {
+      "id": "inner-whisper.index.script.0004",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[4]",
+      "source": "Held close",
+      "sourceSha256": "bdae4643e2ded0b08b92ef132fc8324f4b03bacdbf5300eab517b16ec1f41d27"
+    },
+    {
+      "id": "inner-whisper.index.script.0005",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[5]",
+      "source": "Kept private",
+      "sourceSha256": "187c44112cef269684fa358a68cefa913e3d18f55b0936b55f56dbbb2ec7d43d"
+    },
+    {
+      "id": "inner-whisper.index.script.0006",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[6]",
+      "source": "Simply made",
+      "sourceSha256": "7afd25621d13bcd7789e577b5f33e95b88294b2c510ecbe1a3133348aff4046d"
+    },
+    {
+      "id": "inner-whisper.index.script.0007",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[7]",
+      "source": "Aurora",
+      "sourceSha256": "e9de098c7733b1b9a6c985aaf3555f7cd10877a0fae0f1ecaab71fefc05d0b3a"
+    },
+    {
+      "id": "inner-whisper.index.script.0008",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[8]",
+      "source": " mood",
+      "sourceSha256": "66c02dfbdb4096b47c2356db083a0b1292b776916776400d004f4001556cb5fb"
+    },
+    {
+      "id": "inner-whisper.index.script.0009",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[9]",
+      "source": "One quiet word, placed gently in your day. From Moving Truth — over a thousand quotes drawn from the world’s deepest thinkers, delivered with care.",
+      "sourceSha256": "0a37b4b107efcb837e712b11ce93d4b540dfb33982a10e5d8bb416b68d8b62e8"
+    },
+    {
+      "id": "inner-whisper.index.script.0010",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[10]",
+      "source": "Moonlit",
+      "sourceSha256": "4361d21ad810cb99006604ea8d1f67083a56ec1707f74317adc47e924ddf11e4"
+    },
+    {
+      "id": "inner-whisper.index.script.0011",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[11]",
+      "source": "Let stillness speak.",
+      "sourceSha256": "aea6757fbdfd3b9e898413ea31fcaeeca7b823eaad98b340ce9c95f110278e4b"
+    },
+    {
+      "id": "inner-whisper.index.script.0012",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[12]",
+      "source": "A daily word from the world’s deepest thinkers, arriving in its own time. Gather what resonates. Let the rest pass.",
+      "sourceSha256": "572185be6c2815021a86c0f451a044e767bba89622656d82f388f2bf5d532321"
+    },
+    {
+      "id": "inner-whisper.index.script.0013",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[13]",
+      "source": "Curated wisdom",
+      "sourceSha256": "32c55aaf210542011fd520b66f40f1f912ce425366b89a18766cbc5c80b816d1"
+    },
+    {
+      "id": "inner-whisper.index.script.0014",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[14]",
+      "source": "Your schedule",
+      "sourceSha256": "0dcfbd5190cf2adae4cc975c3202e70e9d2591c3466752aaca51e5a20ce8efdc"
+    },
+    {
+      "id": "inner-whisper.index.script.0015",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[15]",
+      "source": "Simply beautiful",
+      "sourceSha256": "79b363c087fd0ad2a40a3e0a1ffe2b552a16ab2bcc4b14a432ddb578fed0f222"
+    },
+    {
+      "id": "inner-whisper.index.script.0016",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[16]",
+      "source": "Zen Garden",
+      "sourceSha256": "6b6088e05cd412981cba40fb0ab60e3ec9edc54ecfd5e0b2f4122e2c0a2b784c"
+    },
+    {
+      "id": "inner-whisper.index.script.0017",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[17]",
+      "source": "Roots. Stillness. Growth.",
+      "sourceSha256": "99cad103e37351535e0af4a1a49dbecbdc4594e5b6802f2cd6e23f778f367ca0"
+    },
+    {
+      "id": "inner-whisper.index.script.0018",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[18]",
+      "source": "Daily wisdom, drawn from the well of human experience. Arrive here, breath by breath, day by day. Some words take root immediately. Others need time.",
+      "sourceSha256": "6dd3e98730d97598b2f185dcb30517dfe0aa7f2d254ee81cfeb938582bb231a5"
+    },
+    {
+      "id": "inner-whisper.index.script.0019",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[19]",
+      "source": "Tended quotes",
+      "sourceSha256": "51ce282dad0523c3910db1612ba6ebc78ce153d4e5629a79715dfdfd4127cef1"
+    },
+    {
+      "id": "inner-whisper.index.script.0020",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[20]",
+      "source": "Morning ritual",
+      "sourceSha256": "9109ec6d44bf8027031c888e354910159f4afa31a1b1856795435c40db92b362"
+    },
+    {
+      "id": "inner-whisper.index.script.0021",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[21]",
+      "source": "Gathered",
+      "sourceSha256": "cbc1860a640e1754024e37b60caed8cbf24e12c783ef598df21fca23b7739f30"
+    },
+    {
+      "id": "inner-whisper.index.script.0022",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[22]",
+      "source": "Private space",
+      "sourceSha256": "6536d2398dad1265c0d37c1c0934e3fa0e16d6f38ed02ac055e0abbd685b850a"
+    },
+    {
+      "id": "inner-whisper.index.script.0023",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[23]",
+      "source": "Natural feel",
+      "sourceSha256": "5c3c3c838d69021c1453e7d7dfbb3faa04a9c8edf7c8fbc3a34fafdc2eb2f7f1"
+    },
+    {
+      "id": "inner-whisper.index.script.0024",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[24]",
+      "source": "Ember Night",
+      "sourceSha256": "819554cefbf22cab5ec4501af8547b88f91872395775a8192093cab67be0daf1"
+    },
+    {
+      "id": "inner-whisper.index.script.0025",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[25]",
+      "source": "Something small. Sustained.",
+      "sourceSha256": "3396fc0fa7deb2c3f989e1079f792c11e04dcb84f815e7bb91ebf4f963dfd8cb"
+    },
+    {
+      "id": "inner-whisper.index.script.0026",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[26]",
+      "source": "A single ember doesn’t demand your attention — it simply glows, patient and warm. One quote. One moment. Yours to keep or release.",
+      "sourceSha256": "f536040b53298515d1d0faaf6fd967c535b16f6cb5a47d4c56c3855aaaedd806"
+    },
+    {
+      "id": "inner-whisper.index.script.0027",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[27]",
+      "source": "Timed arrival",
+      "sourceSha256": "b00a80d6ff7fd4afdf12a8d4697dbdd7d23516e312f13f3e2b083e00bcf1844b"
+    },
+    {
+      "id": "inner-whisper.index.script.0028",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[28]",
+      "source": "Kept warm",
+      "sourceSha256": "0ebb570aac6cbc684aeea6628f4a5a231d9fc604e4eaa644baea2ac169cb4602"
+    },
+    {
+      "id": "inner-whisper.index.script.0029",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[29]",
+      "source": "Protected",
+      "sourceSha256": "b0ed263373361b8ec0ea4f86a4a6970a2e44fb0a83bb60f4dde908bca272683e"
+    },
+    {
+      "id": "inner-whisper.index.script.0030",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[30]",
+      "source": "Refined",
+      "sourceSha256": "d81ab3063ec476535604befadd2d7543875359eb40bf563324887321eda16769"
+    },
+    {
+      "id": "inner-whisper.index.script.0031",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[31]",
+      "source": "Imperfect. Enough.",
+      "sourceSha256": "228e067260afa138eb0b90ddc2cee3dde9f73640f1034869c48c1bf954280156"
+    },
+    {
+      "id": "inner-whisper.index.script.0032",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[32]",
+      "source": "Wabi-sabi finds beauty in impermanence and imperfection. This space collects the kind of words that remind you — nothing needs to be perfect to be worth keeping.",
+      "sourceSha256": "fdd343e8577d33f6e0a68ba891e82a18d5a38923e59d0fc2e2c09fd6d9fb410b"
+    },
+    {
+      "id": "inner-whisper.index.script.0033",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[33]",
+      "source": "Honest words",
+      "sourceSha256": "902aa9212389c8914d6cd2df19e1d25b3cfc65a4c95ff2b0c57385d2e7066192"
+    },
+    {
+      "id": "inner-whisper.index.script.0034",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[34]",
+      "source": "Gentle rhythm",
+      "sourceSha256": "a92342eee32b139c9338dac6ec00ee7754db74690a21f6d0bc8bc996500440f0"
+    },
+    {
+      "id": "inner-whisper.index.script.0035",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[35]",
+      "source": "Cherished",
+      "sourceSha256": "91e29155f215d2be26e4657eb09e88ffc001baa1927e9bacceda702a043f1d7e"
+    },
+    {
+      "id": "inner-whisper.index.script.0036",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[36]",
+      "source": "Simple",
+      "sourceSha256": "3fee95da5ab69ebfdc16ec892b754105a11c20203054a6c6bcc0a60176891043"
+    },
+    {
+      "id": "inner-whisper.index.script.0037",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[37]",
+      "source": "Grounded",
+      "sourceSha256": "5b6f73f04fe1a6af2dc43bebb45478862b0bd1fe079eed12f8bc2000a59bf68c"
+    },
+    {
+      "id": "inner-whisper.index.script.0038",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[38]",
+      "source": "Brief and beautiful.",
+      "sourceSha256": "734c0153b1109c04450ef156c8182541c2ec5f5d9d29ee532f7a6d772454b567"
+    },
+    {
+      "id": "inner-whisper.index.script.0039",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[39]",
+      "source": "Cherry blossoms don’t cling to the branch. Words are delivered the same way — arriving fully, then letting go. What stays with you, stays.",
+      "sourceSha256": "61781afb82edf1099de1b13ba98f2087d0bcee0ad1ac693e8c193fa9342ba152"
+    },
+    {
+      "id": "inner-whisper.index.script.0040",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[40]",
+      "source": "Fleeting wisdom",
+      "sourceSha256": "daea37a32747c93b18ff43b3dfc152b4de9977a2ea5363c089f9f934d8050b94"
+    },
+    {
+      "id": "inner-whisper.index.script.0041",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[41]",
+      "source": "Timed release",
+      "sourceSha256": "b80586a757f801d27e25e46b2b913041f8140dccd15dc914f6568b6018336d5c"
+    },
+    {
+      "id": "inner-whisper.index.script.0042",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[42]",
+      "source": "Remembered",
+      "sourceSha256": "a913983316ada7af9d13ea3590615911c1bba6453759f6ee6e56d214d97e976f"
+    },
+    {
+      "id": "inner-whisper.index.script.0043",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[43]",
+      "source": "Quiet beauty",
+      "sourceSha256": "dc1dd4ff6afebef677e77c6002e67ad7209bd7bd115c4497c69ef752f0dd5ba5"
+    },
+    {
+      "id": "inner-whisper.index.script.0044",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[44]",
+      "source": "Softly made",
+      "sourceSha256": "5fe9ec730b409b34e0ff019925e447784e4967dd91e9e7d63dc86ba877841e9e"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0001",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/head[1]/title[1]/text()[1]",
+      "source": "Privacy Policy — InnerWhisper",
+      "sourceSha256": "40e0affb7c94421305c87d1ad561fe741de7f3174ba8a606ad39737ab10d9678"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0002",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/header[1]/a[2]/text()[1]",
+      "source": "← Back to Home",
+      "sourceSha256": "85a6fae78f2983c9a3eb734e890848e2faab63926b43fa53fa7767fdd259ddb9"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0003",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/header[1]/h1[1]/text()[1]",
+      "source": "Privacy Policy",
+      "sourceSha256": "506ff394621596dd88138642eddfc1e41833b3ae92d95e5c77c94327098abd9a"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0004",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/header[1]/p[1]/text()[1]",
+      "source": "Effective date: 2026 • Applies to: InnerWhisper for iOS",
+      "sourceSha256": "9511ad9d32bf2fc3123034d0f71143da95346d3bdaf76ab95fe26d0f00a11def"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0005",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/div[1]/p[1]/strong[1]/text()[1]",
+      "source": "The short version:",
+      "sourceSha256": "b15965b78fb7b55212e89d6d88ef412bbd939f3cf1c1a7e8769fff06705538b8"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0006",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/div[1]/p[1]/text()[1]",
+      "source": "InnerWhisper does not collect or sell your personal data. Your app data stays on your device or, when iCloud is available, in your personal iCloud account through Apple’s systems. Moving Truth never receives your favorites or added quotes. The app can make a separate HTTPS request for an optional supplementary quote file; that request carries no app account or app content.",
+      "sourceSha256": "682fdf97dcb4d0c15413815c6d34de0da21077e7177df0a30d9b67f093e6c516"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0007",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "#section-intro/text()[1]",
+      "source": "1. About This Policy",
+      "sourceSha256": "f939ba39e3a8d3a804d2bd5de1d7ef9156356eb639d3b8954a9fafd6b05b8234"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0008",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[1]/p[1]/text()[1]",
+      "source": "This Privacy Policy describes how InnerWhisper (“we,” “our,” or “the app”) handles information when you use the InnerWhisper iOS application. By using the app, you agree to the practices described here.",
+      "sourceSha256": "f7c8b9ac148f8558918f936dd32e402f10bf154ad314df1198f36e5957469829"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0009",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[1]/p[2]/text()[1]",
+      "source": "We are committed to your privacy. The app was designed so that Moving Truth cannot access your data: it remains on your device or, when iCloud is available, passes between your Apple devices through your personal iCloud account.",
+      "sourceSha256": "2103c3beaf654701b3d9b6febfcd20caff78c2d503b4e5be4181e502a1354f92"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0010",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "#section-no-collect/text()[1]",
+      "source": "2. Information We Do Not Collect",
+      "sourceSha256": "d874bd496502820aaa82180e6ce95495918d7e14290390abfc264bbfeaff345e"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0011",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[2]/p[1]/text()[1]",
+      "source": "InnerWhisper does not collect, store, or transmit:",
+      "sourceSha256": "0de9ec93025af5387ec298872ab5d05947bbc72b879574efa14b81c5757a9ba4"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0012",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[2]/ul[1]/li[1]/text()[1]",
+      "source": "Your name, email address, or any identifying information",
+      "sourceSha256": "82dd412b21fdb7289f3d2ce7d327c1457ab7b1236740e5d524f3af7e37f07381"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0013",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[2]/ul[1]/li[2]/text()[1]",
+      "source": "Location data of any kind",
+      "sourceSha256": "42f051f8f4915f19a8d0fed76ca9da1758d012330da711cc8115c169860997c3"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0014",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[2]/ul[1]/li[3]/text()[1]",
+      "source": "Health or wellness data you interact with in the app",
+      "sourceSha256": "207409d49671e84f19aa643d91e69d87ea249bd5a4935736cada81f4444fed2e"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0015",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[2]/ul[1]/li[4]/text()[1]",
+      "source": "Device identifiers (IDFA, IDFV, or similar)",
+      "sourceSha256": "3df786df3b206e2828e98ee729bc18e45fc12f522b80ff8e4ce99ad5b8005229"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0016",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[2]/ul[1]/li[5]/text()[1]",
+      "source": "Usage analytics or behavioral data",
+      "sourceSha256": "5c5e4d40c0ce998cb3c9be99debe1e80b3669f44694c6ba24434435a95fe89ea"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0017",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[2]/ul[1]/li[6]/text()[1]",
+      "source": "Crash logs or diagnostics sent to our servers",
+      "sourceSha256": "c6c3c21505b3dabdd9e32292880cc05e4ec16d7e292b19b60bc072932d6ecbbe"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0018",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[2]/p[2]/text()[1]",
+      "source": "No account is required to use InnerWhisper. Moving Truth operates no service that receives your quotes, favorites, settings, notification schedule, or other app content.",
+      "sourceSha256": "b9306c28436c90d6138113708a1fa9192a289a22aba40eda0f9ffe33357658cd"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0019",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[2]/p[3]/text()[1]",
+      "source": "InnerWhisper’s Apple privacy manifest declares",
+      "sourceSha256": "d7c6f1d0c75dbdb13523cf97e47c499d0e5dda0d9ebbd09cbf56b15ad890f2a9"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0020",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[2]/p[3]/text()[2]",
+      "source": "and lists no collected data types, in accordance with Apple’s privacy requirements.",
+      "sourceSha256": "66e8da332e274ce827d3f2124acfa9c911acc298c92995f30c2f87506a2f0946"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0021",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "#section-local/text()[1]",
+      "source": "3. Data Stored on Your Device",
+      "sourceSha256": "2b99034e2f1f92be06660e42ff1029afe32d19f1f796764171c1d833f02f92d0"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0022",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[3]/p[1]/text()[1]",
+      "source": "The app stores the following data on your device. Favorites and encrypted quotes you add can also sync through your personal iCloud account as described in Section 4:",
+      "sourceSha256": "904c43834481d4c8f78e008394950664a1cf0c1fd2f39ac410d352bce3b438f4"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0023",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[3]/ul[1]/li[1]/strong[1]/text()[1]",
+      "source": "App preferences",
+      "sourceSha256": "c769a96e14b48fa37a9d7f2673c2423fe08f37e8ca116ce45897844fd5a308a4"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0024",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[3]/ul[1]/li[1]/text()[1]",
+      "source": "— notification schedule, visual theme, and quote collection settings, stored in Apple",
+      "sourceSha256": "c7b53424255de8f00abc89aee954aac9966d6e12385d53430595495c3ef6d29b"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0025",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[3]/ul[1]/li[1]/text()[2]",
+      "source": "and protected by iOS Data Protection when your device is locked",
+      "sourceSha256": "bca7255baba32240bd90766d3696acf930871e6906f5c0656ef1ee4e167e66b0"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0026",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[3]/ul[1]/li[2]/strong[1]/text()[1]",
+      "source": "Favorites list",
+      "sourceSha256": "57103a742c23ef589d4cf151120b2288f8dfab5498cacffb1fab8be2ce6316ed"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0027",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[3]/ul[1]/li[2]/text()[1]",
+      "source": "— the IDs of quotes you have saved, stored locally and optionally synced via iCloud (see Section 4)",
+      "sourceSha256": "de06f56b5bf3351f418ece324cf714b13b4a8614ff13c2d3a6284bf78235e71c"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0028",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[3]/ul[1]/li[3]/strong[1]/text()[1]",
+      "source": "Encryption keys",
+      "sourceSha256": "cb29ca3bf2fa756be0783e371c3f4cdd113eb799585c61873902efa809fbbe8d"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0029",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[3]/ul[1]/li[3]/text()[1]",
+      "source": "— stored in the iOS Keychain, protected by your device passcode and Secure Enclave",
+      "sourceSha256": "f41a6fb9e5c2a46a89fc8bcc4475b6dafe1c1db87267e087a8988c177e1e0036"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0030",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[3]/ul[1]/li[4]/strong[1]/text()[1]",
+      "source": "Quote files",
+      "sourceSha256": "3464e437fd75be42fd5f53c5310a3aa53c15e436109cd767375011b820e30b03"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0031",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[3]/ul[1]/li[4]/text()[1]",
+      "source": "— the aggregated quote library and any quotes you add yourself, stored as encrypted files in app storage, encrypted with AES-256-GCM using keys held in the Keychain",
+      "sourceSha256": "0f426819be20701ab1310d13243eb436f7dea4a72ee1eb25301e2d39ac1213e8"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0032",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[3]/p[2]/text()[1]",
+      "source": "Quote files are encrypted on disk using AES-256-GCM. App preferences and settings rely on iOS Data Protection. You can toggle encryption on or off at any time in the app’s Settings; when disabled, quote files rely on iOS file protection only. Deleting the app removes all locally stored data from your device.",
+      "sourceSha256": "2149f95253cada00d9af66864c5fe244ab43f0bab9a2e36f6580d34f18532156"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0033",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "#section-icloud/text()[1]",
+      "source": "4. iCloud Sync",
+      "sourceSha256": "4ffb68e50d547de408d09a66dfeb5523e6034d0d495f0ea108c64e0fac83e380"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0034",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[4]/p[1]/text()[1]",
+      "source": "If you are signed in to iCloud on your device, InnerWhisper syncs two types of data across your Apple devices. All sync is handled entirely by Apple’s iCloud infrastructure — Moving Truth operates no service that receives this synced data.",
+      "sourceSha256": "473bcd2a4546234f3d0775dc73c7d330abce847de6642d6c8e04af0647b3795e"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0035",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[4]/p[2]/strong[1]/text()[1]",
+      "source": "Favorites (iCloud Key-Value Store)",
+      "sourceSha256": "01368f4489c12ad3efb2ad170bd1ad32d03012b50ae5055fa6526994c06f3f7a"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0036",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[4]/ul[1]/li[1]/text()[1]",
+      "source": "Your list of favorited quote IDs is synced using Apple’s",
+      "sourceSha256": "c209aa3bd856269b011be67f81b494350e1adb1caca87be9e6f8c2cf29bdc7ae"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0037",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[4]/ul[1]/li[1]/text()[2]",
+      "source": "API.",
+      "sourceSha256": "374d7824a35f0cd0d2f5dc68baa40b9902ae052f713271353a62143c133d10c5"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0038",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[4]/ul[1]/li[2]/text()[1]",
+      "source": "Only opaque quote identifier strings are synced (e.g.,",
+      "sourceSha256": "cff853fe7aec1ebc8b4ca5d519bb136e858983693d7a1c2b734ca7cbf6896c48"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0039",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[4]/ul[1]/li[2]/text()[2]",
+      "source": "). No quote text or personal notes are included.",
+      "sourceSha256": "84467024bcd43f3ef147aee0b7333265d82ef90c6f591ac7b64db648cd45bff2"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0040",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[4]/p[3]/strong[1]/text()[1]",
+      "source": "Your Added Quotes (iCloud Documents)",
+      "sourceSha256": "bb6abe6817f9ec625d1bf0b4d0b40c8f8165b4fec192cd7486e5c33d56e2c8f9"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0041",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[4]/ul[2]/li[1]/text()[1]",
+      "source": "Any quotes you write yourself are stored as an AES-256-GCM encrypted file synced via your personal iCloud Documents container (",
+      "sourceSha256": "d0b6686415fbddff8745e52d4c2016f58d4ff276c28f1f09ba2a40d43092f03e"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0042",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[4]/ul[2]/li[1]/text()[2]",
+      "source": ").",
+      "sourceSha256": "c4b2896a2081395e282313d6683f07c81e3339ef8b9d2b5a299ea5b626a0998f"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0043",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[4]/ul[2]/li[2]/text()[1]",
+      "source": "The encryption key for this file is synced via iCloud Keychain (",
+      "sourceSha256": "1cd36d2112deba43f5763f6114413cd2faab93b938e735d24a81b743070d9cb6"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0044",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[4]/ul[2]/li[2]/text()[2]",
+      "source": "), so the same key is available on all your signed-in devices.",
+      "sourceSha256": "7ca544076679be84a15b1ee80a8f237e2d7deb74e8e636d83517d0b683527212"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0045",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[4]/ul[2]/li[3]/text()[1]",
+      "source": "The content of the file is encrypted before it reaches iCloud and is never readable in plaintext by Apple or by us.",
+      "sourceSha256": "581226fc10b805630ed7b513fae60b848557605c36c5f47db5e39635063e96e6"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0046",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[4]/p[4]/a[1]/text()[1]",
+      "source": "Apple’s Privacy Policy",
+      "sourceSha256": "9789f3cfa8d40a4e94624574c040b9fef55348bdf21e4ba6e39b1b4a6d0a63cc"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0047",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[4]/p[4]/text()[1]",
+      "source": "applies to all data processed through iCloud. You can disable iCloud sync for InnerWhisper at any time in",
+      "sourceSha256": "91018ecbedef164a0760785f778171b729b57d4565e317512dcf90412535028b"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0048",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "#section-notifications/text()[1]",
+      "source": "5. Push Notifications",
+      "sourceSha256": "c14ef12a130416e728ec612780a4ee01038e51970958f2d7d9fd757c83358404"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0049",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[5]/p[1]/text()[1]",
+      "source": "InnerWhisper delivers daily quote notifications as",
+      "sourceSha256": "a36ae589cf7afd5d9d290f9f122fb389bc2b3c04fccf1d4b2be1dd10be2bc9b1"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0050",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[5]/p[1]/em[1]/text()[1]",
+      "source": "local notifications",
+      "sourceSha256": "468b9165376c932dd209b742f778413c391a475b5ae7ffd7c897255b4c77a7d1"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0051",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[5]/p[1]/text()[2]",
+      "source": ", scheduled and delivered entirely on your device by iOS. No notification content, schedule, or delivery confirmation is transmitted to any server.",
+      "sourceSha256": "3ef88f2e318d321c23977182a13128cd676bfc19cbef6f94eb6ffcac30c1f648"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0052",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[5]/p[2]/text()[1]",
+      "source": "iOS may request permission to send notifications when you first use the app. You can revoke notification permission at any time in",
+      "sourceSha256": "e6d6351c0eebccff755fda2de177c494ec2f249975a9f7adb14fd3952b417ebc"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0053",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "#section-third-party/text()[1]",
+      "source": "6. No Third-Party Services",
+      "sourceSha256": "b78866576d7ab0eabc16772852869aa5d406576178e0c24a2112e1c2c8d636e3"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0054",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[6]/p[1]/text()[1]",
+      "source": "InnerWhisper does not integrate with any third-party analytics, advertising, or crash-reporting services. Specifically, the app contains no:",
+      "sourceSha256": "1875f574037720ecfa592051ef4ef75559b657495d7f5606c0b98b170d822603"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0055",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[6]/ul[1]/li[1]/text()[1]",
+      "source": "Analytics SDKs (Firebase Analytics, Amplitude, Mixpanel, etc.)",
+      "sourceSha256": "ded14b4f3ec4b519e5bcb35399ccb82ef93a2598debe309e718e794bf0121ec8"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0056",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[6]/ul[1]/li[2]/text()[1]",
+      "source": "Advertising networks or tracking pixels",
+      "sourceSha256": "f7ef9adb270928df2ac994bef2942e676cc2eb69216092cef31d2f907c545aab"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0057",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[6]/ul[1]/li[3]/text()[1]",
+      "source": "Crash reporting or performance monitoring services",
+      "sourceSha256": "a124070e53fda6f7f63fc660c6b10c8243cde0f51d8d6fc763d9980e3f2742ca"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0058",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[6]/p[2]/text()[1]",
+      "source": "The core quote library is bundled inside the app. The app may also fetch an optional supplementary quote file from",
+      "sourceSha256": "0b8280e40d139b38af6a741f21ad669a7e624d3bb7be33e034434b4e79363b7e"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0059",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[6]/p[2]/text()[2]",
+      "source": "via HTTPS on first load, when its local cache is more than 24 hours old, or when you explicitly request an update. The request contains no app account, advertising identifier, account token, quotes, favorites, settings, or other app content. As with any HTTPS connection, the hosting infrastructure necessarily processes connection information such as an IP address to deliver the file; Moving Truth does not use that request to track or profile you.",
+      "sourceSha256": "de2719421ae740526a697ca71b99a57e39c47d1e5697d20172f7877c2cedf114"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0060",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "#section-children/text()[1]",
+      "source": "7. Children’s Privacy",
+      "sourceSha256": "d79e31e712454ce7c502adebaa2e6e47572d4086e060dab4c1fa45c8e241513b"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0061",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[7]/p[1]/text()[1]",
+      "source": "InnerWhisper is not directed at children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us at the address below and we will delete it promptly.",
+      "sourceSha256": "627a3dfbeab713eede889ac5522a89ba559cc40e2eef2106891adfa55722f77e"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0062",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "#section-deletion/text()[1]",
+      "source": "8. Data Retention and Deletion",
+      "sourceSha256": "cd649912f37d37dcda21f08217ff3d4650f85e6806d2f64402458c9581c97128"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0063",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[8]/p[1]/text()[1]",
+      "source": "All InnerWhisper data exists solely on your device and in your personal iCloud account. We have no access to it and cannot delete it on your behalf.",
+      "sourceSha256": "958edd47a61a34fec579e340d74e37f3d27f9b7495ede5dd3120cc2a7847c5c9"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0064",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[8]/ul[1]/li[1]/strong[1]/text()[1]",
+      "source": "To delete local data:",
+      "sourceSha256": "f5db43b949eb0a10bb5f7feef59c6e48b1e5f135c12cb9911c65b98483c6ec5f"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0065",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[8]/ul[1]/li[1]/text()[1]",
+      "source": "Delete the InnerWhisper app from your device. iOS removes all associated data automatically.",
+      "sourceSha256": "5d6a175f236de1ac6db923bb6f7f457a28cb385744feddade95008f3fb3eba01"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0066",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[8]/ul[1]/li[2]/strong[1]/text()[1]",
+      "source": "To delete iCloud-synced favorites:",
+      "sourceSha256": "bcb1d425f4a251b94ebf7bcc6b06dbbc35a81cc3ce97de09290513e9e658d557"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0067",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[8]/ul[1]/li[2]/text()[1]",
+      "source": "After deleting the app, go to",
+      "sourceSha256": "44c2cb78550e70363c0f446ddf56a6cfa5d2ae6704309c8e709578be05b02bf1"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0068",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[8]/ul[1]/li[2]/text()[2]",
+      "source": "and remove InnerWhisper’s iCloud data if listed.",
+      "sourceSha256": "4ceda1b238e1ab5ac1cbc3f71b7da57453a430b24a37c6a3fba26700c985139c"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0069",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "#section-changes/text()[1]",
+      "source": "9. Changes to This Policy",
+      "sourceSha256": "90b39c181ac6a82fb0737bbb96872a3a3a091e1be9c7a7dcd7d99d6e66ef7f3c"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0070",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[9]/p[1]/text()[1]",
+      "source": "We may update this Privacy Policy from time to time. When we do, we will revise the effective date at the top of this page. We encourage you to review this policy periodically. Continued use of InnerWhisper after changes are posted constitutes your acceptance of the updated policy.",
+      "sourceSha256": "c0371f5f1268c112021938552ce3eeba5e0089343d484d439251b952d83bc1ea"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0071",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "#section-contact/text()[1]",
+      "source": "10. Contact",
+      "sourceSha256": "2f41786a75a2b2cb39fb0078d952bdcc91e0b3144b4bf6a1d777e7c9ffea0f88"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0072",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[10]/p[1]/text()[1]",
+      "source": "If you have questions about this Privacy Policy or InnerWhisper’s data practices, please contact us:",
+      "sourceSha256": "9d4ea5e0f263e75eeabbb5d9bf4995a24ab19b4936e819f6c7c28429b2ccc946"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0073",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/section[10]/p[2]/text()[1]",
+      "source": "Email:",
+      "sourceSha256": "17507dcf845793fab0da66594804a4ca956ba284bcf36f4cef09e0a0a50c421a"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.text.0074",
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/main[1]/div[1]/footer[1]/p[1]/a[1]/text()[1]",
+      "source": "← Back to InnerWhisper home",
+      "sourceSha256": "bca41695343bb5d4629281b9509398816049ec23657d80af0d4a72ccbe52b222"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.attribute.0001",
+      "page": "privacy_policy.html",
+      "kind": "attribute",
+      "locator": "/html[1]/head[1]/meta[4]/@content",
+      "source": "InnerWhisper Privacy Policy — how app data stays under your control on your device and in your personal iCloud account.",
+      "sourceSha256": "3760e1dc998480d2b8a7004c54a2c93b17cfe7f05b002ad48c1eb13432960f4d"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.attribute.0002",
+      "page": "privacy_policy.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/header[1]/a[1]/@aria-label",
+      "source": "InnerWhisper home",
+      "sourceSha256": "4d8038b0934744ad7ae4e4c882606c0ac2eabbebd51cae473611c66205be85ae"
+    },
+    {
+      "id": "inner-whisper.privacy-policy.attribute.0003",
+      "page": "privacy_policy.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/header[1]/a[1]/img[1]/@alt",
+      "source": "InnerWhisper app icon",
+      "sourceSha256": "5de43521f26ee0e57fb421004d6e9297349dadcbdb79ae2ed30aa80d3fe183b7"
+    },
+    {
+      "id": "inner-whisper.support.text.0001",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "/html[1]/head[1]/title[1]/text()[1]",
+      "source": "Support — InnerWhisper",
+      "sourceSha256": "0a2e5e3fe05658ac83fbf189bba300f66cc076d82491cc9c6156c4b6cfc6471b"
+    },
+    {
+      "id": "inner-whisper.support.text.0002",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/a[1]/text()[1]",
+      "source": "Skip to support",
+      "sourceSha256": "49fc540da4953ba81e4675082a1aeac85858d8b7252da90d30c61413f338be2d"
+    },
+    {
+      "id": "inner-whisper.support.text.0003",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/header[1]/nav[1]/ul[1]/li[1]/a[1]/text()[1]",
+      "source": "Home",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    {
+      "id": "inner-whisper.support.text.0004",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/header[1]/nav[1]/ul[1]/li[2]/a[1]/text()[1]",
+      "source": "Privacy",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    {
+      "id": "inner-whisper.support.text.0005",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/header[1]/nav[1]/ul[1]/li[3]/a[1]/text()[1]",
+      "source": "Email us",
+      "sourceSha256": "d9172c43bec620b2f327bc61666c5225489d09ce0341fd2becc3a9889de8531a"
+    },
+    {
+      "id": "inner-whisper.support.text.0006",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#main-content/div[1]/header[1]/h1[1]/text()[1]",
+      "source": "InnerWhisper Support",
+      "sourceSha256": "8eced69a2ecd56be783f5d0fbd5cf5a9ad8819a4125fb7b70acc6126d2bb41a5"
+    },
+    {
+      "id": "inner-whisper.support.text.0007",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#main-content/div[1]/header[1]/p[1]/text()[1]",
+      "source": "InnerWhisper is meant to be quiet and uncomplicated. If something gets between you and the words, start here or contact Moving Truth directly.",
+      "sourceSha256": "06d29233991ccd54e7f2e75550aa6b54f29c509fabb61d8d47c74065059838b2"
+    },
+    {
+      "id": "inner-whisper.support.text.0008",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#main-content/div[1]/nav[1]/a[1]/strong[1]/text()[1]",
+      "source": "Daily notifications",
+      "sourceSha256": "8caec8e6ba48e7429522a281aa9403734996e37f35384bf3f992ce2872e83fa6"
+    },
+    {
+      "id": "inner-whisper.support.text.0009",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#main-content/div[1]/nav[1]/a[1]/span[1]/text()[1]",
+      "source": "Permission, timing, and delivery",
+      "sourceSha256": "f0d52c89084245a5f24df75c01873f5577b823ae3570766fc4533a61ba5578ed"
+    },
+    {
+      "id": "inner-whisper.support.text.0010",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#main-content/div[1]/nav[1]/a[2]/strong[1]/text()[1]",
+      "source": "Favorites and iCloud",
+      "sourceSha256": "53645c28b7fc81193c417dd914ded2681ec72c5435674c06056cd3091d2e36fd"
+    },
+    {
+      "id": "inner-whisper.support.text.0011",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#main-content/div[1]/nav[1]/a[2]/span[1]/text()[1]",
+      "source": "Sync across your Apple devices",
+      "sourceSha256": "a62cac007967c6cdd4191d0d97794c5fa8ae03d5be5f9fd43237e199c0521f15"
+    },
+    {
+      "id": "inner-whisper.support.text.0012",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#main-content/div[1]/nav[1]/a[3]/strong[1]/text()[1]",
+      "source": "Your added quotes",
+      "sourceSha256": "8da5acfbc539e1d68dc82299b3bf93cb5eda68baad837cd17aae6c0bf427cc0c"
+    },
+    {
+      "id": "inner-whisper.support.text.0013",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#main-content/div[1]/nav[1]/a[3]/span[1]/text()[1]",
+      "source": "Encryption, storage, and key sync",
+      "sourceSha256": "8c0db78aa893c52decb529c8a58f6840edd291a086627e13ff1931af3b288eda"
+    },
+    {
+      "id": "inner-whisper.support.text.0014",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#main-content/div[1]/nav[1]/a[4]/strong[1]/text()[1]",
+      "source": "Privacy and deletion",
+      "sourceSha256": "f9e0019b70c750acc3bf656642a92e858b5460d71637e8ad0031e0a429c3e24d"
+    },
+    {
+      "id": "inner-whisper.support.text.0015",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#main-content/div[1]/nav[1]/a[4]/span[1]/text()[1]",
+      "source": "What stays where and how to remove it",
+      "sourceSha256": "8300a4f97655612362525344d6f9c3c2769e82a973bc318383c09eb9f53d7e43"
+    },
+    {
+      "id": "inner-whisper.support.text.0016",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#notifications/h2[1]/text()[1]",
+      "source": "Daily notifications",
+      "sourceSha256": "8caec8e6ba48e7429522a281aa9403734996e37f35384bf3f992ce2872e83fa6"
+    },
+    {
+      "id": "inner-whisper.support.text.0017",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#notifications/p[1]/text()[1]",
+      "source": "InnerWhisper schedules quote notifications locally on your device. It does not use a Moving Truth notification server.",
+      "sourceSha256": "1e8a0c1592b6290313764fec68958cb772d887dad85c95c826de2d9d0240a6fe"
+    },
+    {
+      "id": "inner-whisper.support.text.0018",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#notifications/p[2]/text()[1]",
+      "source": "If notifications are not arriving, open iOS Settings, find InnerWhisper, and confirm that Notifications are allowed. Then check the notification schedule and enabled quote collections inside InnerWhisper Settings. iOS controls final delivery timing and may delay notifications in some Focus or power-saving states.",
+      "sourceSha256": "3010777d6bbbd51cc6135cebe87bbe7be7cca18d54c4704cbeccf31b6da6da67"
+    },
+    {
+      "id": "inner-whisper.support.text.0019",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#icloud/h2[1]/text()[1]",
+      "source": "Favorites and iCloud",
+      "sourceSha256": "53645c28b7fc81193c417dd914ded2681ec72c5435674c06056cd3091d2e36fd"
+    },
+    {
+      "id": "inner-whisper.support.text.0020",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#icloud/p[1]/text()[1]",
+      "source": "Favorite quote identifiers can sync through Apple’s iCloud Key-Value Store when you are signed in to iCloud. Moving Truth does not receive the list.",
+      "sourceSha256": "62dcf3b82afb65a51aa04a5e10c55533a2150bb21e6492289c4f06c7ad66e643"
+    },
+    {
+      "id": "inner-whisper.support.text.0021",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#icloud/p[2]/text()[1]",
+      "source": "If a favorite is slow to appear on another device, confirm that both devices use the same Apple Account, have an internet connection, and allow InnerWhisper to use iCloud. Reopen the app on both devices to give iCloud another opportunity to synchronize.",
+      "sourceSha256": "0cc7cadfd97828a752c07613aa59db1a91fa213c317fb55acf5ec018dc25dea5"
+    },
+    {
+      "id": "inner-whisper.support.text.0022",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#added-quotes/h2[1]/text()[1]",
+      "source": "Your added quotes",
+      "sourceSha256": "8da5acfbc539e1d68dc82299b3bf93cb5eda68baad837cd17aae6c0bf427cc0c"
+    },
+    {
+      "id": "inner-whisper.support.text.0023",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#added-quotes/p[1]/text()[1]",
+      "source": "Quotes you write are encrypted on your device before storage. When iCloud is available, the encrypted file can sync through your personal iCloud Documents container and its encryption key can sync through iCloud Keychain.",
+      "sourceSha256": "bfedbf2fd7a2a47ae3a1e4c683012b5ccca6b2616335d66c484b08fd9cc7f80a"
+    },
+    {
+      "id": "inner-whisper.support.text.0024",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#added-quotes/p[2]/text()[1]",
+      "source": "If InnerWhisper says that your quotes or key are still syncing, keep the app installed, confirm that iCloud Keychain is enabled, wait a few minutes, and reopen the app. Do not reset encryption or delete the app when it holds the only copy of text you want to keep.",
+      "sourceSha256": "b9b15c581ba000b778d02f65b8ea3d6c52436e88ad099ae1b1884cc05a89148d"
+    },
+    {
+      "id": "inner-whisper.support.text.0025",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#quote-library/h2[1]/text()[1]",
+      "source": "Quote library and optional updates",
+      "sourceSha256": "2d2d625aab3b12732a2e74c539814da6871d1d316d546d85af0372c1f5f6815f"
+    },
+    {
+      "id": "inner-whisper.support.text.0026",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#quote-library/p[1]/text()[1]",
+      "source": "The core quote library is included with the app and remains available offline. InnerWhisper can also request an optional supplementary quote file over HTTPS. If that request is unavailable, the bundled library continues to work.",
+      "sourceSha256": "00a26faea63af2474a8e61992e58f82a9f5f67dbcf312ea8f7743fcb7817f2b9"
+    },
+    {
+      "id": "inner-whisper.support.text.0027",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#quote-library/p[2]/text()[1]",
+      "source": "If you notice a doubtful attribution or wording, email us with the quote and the source you believe is more accurate. Please do not include any private quote you added yourself unless you deliberately want us to read it.",
+      "sourceSha256": "50832f426a67e060fbbb511bf794400361b3f86a6d42ca88d1c972601befcdc5"
+    },
+    {
+      "id": "inner-whisper.support.text.0028",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#privacy/h2[1]/text()[1]",
+      "source": "Privacy and deletion",
+      "sourceSha256": "f9e0019b70c750acc3bf656642a92e858b5460d71637e8ad0031e0a429c3e24d"
+    },
+    {
+      "id": "inner-whisper.support.text.0029",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#privacy/p[1]/text()[1]",
+      "source": "InnerWhisper has no account, advertising, analytics, or tracking SDK. Your app data remains on your device or in your personal iCloud account through Apple’s systems. Read the",
+      "sourceSha256": "1a35e943001339cafa2a999d31d6a1b9059f9a9fff57b919a54009588fca8050"
+    },
+    {
+      "id": "inner-whisper.support.text.0030",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#privacy/p[1]/a[1]/text()[1]",
+      "source": "full Privacy Policy",
+      "sourceSha256": "ce726049cfb146092149684232d2034ebf351a0dd4229ab9107dc45c79a5bc0f"
+    },
+    {
+      "id": "inner-whisper.support.text.0031",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#privacy/p[1]/text()[2]",
+      "source": "for the precise storage, sync, network, and deletion boundaries.",
+      "sourceSha256": "20e1999fbe92cb1b147e6c39feb2302bf437b636ea019be9cf1652a842d53554"
+    },
+    {
+      "id": "inner-whisper.support.text.0032",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#privacy/p[2]/text()[1]",
+      "source": "Deleting InnerWhisper removes its local app data. Synced data may remain in your personal iCloud account until you remove the app’s stored iCloud data through iOS Settings.",
+      "sourceSha256": "9728ccb8595efd62e372b242003ba1b522d819b07136619e99aeb7108822381c"
+    },
+    {
+      "id": "inner-whisper.support.text.0033",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#accessibility/h2[1]/text()[1]",
+      "source": "Accessibility support",
+      "sourceSha256": "429f5d39ccc2f70ddc86028c1b7db989938503ce0e3b61415fbd86bdef7b11b2"
+    },
+    {
+      "id": "inner-whisper.support.text.0034",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#accessibility/p[1]/text()[1]",
+      "source": "If VoiceOver, Voice Control, Larger Text, Reduce Motion, contrast, notification access, or another access need is not working gracefully, please tell us which task you were trying to complete. Accessibility problems are product problems.",
+      "sourceSha256": "6c469261cab79274e99291e859bf3f0e69c71d96709a5371ea62bea4cd268cb6"
+    },
+    {
+      "id": "inner-whisper.support.text.0035",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#contact-title/text()[1]",
+      "source": "Email Moving Truth",
+      "sourceSha256": "8d419c582e4a3c2533d874feb8855c30f4d1dcd4ff4be9ae6f1a353a5f190224"
+    },
+    {
+      "id": "inner-whisper.support.text.0036",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#main-content/div[1]/section[7]/p[1]/text()[1]",
+      "source": "Include your iPhone or iPad model, iOS version, InnerWhisper version, and what happened. Please do not send private added quotes unless you intentionally want them included in the support conversation.",
+      "sourceSha256": "823e2d89e7842e1990486cf857b65c7c16841eb40cf87ea4988067cef6c2bd34"
+    },
+    {
+      "id": "inner-whisper.support.text.0037",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#main-content/div[1]/footer[1]/p[1]/a[1]/text()[1]",
+      "source": "← Back to InnerWhisper home",
+      "sourceSha256": "bca41695343bb5d4629281b9509398816049ec23657d80af0d4a72ccbe52b222"
+    },
+    {
+      "id": "inner-whisper.support.text.0038",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#main-content/div[1]/footer[1]/p[1]/text()[1]",
+      "source": "·",
+      "sourceSha256": "a137f17a19a09cbe511ba654931ed30fd9c52205140ec096fa6180f1a0577546"
+    },
+    {
+      "id": "inner-whisper.support.text.0039",
+      "page": "support.html",
+      "kind": "text",
+      "locator": "#main-content/div[1]/footer[1]/p[1]/a[2]/text()[1]",
+      "source": "Privacy Policy",
+      "sourceSha256": "506ff394621596dd88138642eddfc1e41833b3ae92d95e5c77c94327098abd9a"
+    },
+    {
+      "id": "inner-whisper.support.attribute.0001",
+      "page": "support.html",
+      "kind": "attribute",
+      "locator": "/html[1]/head[1]/meta[4]/@content",
+      "source": "Help and direct support for InnerWhisper by Moving Truth.",
+      "sourceSha256": "bc93225e6a82f4bb8dcc7c70ec8253c5e866e7ae4528dc1845c6da8f00792b9c"
+    },
+    {
+      "id": "inner-whisper.support.attribute.0002",
+      "page": "support.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/header[1]/a[1]/@aria-label",
+      "source": "InnerWhisper home",
+      "sourceSha256": "4d8038b0934744ad7ae4e4c882606c0ac2eabbebd51cae473611c66205be85ae"
+    },
+    {
+      "id": "inner-whisper.support.attribute.0003",
+      "page": "support.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/header[1]/nav[1]/@aria-label",
+      "source": "Support navigation",
+      "sourceSha256": "7b7e157a2b9186fd1c9e0c78ad0cd48392273430f90e661487aea3256e12569e"
+    },
+    {
+      "id": "inner-whisper.support.attribute.0004",
+      "page": "support.html",
+      "kind": "attribute",
+      "locator": "#main-content/div[1]/nav[1]/@aria-label",
+      "source": "Common support topics",
+      "sourceSha256": "b85a539eae9acb1c88f7caa27b161dde4c07b25145ee0f11bf6d549089acb0c2"
+    }
+  ],
+  "retired": []
+}

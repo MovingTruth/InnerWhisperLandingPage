@@ -1,244 +1,1025 @@
 {
-  "translations": {
-    "InnerWhisper — a daily whisper app by Moving Truth. Quotes, stillness, and reflection, delivered quietly. No account, tracking, or ads; optional sync uses your personal iCloud account.": "InnerWhisper — Moving Truth का रोज़ का एक शांत संदेश। उद्धरण, ठहराव और आत्मचिंतन, सहजता से आपके पास। कोई खाता, ट्रैकिंग या विज्ञापन नहीं; वैकल्पिक सिंक आपके निजी iCloud खाते का उपयोग करता है।",
-    "InnerWhisper — by Moving Truth": "InnerWhisper — Moving Truth की ओर से",
-    "InnerWhisper home": "InnerWhisper का होम पेज",
-    "Open navigation menu": "नेविगेशन मेनू खोलें",
-    "Features": "विशेषताएँ",
-    "Quotes": "उद्धरण",
-    "Privacy": "निजता",
-    "Download": "डाउनलोड करें",
-    "InnerWhisper leaf": "InnerWhisper का पत्ता",
-    "InnerWhisper app icon": "InnerWhisper ऐप का आइकन",
-    "A quiet word, exactly when you need it.": "एक शांत संदेश, ठीक उस समय जब आपको उसकी ज़रूरत हो।",
-    "InnerWhisper — a quiet word, exactly when you need it.": "InnerWhisper — एक शांत संदेश, ठीक उस समय जब आपको उसकी ज़रूरत हो।",
-    "Download on the App Store": "App Store से डाउनलोड करें",
-    "📱 Download on the App Store": "📱 App Store से डाउनलोड करें",
-    "Download on iOS": "iOS पर डाउनलोड करें",
-    "Contact Support": "सहायता से संपर्क करें",
-    "scroll to explore": "और जानने के लिए स्क्रॉल करें",
-    "About InnerWhisper": "InnerWhisper के बारे में",
-    "One quiet word, placed gently in your day. From Moving Truth — over a thousand quotes drawn from the world’s deepest thinkers, delivered with care.": "आपके दिन में सहजता से रखा गया एक शांत संदेश। Moving Truth की ओर से — दुनिया के गहन विचारकों से चुने गए एक हज़ार से अधिक उद्धरण, संवेदनशीलता के साथ।",
-    "A whisper, not a feed. Encrypted on your device. No account. No tracking. No ads.": "एक फीड नहीं, बस एक धीमा संदेश। आपके डिवाइस पर एन्क्रिप्टेड। कोई खाता नहीं। कोई ट्रैकिंग नहीं। कोई विज्ञापन नहीं।",
-    "Chosen words": "चुने हुए शब्द",
-    "Your pace": "आपकी गति",
-    "Held close": "आपके पास सुरक्षित",
-    "Kept private": "निजी रखा गया",
-    "Simply made": "सादगी से बनाया गया",
-    "Visual themes": "दृश्य थीम",
-    "Set your atmosphere.": "अपना माहौल चुनें।",
-    "Three immersive animated environments for the main quote screen, each designed to help you be present with the words in front of you.": "मुख्य उद्धरण स्क्रीन के लिए तीन जीवंत एनिमेटेड परिवेश, ताकि आप सामने मौजूद शब्दों के साथ पूरी तरह ठहर सकें।",
-    "Space theme screenshot": "अंतरिक्ष थीम का स्क्रीनशॉट",
-    "Deep space theme with moving stars": "चलते तारों वाली गहरे अंतरिक्ष की थीम",
-    "Deep Space": "गहरा अंतरिक्ष",
-    "Moving stars and galaxy": "चलते तारे और आकाशगंगा",
-    "Aurora theme screenshot": "ऑरोरा थीम का स्क्रीनशॉट",
-    "Aurora theme environment": "ऑरोरा थीम का परिवेश",
-    "Aurora Northern Lights": "ऑरोरा की उत्तरी रोशनियाँ",
-    "Forest theme screenshot": "वन थीम का स्क्रीनशॉट",
-    "Forest theme environment": "वन थीम का परिवेश",
-    "Forest": "वन",
-    "Forest twilight": "वन की सांझ",
-    "Quote collections": "उद्धरण संग्रह",
-    "Wisdom across traditions.": "अनेक परंपराओं की बुद्धिमत्ता।",
-    "Enable the collections that speak to you. Disable the ones that don’t. Your feed, your way.": "जो संग्रह आपसे जुड़ते हैं, उन्हें चालू रखें। जो नहीं जुड़ते, उन्हें बंद कर दें। आपका अनुभव, आपके ढंग से।",
-    "✨ General": "✨ सामान्य",
-    "⚡ Motivational": "⚡ प्रेरणादायक",
-    "⚖️ Stoicism": "⚖️ स्टोइक दर्शन",
-    "🍃 Nature": "🍃 प्रकृति",
-    "🌲 Forest": "🌲 वन",
-    "🌙 Space": "🌙 अंतरिक्ष",
-    "あ Japanese Proverbs": "あ जापानी कहावतें",
-    "🌊 Alan Watts": "🌊 एलन वॉट्स",
-    "🕊️ Gandhi": "🕊️ गांधी",
-    "🏛️ World Leaders": "🏛️ विश्व नेता",
-    "🎭 Actors": "🎭 कलाकार",
-    "Built for your eyes only.": "सिर्फ़ आपके लिए बनाया गया।",
-    "InnerWhisper was designed from day one with the principle that your mental wellness data belongs to you, and only you.": "InnerWhisper शुरू से इसी सिद्धांत पर बनाया गया है कि आपके मानसिक कल्याण से जुड़ा डेटा केवल आपका है।",
-    "No account required — ever. Open the app and start immediately.": "कभी भी किसी खाते की ज़रूरत नहीं। ऐप खोलें और तुरंत शुरू करें।",
-    "No analytics, crash reporting, or tracking sent off your device.": "आपके डिवाइस से कोई एनालिटिक्स, क्रैश रिपोर्ट या ट्रैकिंग डेटा बाहर नहीं भेजा जाता।",
-    "No advertising networks or third-party SDKs of any kind.": "किसी भी प्रकार का विज्ञापन नेटवर्क या तृतीय-पक्ष SDK नहीं।",
-    "Encryption keys secured in the iOS Keychain. Quote files encrypted with AES-256-GCM on disk.": "एन्क्रिप्शन कुंजियाँ iOS Keychain में सुरक्षित रहती हैं। उद्धरण फ़ाइलें डिस्क पर AES-256-GCM से एन्क्रिप्ट की जाती हैं।",
-    "Notification content is generated on-device — nothing sent to our servers.": "सूचनाओं की सामग्री आपके डिवाइस पर ही बनती है — हमारे सर्वर पर कुछ नहीं भेजा जाता।",
-    "Favorites and your added quotes sync via Apple’s iCloud infrastructure, not ours. Apple’s privacy policy applies.": "आपके पसंदीदा और जोड़े गए उद्धरण Apple के iCloud ढाँचे से सिंक होते हैं, हमारे ढाँचे से नहीं। Apple की निजता नीति लागू होती है।",
-    "Privacy manifest filed with Apple: tracking disabled, no personal data types declared.": "Apple को दिया गया Privacy Manifest: ट्रैकिंग बंद है और किसी निजी डेटा प्रकार की घोषणा नहीं की गई है।",
-    "Read the full InnerWhisper Privacy Policy": "InnerWhisper की पूरी निजता नीति पढ़ें",
-    "Read the full Privacy Policy →": "पूरी निजता नीति पढ़ें →",
-    "About Moving Truth": "Moving Truth के बारे में",
-    "Moving Truth. Opens movingtruth.com": "Moving Truth। movingtruth.com खोलता है",
-    "Moving Truth logo": "Moving Truth का लोगो",
-    "by Moving Truth": "Moving Truth की ओर से",
-    "Made with ♥ by Skylaur Roe": "Skylaur Roe द्वारा ♥ से बनाया गया",
-    "Links": "लिंक",
-    "🌍 Quote Collections": "🌍 उद्धरण संग्रह",
-    "🔒 Privacy Policy": "🔒 निजता नीति",
-    "💬 Quote Sources": "💬 उद्धरणों के स्रोत",
-    "InnerWhisper’s quotes are drawn from public-domain works, historical writings, and widely circulated sources. We can’t guarantee every quote’s exact wording or attribution — many well-known quotes are paraphrased or disputed in origin, a well-documented issue in quotation literature. Spot something off? We’d genuinely like to know:": "InnerWhisper के उद्धरण सार्वजनिक डोमेन की रचनाओं, ऐतिहासिक लेखों और व्यापक रूप से प्रचलित स्रोतों से लिए गए हैं। हर उद्धरण के शब्द या श्रेय की पूरी सटीकता की गारंटी नहीं दी जा सकती—कई प्रसिद्ध उद्धरण बदले हुए रूप में मिलते हैं या उनके मूल को लेकर मतभेद हैं। आपको कुछ गलत लगे तो हमें सचमुच बताइए:",
-    "About-page mood": "परिचय पेज का माहौल",
-    "Set the mood": "माहौल चुनें",
-    "Now available": "अब उपलब्ध",
-    "InnerWhisper is on the App Store.": "InnerWhisper अब App Store पर उपलब्ध है।",
-    "Download it, and let a quote find you when you need it. Questions? We're at": "इसे डाउनलोड करें और किसी उद्धरण को सही समय पर आप तक आने दें। कोई सवाल है? हमें लिखें:",
-    "Footer links": "फुटर लिंक",
-    "Privacy Policy": "निजता नीति",
-    "Support": "सहायता",
-    "© 2026 InnerWhisper by Moving Truth. Made with SwiftUI for iOS.": "© 2026 InnerWhisper, Moving Truth की ओर से। iOS के लिए SwiftUI में बनाया गया।",
-    "Privacy Policy — InnerWhisper": "निजता नीति — InnerWhisper",
-    "InnerWhisper Privacy Policy — how app data stays under your control on your device and in your personal iCloud account.": "InnerWhisper की निजता नीति — ऐप का डेटा आपके डिवाइस और निजी iCloud खाते में आपके नियंत्रण में कैसे रहता है।",
-    "← Back to Home": "← होम पर वापस जाएँ",
-    "Effective date: 2026 • Applies to: InnerWhisper for iOS": "प्रभावी तिथि: 2026 • लागू: iOS के लिए InnerWhisper",
-    "The short version:": "संक्षेप में:",
-    "InnerWhisper does not collect or sell your personal data. Your app data stays on your device or, when iCloud is available, in your personal iCloud account through Apple’s systems. Moving Truth never receives your favorites or added quotes. The app can make a separate HTTPS request for an optional supplementary quote file; that request carries no app account or app content.": "InnerWhisper आपका निजी डेटा न एकत्र करता है, न बेचता है। ऐप का डेटा आपके डिवाइस पर या iCloud उपलब्ध होने पर Apple के सिस्टम के माध्यम से आपके निजी iCloud खाते में रहता है। Moving Truth को आपके पसंदीदा या जोड़े गए उद्धरण कभी नहीं मिलते। ऐप वैकल्पिक अतिरिक्त उद्धरण फ़ाइल के लिए अलग HTTPS अनुरोध कर सकता है; उस अनुरोध में कोई ऐप खाता या ऐप सामग्री नहीं होती।",
-    "1. About This Policy": "1. इस नीति के बारे में",
-    "This Privacy Policy describes how InnerWhisper (“we,” “our,” or “the app”) handles information when you use the InnerWhisper iOS application. By using the app, you agree to the practices described here.": "यह निजता नीति बताती है कि InnerWhisper iOS ऐप का उपयोग करते समय InnerWhisper (“हम” या “ऐप”) जानकारी को कैसे संभालता है। ऐप का उपयोग करके आप यहाँ बताई गई प्रक्रियाओं से सहमत होते हैं।",
-    "We are committed to your privacy. The app was designed so that Moving Truth cannot access your data: it remains on your device or, when iCloud is available, passes between your Apple devices through your personal iCloud account.": "हम आपकी निजता के प्रति प्रतिबद्ध हैं। ऐप इस तरह बनाया गया है कि Moving Truth आपके डेटा तक पहुँच न सके: वह आपके डिवाइस पर रहता है या iCloud उपलब्ध होने पर आपके निजी iCloud खाते के ज़रिए आपके Apple डिवाइसों के बीच जाता है।",
-    "2. Information We Do Not Collect": "2. वह जानकारी जो हम एकत्र नहीं करते",
-    "InnerWhisper does not collect, store, or transmit:": "InnerWhisper निम्न जानकारी को एकत्र, संग्रहीत या प्रसारित नहीं करता:",
-    "Your name, email address, or any identifying information": "आपका नाम, ईमेल पता या पहचान बताने वाली कोई जानकारी",
-    "Location data of any kind": "किसी भी प्रकार का स्थान डेटा",
-    "Health or wellness data you interact with in the app": "ऐप में आपके द्वारा उपयोग किया गया स्वास्थ्य या कल्याण डेटा",
-    "Device identifiers (IDFA, IDFV, or similar)": "डिवाइस पहचानकर्ता (IDFA, IDFV या इसी प्रकार के)",
-    "Usage analytics or behavioral data": "उपयोग संबंधी एनालिटिक्स या व्यवहार डेटा",
-    "Crash logs or diagnostics sent to our servers": "हमारे सर्वर पर भेजे गए क्रैश लॉग या डायग्नोस्टिक्स",
-    "No account is required to use InnerWhisper. Moving Truth operates no service that receives your quotes, favorites, settings, notification schedule, or other app content.": "InnerWhisper का उपयोग करने के लिए खाते की ज़रूरत नहीं है। Moving Truth ऐसी कोई सेवा नहीं चलाता जो आपके उद्धरण, पसंदीदा, सेटिंग, सूचना समय-सारणी या ऐप की अन्य सामग्री प्राप्त करे।",
-    "InnerWhisper’s Apple privacy manifest declares": "InnerWhisper का Apple Privacy Manifest घोषित करता है",
-    "and lists no collected data types, in accordance with Apple’s privacy requirements.": "और Apple की निजता आवश्यकताओं के अनुसार किसी एकत्रित डेटा प्रकार को सूचीबद्ध नहीं करता।",
-    "3. Data Stored on Your Device": "3. आपके डिवाइस पर संग्रहीत डेटा",
-    "The app stores the following data on your device. Favorites and encrypted quotes you add can also sync through your personal iCloud account as described in Section 4:": "ऐप निम्न डेटा आपके डिवाइस पर संग्रहीत करता है। आपके पसंदीदा और जोड़े गए एन्क्रिप्टेड उद्धरण, अनुभाग 4 के अनुसार, आपके निजी iCloud खाते से सिंक भी हो सकते हैं:",
-    "App preferences": "ऐप प्राथमिकताएँ",
-    "— notification schedule, visual theme, and quote collection settings, stored in Apple": "— सूचना समय-सारणी, दृश्य थीम और उद्धरण संग्रह सेटिंग, Apple के",
-    "and protected by iOS Data Protection when your device is locked": "में संग्रहीत और डिवाइस लॉक होने पर iOS Data Protection से सुरक्षित",
-    "Favorites list": "पसंदीदा सूची",
-    "— the IDs of quotes you have saved, stored locally and optionally synced via iCloud (see Section 4)": "— आपके सहेजे गए उद्धरणों की ID, स्थानीय रूप से संग्रहीत और वैकल्पिक रूप से iCloud से सिंक (अनुभाग 4 देखें)",
-    "Encryption keys": "एन्क्रिप्शन कुंजियाँ",
-    "— stored in the iOS Keychain, protected by your device passcode and Secure Enclave": "— iOS Keychain में संग्रहीत, आपके डिवाइस पासकोड और Secure Enclave से सुरक्षित",
-    "Quote files": "उद्धरण फ़ाइलें",
-    "— the aggregated quote library and any quotes you add yourself, stored as encrypted files in app storage, encrypted with AES-256-GCM using keys held in the Keychain": "— संयुक्त उद्धरण लाइब्रेरी और आपके जोड़े हुए उद्धरण, ऐप स्टोरेज में एन्क्रिप्टेड फ़ाइलों के रूप में; Keychain में रखी कुंजियों से AES-256-GCM द्वारा एन्क्रिप्टेड",
-    "Quote files are encrypted on disk using AES-256-GCM. App preferences and settings rely on iOS Data Protection. You can toggle encryption on or off at any time in the app’s Settings; when disabled, quote files rely on iOS file protection only. Deleting the app removes all locally stored data from your device.": "उद्धरण फ़ाइलें डिस्क पर AES-256-GCM से एन्क्रिप्ट होती हैं। ऐप प्राथमिकताएँ और सेटिंग iOS Data Protection पर निर्भर हैं। ऐप की Settings में एन्क्रिप्शन कभी भी चालू या बंद किया जा सकता है; बंद होने पर फ़ाइलें केवल iOS फ़ाइल सुरक्षा पर निर्भर रहती हैं। ऐप हटाने से डिवाइस पर स्थानीय रूप से संग्रहीत सारा डेटा हट जाता है।",
-    "4. iCloud Sync": "4. iCloud सिंक",
-    "If you are signed in to iCloud on your device, InnerWhisper syncs two types of data across your Apple devices. All sync is handled entirely by Apple’s iCloud infrastructure — Moving Truth operates no service that receives this synced data.": "यदि आपके डिवाइस पर iCloud में साइन इन है, तो InnerWhisper आपके Apple डिवाइसों के बीच दो प्रकार का डेटा सिंक करता है। पूरा सिंक Apple के iCloud ढाँचे द्वारा संभाला जाता है—Moving Truth ऐसी कोई सेवा नहीं चलाता जो यह डेटा प्राप्त करे।",
-    "Favorites (iCloud Key-Value Store)": "पसंदीदा (iCloud Key-Value Store)",
-    "Your list of favorited quote IDs is synced using Apple’s": "आपके पसंदीदा उद्धरणों की ID सूची Apple के",
-    "API.": "API से सिंक होती है।",
-    "Only opaque quote identifier strings are synced (e.g.,": "केवल अपारदर्शी उद्धरण पहचानकर्ता स्ट्रिंग सिंक होती हैं (जैसे,",
-    "). No quote text or personal notes are included.": ")। इसमें उद्धरण का पाठ या निजी नोट शामिल नहीं होते।",
-    "Your Added Quotes (iCloud Documents)": "आपके जोड़े गए उद्धरण (iCloud Documents)",
-    "Any quotes you write yourself are stored as an AES-256-GCM encrypted file synced via your personal iCloud Documents container (": "आपके स्वयं लिखे उद्धरण AES-256-GCM एन्क्रिप्टेड फ़ाइल में संग्रहीत होते हैं, जो आपके निजी iCloud Documents कंटेनर से सिंक होती है (",
-    ").": ")।",
-    "The encryption key for this file is synced via iCloud Keychain (": "इस फ़ाइल की एन्क्रिप्शन कुंजी iCloud Keychain के ज़रिए सिंक होती है (",
-    "), so the same key is available on all your signed-in devices.": "), ताकि आपके सभी साइन-इन डिवाइसों पर वही कुंजी उपलब्ध हो।",
-    "The content of the file is encrypted before it reaches iCloud and is never readable in plaintext by Apple or by us.": "फ़ाइल की सामग्री iCloud तक पहुँचने से पहले एन्क्रिप्ट होती है और Apple या हमारे लिए कभी भी साधारण पाठ में पढ़ने योग्य नहीं होती।",
-    "Apple’s Privacy Policy": "Apple की निजता नीति",
-    "applies to all data processed through iCloud. You can disable iCloud sync for InnerWhisper at any time in": "iCloud के माध्यम से संसाधित सभी डेटा पर लागू होती है। आप InnerWhisper का iCloud सिंक कभी भी यहाँ बंद कर सकते हैं:",
-    "5. Push Notifications": "5. पुश सूचनाएँ",
-    "InnerWhisper delivers daily quote notifications as": "InnerWhisper रोज़ के उद्धरणों की सूचनाएँ",
-    "local notifications": "स्थानीय सूचनाओं",
-    ", scheduled and delivered entirely on your device by iOS. No notification content, schedule, or delivery confirmation is transmitted to any server.": "के रूप में देता है, जिन्हें iOS पूरी तरह आपके डिवाइस पर निर्धारित और पहुँचाता है। किसी सर्वर को सूचना की सामग्री, समय-सारणी या पहुँचने की पुष्टि नहीं भेजी जाती।",
-    "iOS may request permission to send notifications when you first use the app. You can revoke notification permission at any time in": "ऐप पहली बार उपयोग करने पर iOS सूचना भेजने की अनुमति माँग सकता है। आप यह अनुमति कभी भी यहाँ वापस ले सकते हैं:",
-    "6. No Third-Party Services": "6. कोई तृतीय-पक्ष सेवा नहीं",
-    "InnerWhisper does not integrate with any third-party analytics, advertising, or crash-reporting services. Specifically, the app contains no:": "InnerWhisper किसी तृतीय-पक्ष एनालिटिक्स, विज्ञापन या क्रैश-रिपोर्टिंग सेवा से नहीं जुड़ता। विशेष रूप से, ऐप में ये नहीं हैं:",
-    "Analytics SDKs (Firebase Analytics, Amplitude, Mixpanel, etc.)": "Analytics SDK (Firebase Analytics, Amplitude, Mixpanel आदि)",
-    "Advertising networks or tracking pixels": "विज्ञापन नेटवर्क या ट्रैकिंग पिक्सेल",
-    "Crash reporting or performance monitoring services": "क्रैश रिपोर्टिंग या प्रदर्शन निगरानी सेवाएँ",
-    "The core quote library is bundled inside the app. The app may also fetch an optional supplementary quote file from": "मुख्य उद्धरण लाइब्रेरी ऐप में ही शामिल है। ऐप एक वैकल्पिक अतिरिक्त उद्धरण फ़ाइल यहाँ से भी प्राप्त कर सकता है:",
-    "via HTTPS on first load, when its local cache is more than 24 hours old, or when you explicitly request an update. The request contains no app account, advertising identifier, account token, quotes, favorites, settings, or other app content. As with any HTTPS connection, the hosting infrastructure necessarily processes connection information such as an IP address to deliver the file; Moving Truth does not use that request to track or profile you.": "पहली बार खुलने पर, स्थानीय कैश 24 घंटे से पुराना होने पर, या आपके स्पष्ट रूप से अपडेट माँगने पर HTTPS के ज़रिए। अनुरोध में कोई ऐप खाता, विज्ञापन पहचानकर्ता, खाता टोकन, उद्धरण, पसंदीदा, सेटिंग या अन्य ऐप सामग्री नहीं होती। किसी भी HTTPS कनेक्शन की तरह फ़ाइल पहुँचाने के लिए होस्टिंग ढाँचा IP पते जैसी कनेक्शन जानकारी संसाधित करता है; Moving Truth इस अनुरोध से आपको ट्रैक नहीं करता या आपकी प्रोफ़ाइल नहीं बनाता।",
-    "7. Children’s Privacy": "7. बच्चों की निजता",
-    "InnerWhisper is not directed at children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us at the address below and we will delete it promptly.": "InnerWhisper 13 वर्ष से कम उम्र के बच्चों के लिए नहीं बनाया गया है। हम जानबूझकर बच्चों की निजी जानकारी एकत्र नहीं करते। यदि आपको लगता है कि किसी बच्चे ने हमें निजी जानकारी दी है, तो नीचे दिए पते पर संपर्क करें; हम उसे तुरंत हटा देंगे।",
-    "8. Data Retention and Deletion": "8. डेटा रखना और हटाना",
-    "All InnerWhisper data exists solely on your device and in your personal iCloud account. We have no access to it and cannot delete it on your behalf.": "InnerWhisper का सारा डेटा केवल आपके डिवाइस और निजी iCloud खाते में रहता है। हमारी उस तक पहुँच नहीं है और हम आपकी ओर से उसे हटा नहीं सकते।",
-    "To delete local data:": "स्थानीय डेटा हटाने के लिए:",
-    "Delete the InnerWhisper app from your device. iOS removes all associated data automatically.": "अपने डिवाइस से InnerWhisper ऐप हटाएँ। iOS उससे जुड़ा सारा डेटा अपने आप हटा देता है।",
-    "To delete iCloud-synced favorites:": "iCloud से सिंक किए पसंदीदा हटाने के लिए:",
-    "After deleting the app, go to": "ऐप हटाने के बाद यहाँ जाएँ:",
-    "and remove InnerWhisper’s iCloud data if listed.": "और यदि InnerWhisper का iCloud डेटा सूची में हो, तो उसे हटा दें।",
-    "9. Changes to This Policy": "9. इस नीति में बदलाव",
-    "We may update this Privacy Policy from time to time. When we do, we will revise the effective date at the top of this page. We encourage you to review this policy periodically. Continued use of InnerWhisper after changes are posted constitutes your acceptance of the updated policy.": "हम समय-समय पर इस निजता नीति को अपडेट कर सकते हैं। ऐसा होने पर पेज के ऊपर प्रभावी तिथि बदली जाएगी। हम आपको यह नीति समय-समय पर देखने के लिए प्रोत्साहित करते हैं। बदलाव प्रकाशित होने के बाद InnerWhisper का उपयोग जारी रखना अपडेट की गई नीति की स्वीकृति माना जाएगा।",
-    "10. Contact": "10. संपर्क",
-    "If you have questions about this Privacy Policy or InnerWhisper’s data practices, please contact us:": "इस निजता नीति या InnerWhisper की डेटा प्रक्रियाओं के बारे में प्रश्न हों तो हमसे संपर्क करें:",
-    "Email:": "ईमेल:",
-    "← Back to InnerWhisper home": "← InnerWhisper होम पर वापस जाएँ",
-    "Support — InnerWhisper": "सहायता — InnerWhisper",
-    "Help and direct support for InnerWhisper by Moving Truth.": "Moving Truth की ओर से InnerWhisper के लिए सहायता और सीधा सहयोग।",
-    "Skip to support": "सीधे सहायता पर जाएँ",
-    "Home": "होम",
-    "Support navigation": "सहायता नेविगेशन",
-    "Common support topics": "सहायता के सामान्य विषय",
-    "Email us": "हमें ईमेल करें",
-    "InnerWhisper Support": "InnerWhisper सहायता",
-    "InnerWhisper is meant to be quiet and uncomplicated. If something gets between you and the words, start here or contact Moving Truth directly.": "InnerWhisper को शांत और सरल रखा गया है। यदि कोई बात आपके और शब्दों के बीच आ रही हो, तो यहाँ से शुरू करें या सीधे Moving Truth से संपर्क करें।",
-    "Daily notifications": "रोज़ की सूचनाएँ",
-    "Permission, timing, and delivery": "अनुमति, समय और पहुँच",
-    "Favorites and iCloud": "पसंदीदा और iCloud",
-    "Sync across your Apple devices": "आपके Apple डिवाइसों के बीच सिंक",
-    "Your added quotes": "आपके जोड़े गए उद्धरण",
-    "Encryption, storage, and key sync": "एन्क्रिप्शन, स्टोरेज और कुंजी सिंक",
-    "Privacy and deletion": "निजता और हटाना",
-    "What stays where and how to remove it": "क्या कहाँ रहता है और उसे कैसे हटाएँ",
-    "InnerWhisper schedules quote notifications locally on your device. It does not use a Moving Truth notification server.": "InnerWhisper उद्धरण सूचनाएँ स्थानीय रूप से आपके डिवाइस पर निर्धारित करता है। यह Moving Truth के किसी सूचना सर्वर का उपयोग नहीं करता।",
-    "If notifications are not arriving, open iOS Settings, find InnerWhisper, and confirm that Notifications are allowed. Then check the notification schedule and enabled quote collections inside InnerWhisper Settings. iOS controls final delivery timing and may delay notifications in some Focus or power-saving states.": "यदि सूचनाएँ नहीं आ रही हैं, तो iOS Settings खोलें, InnerWhisper चुनें और सुनिश्चित करें कि Notifications की अनुमति है। फिर InnerWhisper Settings में सूचना समय-सारणी और चालू उद्धरण संग्रह जाँचें। अंतिम समय iOS नियंत्रित करता है और कुछ Focus या बिजली-बचत स्थितियों में सूचना देर से आ सकती है।",
-    "Favorite quote identifiers can sync through Apple’s iCloud Key-Value Store when you are signed in to iCloud. Moving Truth does not receive the list.": "iCloud में साइन इन होने पर पसंदीदा उद्धरणों के पहचानकर्ता Apple के iCloud Key-Value Store से सिंक हो सकते हैं। Moving Truth को यह सूची नहीं मिलती।",
-    "If a favorite is slow to appear on another device, confirm that both devices use the same Apple Account, have an internet connection, and allow InnerWhisper to use iCloud. Reopen the app on both devices to give iCloud another opportunity to synchronize.": "यदि कोई पसंदीदा दूसरे डिवाइस पर देर से दिखे, तो सुनिश्चित करें कि दोनों डिवाइस एक ही Apple Account का उपयोग करते हैं, इंटरनेट से जुड़े हैं और InnerWhisper को iCloud उपयोग करने देते हैं। iCloud को फिर सिंक करने का अवसर देने के लिए दोनों डिवाइसों पर ऐप दोबारा खोलें।",
-    "Quotes you write are encrypted on your device before storage. When iCloud is available, the encrypted file can sync through your personal iCloud Documents container and its encryption key can sync through iCloud Keychain.": "आपके लिखे उद्धरण संग्रहीत होने से पहले आपके डिवाइस पर एन्क्रिप्ट होते हैं। iCloud उपलब्ध होने पर एन्क्रिप्टेड फ़ाइल आपके निजी iCloud Documents कंटेनर से और उसकी कुंजी iCloud Keychain से सिंक हो सकती है।",
-    "If InnerWhisper says that your quotes or key are still syncing, keep the app installed, confirm that iCloud Keychain is enabled, wait a few minutes, and reopen the app. Do not reset encryption or delete the app when it holds the only copy of text you want to keep.": "यदि InnerWhisper कहता है कि आपके उद्धरण या कुंजी अभी सिंक हो रहे हैं, तो ऐप इंस्टॉल रहने दें, iCloud Keychain चालू होने की पुष्टि करें, कुछ मिनट रुकें और ऐप फिर खोलें। यदि ऐप में उस पाठ की इकलौती प्रति है जिसे आप रखना चाहते हैं, तो एन्क्रिप्शन रीसेट न करें और ऐप न हटाएँ।",
-    "Quote library and optional updates": "उद्धरण लाइब्रेरी और वैकल्पिक अपडेट",
-    "The core quote library is included with the app and remains available offline. InnerWhisper can also request an optional supplementary quote file over HTTPS. If that request is unavailable, the bundled library continues to work.": "मुख्य उद्धरण लाइब्रेरी ऐप में शामिल है और ऑफ़लाइन उपलब्ध रहती है। InnerWhisper HTTPS से वैकल्पिक अतिरिक्त उद्धरण फ़ाइल भी माँग सकता है। अनुरोध उपलब्ध न हो तो ऐप में शामिल लाइब्रेरी काम करती रहती है।",
-    "If you notice a doubtful attribution or wording, email us with the quote and the source you believe is more accurate. Please do not include any private quote you added yourself unless you deliberately want us to read it.": "यदि किसी उद्धरण का श्रेय या शब्द संदिग्ध लगे, तो उद्धरण और आपके अनुसार अधिक सही स्रोत हमें ईमेल करें। अपना जोड़ा हुआ कोई निजी उद्धरण तब तक शामिल न करें जब तक आप जानबूझकर न चाहते हों कि हम उसे पढ़ें।",
-    "InnerWhisper has no account, advertising, analytics, or tracking SDK. Your app data remains on your device or in your personal iCloud account through Apple’s systems. Read the": "InnerWhisper में कोई खाता, विज्ञापन, एनालिटिक्स या ट्रैकिंग SDK नहीं है। ऐप का डेटा आपके डिवाइस या Apple के सिस्टम के माध्यम से आपके निजी iCloud खाते में रहता है। पढ़ें:",
-    "full Privacy Policy": "पूरी निजता नीति",
-    "for the precise storage, sync, network, and deletion boundaries.": "जिसमें स्टोरेज, सिंक, नेटवर्क और डेटा हटाने की सीमाएँ स्पष्ट रूप से दी गई हैं।",
-    "Deleting InnerWhisper removes its local app data. Synced data may remain in your personal iCloud account until you remove the app’s stored iCloud data through iOS Settings.": "InnerWhisper हटाने से उसका स्थानीय ऐप डेटा मिट जाता है। सिंक किया गया डेटा आपके निजी iCloud खाते में तब तक रह सकता है, जब तक आप iOS Settings से ऐप का संग्रहीत iCloud डेटा नहीं हटाते।",
-    "Accessibility support": "सुगम्यता सहायता",
-    "If VoiceOver, Voice Control, Larger Text, Reduce Motion, contrast, notification access, or another access need is not working gracefully, please tell us which task you were trying to complete. Accessibility problems are product problems.": "यदि VoiceOver, Voice Control, Larger Text, Reduce Motion, कॉन्ट्रास्ट, सूचना पहुँच या कोई अन्य सुगम्यता ज़रूरत सहजता से काम नहीं कर रही, तो हमें बताएँ कि आप कौन-सा काम करना चाह रहे थे। सुगम्यता की समस्या उत्पाद की समस्या है।",
-    "Email Moving Truth": "Moving Truth को ईमेल करें",
-    "Include your iPhone or iPad model, iOS version, InnerWhisper version, and what happened. Please do not send private added quotes unless you intentionally want them included in the support conversation.": "अपने iPhone या iPad का मॉडल, iOS संस्करण, InnerWhisper संस्करण और क्या हुआ, यह बताएँ। अपने जोड़े हुए निजी उद्धरण तब तक न भेजें जब तक आप उन्हें जानबूझकर सहायता बातचीत में शामिल नहीं करना चाहते।",
-    "·": "·",
-    "All apps": "सभी ऐप्स",
-    "Explore all Moving Truth apps": "सभी Moving Truth ऐप्स देखें"
-  },
-  "scriptTranslations": {
-    "A quiet word, exactly when you need it.": "एक शांत संदेश, ठीक उस समय जब आपको उसकी ज़रूरत हो।",
-    "Moonlit": "चाँदनी",
-    "Zen Garden": "ज़ेन उद्यान",
-    "Ember Night": "अंगारों की रात",
-    "Aurora": "ऑरोरा",
-    "One quiet word, placed gently in your day. From Moving Truth — over a thousand quotes drawn from the world’s deepest thinkers, delivered with care.": "आपके दिन में सहजता से रखा गया एक शांत संदेश। Moving Truth की ओर से — दुनिया के गहन विचारकों से चुने गए एक हज़ार से अधिक उद्धरण, संवेदनशीलता के साथ।",
-    "Chosen words": "चुने हुए शब्द",
-    "Your pace": "आपकी गति",
-    "Held close": "आपके पास सुरक्षित",
-    "Kept private": "निजी रखा गया",
-    "Simply made": "सादगी से बनाया गया",
-    "Let stillness speak.": "ख़ामोशी को बोलने दें।",
-    "A daily word from the world’s deepest thinkers, arriving in its own time. Gather what resonates. Let the rest pass.": "दुनिया के गहन विचारकों से हर दिन एक संदेश, अपने समय पर। जो भीतर गूँजे उसे रख लें, बाकी को जाने दें।",
-    "Curated wisdom": "चुनी हुई बुद्धिमत्ता",
-    "Your schedule": "आपका समय",
-    "Simply beautiful": "सरल और सुंदर",
-    "Roots. Stillness. Growth.": "जड़ें। ठहराव। विकास।",
-    "Daily wisdom, drawn from the well of human experience. Arrive here, breath by breath, day by day. Some words take root immediately. Others need time.": "मानवीय अनुभव की गहराई से निकली रोज़ की बुद्धिमत्ता। साँस-दर-साँस, दिन-दर-दिन यहाँ आएँ। कुछ शब्द तुरंत जड़ पकड़ते हैं, कुछ को समय चाहिए।",
-    "Tended quotes": "संवारे हुए उद्धरण",
-    "Morning ritual": "सुबह की साधना",
-    "Gathered": "सहेजे हुए",
-    "Private space": "निजी स्थान",
-    "Natural feel": "प्राकृतिक अनुभूति",
-    "Something small. Sustained.": "कुछ छोटा-सा। जो बना रहे।",
-    "A single ember doesn’t demand your attention — it simply glows, patient and warm. One quote. One moment. Yours to keep or release.": "एक अंगारा आपका ध्यान नहीं माँगता—वह बस धैर्य और गर्माहट से चमकता है। एक उद्धरण। एक पल। रखना या जाने देना, आपका चुनाव।",
-    "Timed arrival": "सही समय पर आगमन",
-    "Kept warm": "गर्माहट से सहेजा",
-    "Protected": "सुरक्षित",
-    "Refined": "सुघड़",
-    "Imperfect. Enough.": "अपूर्ण। फिर भी पर्याप्त।",
-    "Wabi-sabi finds beauty in impermanence and imperfection. This space collects the kind of words that remind you — nothing needs to be perfect to be worth keeping.": "वाबी-साबी नश्वरता और अपूर्णता में सुंदरता देखता है। यह स्थान उन शब्दों को सहेजता है जो याद दिलाते हैं—किसी चीज़ को सँभालकर रखने योग्य होने के लिए पूर्ण होना ज़रूरी नहीं।",
-    "Honest words": "सच्चे शब्द",
-    "Gentle rhythm": "कोमल लय",
-    "Cherished": "सहेजे हुए",
-    "Simple": "सरल",
-    "Grounded": "धरातल से जुड़ा",
-    "Brief and beautiful.": "संक्षिप्त और सुंदर।",
-    "Cherry blossoms don’t cling to the branch. Words are delivered the same way — arriving fully, then letting go. What stays with you, stays.": "चेरी के फूल शाखा से चिपके नहीं रहते। शब्द भी वैसे ही आते हैं—पूरी तरह खिलकर, फिर मुक्त हो जाते हैं। जो आपके साथ रह जाता है, वही रहता है।",
-    "Fleeting wisdom": "क्षणभंगुर बुद्धिमत्ता",
-    "Timed release": "सही समय पर छोड़ना",
-    "Remembered": "याद रखा गया",
-    "Quiet beauty": "शांत सुंदरता",
-    "Softly made": "कोमलता से बनाया गया",
-    " mood": " — माहौल"
+  "schema": "release-fabric/catalog@2",
+  "messages": {
+    "inner-whisper.index.text.0001": {
+      "value": "InnerWhisper — Moving Truth की ओर से",
+      "sourceSha256": "0ac7f0d866ebda30ac5c3ba07180cafcd57a31ff3c6a4d9bceaf19e1881d0a88"
+    },
+    "inner-whisper.index.text.0002": {
+      "value": "विशेषताएँ",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    "inner-whisper.index.text.0003": {
+      "value": "उद्धरण",
+      "sourceSha256": "8dc37869d63b05bdda85dc47d06976975ee238de6526a124ac082a5e2fa4c533"
+    },
+    "inner-whisper.index.text.0004": {
+      "value": "निजता",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-whisper.index.text.0005": {
+      "value": "डाउनलोड करें",
+      "sourceSha256": "d6eafe82359100423c93c5ce53c352c1b51ca1e699215fcec3f5c5dd9bf12d24"
+    },
+    "inner-whisper.index.text.0006": {
+      "value": "सभी ऐप्स",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-whisper.index.text.0007": {
+      "value": "एक शांत संदेश, ठीक उस समय जब आपको उसकी ज़रूरत हो।",
+      "sourceSha256": "2fe8918f5434580d3d0e982010795bdb321820932ce05aaa31460009bdd5e05f"
+    },
+    "inner-whisper.index.text.0008": {
+      "value": "InnerWhisper — एक शांत संदेश, ठीक उस समय जब आपको उसकी ज़रूरत हो।",
+      "sourceSha256": "406fe0e8e7d07cc29d31f0e23a58abcafeaa8eee4ce73448a2acd08e6d0b9554"
+    },
+    "inner-whisper.index.text.0009": {
+      "value": "iOS पर डाउनलोड करें",
+      "sourceSha256": "9b5b04ff74aae2bd3bf16f67aff3d6bd0ce6057615f25753344aa17241bea439"
+    },
+    "inner-whisper.index.text.0010": {
+      "value": "सहायता से संपर्क करें",
+      "sourceSha256": "f8d47b82e285ba9584ad79631b61d57c5887b2fc1ddcc29093ee7f88c4b2042d"
+    },
+    "inner-whisper.index.text.0011": {
+      "value": "और जानने के लिए स्क्रॉल करें",
+      "sourceSha256": "ab07532e4272f92b25b9d24083ed1629d783f3565c64d4442064f165a8f17192"
+    },
+    "inner-whisper.index.text.0012": {
+      "value": "आपके दिन में सहजता से रखा गया एक शांत संदेश। Moving Truth की ओर से — दुनिया के गहन विचारकों से चुने गए एक हज़ार से अधिक उद्धरण, संवेदनशीलता के साथ।",
+      "sourceSha256": "0a37b4b107efcb837e712b11ce93d4b540dfb33982a10e5d8bb416b68d8b62e8"
+    },
+    "inner-whisper.index.text.0013": {
+      "value": "एक फीड नहीं, बस एक धीमा संदेश। आपके डिवाइस पर एन्क्रिप्टेड। कोई खाता नहीं। कोई ट्रैकिंग नहीं। कोई विज्ञापन नहीं।",
+      "sourceSha256": "a84fe3b877b6b45faaf59deea8dc2380d146220a388dfdd37db6ba92b9c0b6c1"
+    },
+    "inner-whisper.index.text.0014": {
+      "value": "चुने हुए शब्द",
+      "sourceSha256": "cb988770458d7108f6f7841c5adaff2481f0f53b8bcbe2ca7baaf7bc43a9d12b"
+    },
+    "inner-whisper.index.text.0015": {
+      "value": "आपकी गति",
+      "sourceSha256": "d49f8d9f65e3e428b67cfd3458e09c0fcecaf93306e7f3cdbfcbe1a59bff9246"
+    },
+    "inner-whisper.index.text.0016": {
+      "value": "आपके पास सुरक्षित",
+      "sourceSha256": "bdae4643e2ded0b08b92ef132fc8324f4b03bacdbf5300eab517b16ec1f41d27"
+    },
+    "inner-whisper.index.text.0017": {
+      "value": "निजी रखा गया",
+      "sourceSha256": "187c44112cef269684fa358a68cefa913e3d18f55b0936b55f56dbbb2ec7d43d"
+    },
+    "inner-whisper.index.text.0018": {
+      "value": "सादगी से बनाया गया",
+      "sourceSha256": "7afd25621d13bcd7789e577b5f33e95b88294b2c510ecbe1a3133348aff4046d"
+    },
+    "inner-whisper.index.text.0019": {
+      "value": "दृश्य थीम",
+      "sourceSha256": "f9a374909063bc66e3c4d3348860fccc9a5cde5f80b9647727dffd6f4d38b3b2"
+    },
+    "inner-whisper.index.text.0020": {
+      "value": "अपना माहौल चुनें।",
+      "sourceSha256": "a9a36b89f678bf450b8212ee9e3a17732213b7637d13264cccf517eb5c4bf865"
+    },
+    "inner-whisper.index.text.0021": {
+      "value": "मुख्य उद्धरण स्क्रीन के लिए तीन जीवंत एनिमेटेड परिवेश, ताकि आप सामने मौजूद शब्दों के साथ पूरी तरह ठहर सकें।",
+      "sourceSha256": "8985be48c60d4a817c2d84f0329060cf1e2b83f4ed857d30cd02c3a732f72352"
+    },
+    "inner-whisper.index.text.0022": {
+      "value": "गहरा अंतरिक्ष",
+      "sourceSha256": "36355fb3d7a9705dd5b81a8e534be4cc10345a42adc105f360beadca39bef548"
+    },
+    "inner-whisper.index.text.0023": {
+      "value": "चलते तारे और आकाशगंगा",
+      "sourceSha256": "d1364545a6003f50258a93650345a2cd635cbe800da452c0f27cc50a9af8c417"
+    },
+    "inner-whisper.index.text.0024": {
+      "value": "ऑरोरा की उत्तरी रोशनियाँ",
+      "sourceSha256": "a4c9d067fa0838aa2072c4bbd241196f75439d6d586a1e4447d28325ffb53539"
+    },
+    "inner-whisper.index.text.0025": {
+      "value": "वन",
+      "sourceSha256": "eed88b3afe90b755e6c7524ea01c2b5a3e75235801054adb2a3a04bb6feaaab7"
+    },
+    "inner-whisper.index.text.0026": {
+      "value": "वन की सांझ",
+      "sourceSha256": "73988dd48bb1922dd8dc1c4c43a97db6c140029360005190373acf197d9a54de"
+    },
+    "inner-whisper.index.text.0027": {
+      "value": "उद्धरण संग्रह",
+      "sourceSha256": "7d5765573ac4acfafc4c18d195f29629adc6c8bc0e6ffdc1dc9b2678689e0f4e"
+    },
+    "inner-whisper.index.text.0028": {
+      "value": "अनेक परंपराओं की बुद्धिमत्ता।",
+      "sourceSha256": "7bb25d6a864833f83344433a00b5f332415b2d38d44c6ab7dc9ae4d6fe1d5c4a"
+    },
+    "inner-whisper.index.text.0029": {
+      "value": "जो संग्रह आपसे जुड़ते हैं, उन्हें चालू रखें। जो नहीं जुड़ते, उन्हें बंद कर दें। आपका अनुभव, आपके ढंग से।",
+      "sourceSha256": "521c23197a41dce9fe5b4b9822e0fe7a01fc73015be6166c23360a72c90ad906"
+    },
+    "inner-whisper.index.text.0030": {
+      "value": "✨ सामान्य",
+      "sourceSha256": "13035221ac5e9aa7399d0b43ee62b2a0ba26634b79ecadfa97b5557fff1cb991"
+    },
+    "inner-whisper.index.text.0031": {
+      "value": "⚡ प्रेरणादायक",
+      "sourceSha256": "52a74938eb9122c8459a91495d202ba040a998a52e14841290be2aaff3a532c5"
+    },
+    "inner-whisper.index.text.0032": {
+      "value": "⚖️ स्टोइक दर्शन",
+      "sourceSha256": "bbab7533feaf7e7be22052211c050c195505da64bbd4b379d4b74428127ff8c6"
+    },
+    "inner-whisper.index.text.0033": {
+      "value": "🍃 प्रकृति",
+      "sourceSha256": "266d1bd2b60882357730d6367b5b865dc7a80cef6d9d18f863a6146e9088be5b"
+    },
+    "inner-whisper.index.text.0034": {
+      "value": "🌲 वन",
+      "sourceSha256": "bf3edef7d4d68f230346e34b27bd63bf61162c0c10016ad426eda5e75b02db96"
+    },
+    "inner-whisper.index.text.0035": {
+      "value": "🌙 अंतरिक्ष",
+      "sourceSha256": "927b0c2e5f921da3dce3f16823f4d0e0024f81dac38a7c534568101d1dfeb640"
+    },
+    "inner-whisper.index.text.0036": {
+      "value": "あ जापानी कहावतें",
+      "sourceSha256": "de5b088510be723536595797cca07ce7281f078b50533e09f3459501e23f4d2d"
+    },
+    "inner-whisper.index.text.0037": {
+      "value": "🌊 एलन वॉट्स",
+      "sourceSha256": "e39be16595b2c8f74115f9a4fa2a3236959a8280ac6244cc2ff5ee3e291df930"
+    },
+    "inner-whisper.index.text.0038": {
+      "value": "🕊️ गांधी",
+      "sourceSha256": "775629588ffc0fae680d571c8a2d4c90626fd8d4ffb18ffec027c0d18415e497"
+    },
+    "inner-whisper.index.text.0039": {
+      "value": "🏛️ विश्व नेता",
+      "sourceSha256": "25e000cf542dcdf4a10ab1e57c7987f6ce947c0db5ad1c737910fb28212eb733"
+    },
+    "inner-whisper.index.text.0040": {
+      "value": "🎭 कलाकार",
+      "sourceSha256": "32a5ef62e4458de2dba0a3b54f8034065618c482cdb4bd37b6930c202102468a"
+    },
+    "inner-whisper.index.text.0041": {
+      "value": "सिर्फ़ आपके लिए बनाया गया।",
+      "sourceSha256": "e08049dc7be28b0df9d5753c9013a90650f8524919ae624efaecb7872c9d769f"
+    },
+    "inner-whisper.index.text.0042": {
+      "value": "InnerWhisper शुरू से इसी सिद्धांत पर बनाया गया है कि आपके मानसिक कल्याण से जुड़ा डेटा केवल आपका है।",
+      "sourceSha256": "47bdc3df299eb4f6774d6d1fd7c060aa69bd84ffac0bb982259439b2b6cfdf79"
+    },
+    "inner-whisper.index.text.0043": {
+      "value": "कभी भी किसी खाते की ज़रूरत नहीं। ऐप खोलें और तुरंत शुरू करें।",
+      "sourceSha256": "e89b60f25c810090fdd830d7562fc123cd2caf7914b46ec660ea22e93d354789"
+    },
+    "inner-whisper.index.text.0044": {
+      "value": "आपके डिवाइस से कोई एनालिटिक्स, क्रैश रिपोर्ट या ट्रैकिंग डेटा बाहर नहीं भेजा जाता।",
+      "sourceSha256": "57086800f4479c71b2a51e366d00a86a55edde1df7fa4b69914d572289a2102c"
+    },
+    "inner-whisper.index.text.0045": {
+      "value": "किसी भी प्रकार का विज्ञापन नेटवर्क या तृतीय-पक्ष SDK नहीं।",
+      "sourceSha256": "6cf40b8832ca833ed7b8ce6da59ec1983861b9d8b041b2f3e13e2968a8219a97"
+    },
+    "inner-whisper.index.text.0046": {
+      "value": "एन्क्रिप्शन कुंजियाँ iOS Keychain में सुरक्षित रहती हैं। उद्धरण फ़ाइलें डिस्क पर AES-256-GCM से एन्क्रिप्ट की जाती हैं।",
+      "sourceSha256": "9e38a1b0ab16b7bca711a917d1279ab32901e295e6861fac787f5d3c9c38271d"
+    },
+    "inner-whisper.index.text.0047": {
+      "value": "सूचनाओं की सामग्री आपके डिवाइस पर ही बनती है — हमारे सर्वर पर कुछ नहीं भेजा जाता।",
+      "sourceSha256": "e460f2d61ec9d649cf5f15ccc51e1aae44d5bdf8539c1f2351dfc956cea33160"
+    },
+    "inner-whisper.index.text.0048": {
+      "value": "आपके पसंदीदा और जोड़े गए उद्धरण Apple के iCloud ढाँचे से सिंक होते हैं, हमारे ढाँचे से नहीं। Apple की निजता नीति लागू होती है।",
+      "sourceSha256": "33b4cb06aefe789a62910c03927b251d4022a1ff592201c3afaffda6562bde50"
+    },
+    "inner-whisper.index.text.0049": {
+      "value": "Apple को दिया गया Privacy Manifest: ट्रैकिंग बंद है और किसी निजी डेटा प्रकार की घोषणा नहीं की गई है।",
+      "sourceSha256": "5415eb6c60b0ff1f07b6266e08323485b4eda879b2247cc0ef2cbf3512321799"
+    },
+    "inner-whisper.index.text.0050": {
+      "value": "पूरी निजता नीति पढ़ें →",
+      "sourceSha256": "f02a7103d4c944a0ec94c355874e5044ed7d363a7fefe8a8c8e1304eaf056c28"
+    },
+    "inner-whisper.index.text.0051": {
+      "value": "Moving Truth की ओर से",
+      "sourceSha256": "3daa3456fa0b55162e7c72b8d69a3fff181d034edf3423bcf3ce5a972cf2aab4"
+    },
+    "inner-whisper.index.text.0052": {
+      "value": "Skylaur Roe द्वारा ♥ से बनाया गया",
+      "sourceSha256": "305e512fb0fab67d1cc253725023b9061f3dba1b8d4f968f0f6f2615d6ada736"
+    },
+    "inner-whisper.index.text.0053": {
+      "value": "सभी Moving Truth ऐप्स देखें",
+      "sourceSha256": "1a8f383841d7faff0dd5d4232e122c1fc9c9cd70a6081e1df6caffd492edc277"
+    },
+    "inner-whisper.index.text.0054": {
+      "value": "🌍 उद्धरण संग्रह",
+      "sourceSha256": "4fa1493da7516ee17d5cf1146161135be3f91fd4dd81a956d452caf84de79294"
+    },
+    "inner-whisper.index.text.0055": {
+      "value": "🔒 निजता नीति",
+      "sourceSha256": "734035b5e2a3dec202e88bbd07efb22e1f513e5d0f9cfda0b51a1d3da5fbc236"
+    },
+    "inner-whisper.index.text.0056": {
+      "value": "💬 उद्धरणों के स्रोत",
+      "sourceSha256": "95c52c90d0f5edbc53f4b9051505c3183c593ab4dddbf5c12f397f1e9df7a2a0"
+    },
+    "inner-whisper.index.text.0057": {
+      "value": "InnerWhisper के उद्धरण सार्वजनिक डोमेन की रचनाओं, ऐतिहासिक लेखों और व्यापक रूप से प्रचलित स्रोतों से लिए गए हैं। हर उद्धरण के शब्द या श्रेय की पूरी सटीकता की गारंटी नहीं दी जा सकती—कई प्रसिद्ध उद्धरण बदले हुए रूप में मिलते हैं या उनके मूल को लेकर मतभेद हैं। आपको कुछ गलत लगे तो हमें सचमुच बताइए:",
+      "sourceSha256": "a2fc097c7ceea65ba45bc0d76a4c468505d5c3e30dd5bdacb77efbcf61107651"
+    },
+    "inner-whisper.index.text.0058": {
+      "value": "माहौल चुनें",
+      "sourceSha256": "cd7e82a4e39373da8ef574b19bbe9a6327f84123b643915df00f8c7adf412048"
+    },
+    "inner-whisper.index.text.0059": {
+      "value": "अब उपलब्ध",
+      "sourceSha256": "ece3a35b6a6ac125992853db808bc7831e7d4b45aa055608f41e94aa6bd4afe9"
+    },
+    "inner-whisper.index.text.0060": {
+      "value": "InnerWhisper अब App Store पर उपलब्ध है।",
+      "sourceSha256": "4b8a19a7e0bd194c45fb354dcaead26f287f103983cb39764236320772bef49b"
+    },
+    "inner-whisper.index.text.0061": {
+      "value": "इसे डाउनलोड करें और किसी उद्धरण को सही समय पर आप तक आने दें। कोई सवाल है? हमें लिखें:",
+      "sourceSha256": "e90fbdb71004bcc19802fbbaf88f889b9150c25f696a6cf0f5638e1ff887fc0f"
+    },
+    "inner-whisper.index.text.0062": {
+      "value": "📱 App Store से डाउनलोड करें",
+      "sourceSha256": "d7d6f648b27b842eb26c80c3d4f2f06acb16c7fb85a8091070668898a192940f"
+    },
+    "inner-whisper.index.text.0063": {
+      "value": "निजता नीति",
+      "sourceSha256": "506ff394621596dd88138642eddfc1e41833b3ae92d95e5c77c94327098abd9a"
+    },
+    "inner-whisper.index.text.0064": {
+      "value": "सहायता",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-whisper.index.text.0065": {
+      "value": "विशेषताएँ",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    "inner-whisper.index.text.0066": {
+      "value": "निजता",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-whisper.index.text.0067": {
+      "value": "सभी ऐप्स",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-whisper.index.text.0068": {
+      "value": "© 2026 InnerWhisper, Moving Truth की ओर से। iOS के लिए SwiftUI में बनाया गया।",
+      "sourceSha256": "6d671ce245bd7af26e2735b03c4fe525bedc62d9ccbbd489f697cb09845daf71"
+    },
+    "inner-whisper.index.attribute.0001": {
+      "value": "InnerWhisper — Moving Truth का रोज़ का एक शांत संदेश। उद्धरण, ठहराव और आत्मचिंतन, सहजता से आपके पास। कोई खाता, ट्रैकिंग या विज्ञापन नहीं; वैकल्पिक सिंक आपके निजी iCloud खाते का उपयोग करता है।",
+      "sourceSha256": "06fc03809480fd440e040326ed053eaf863d251f70c975bcc4b50c1cc79a985a"
+    },
+    "inner-whisper.index.attribute.0002": {
+      "value": "InnerWhisper — Moving Truth की ओर से",
+      "sourceSha256": "0ac7f0d866ebda30ac5c3ba07180cafcd57a31ff3c6a4d9bceaf19e1881d0a88"
+    },
+    "inner-whisper.index.attribute.0003": {
+      "value": "InnerWhisper का होम पेज",
+      "sourceSha256": "4d8038b0934744ad7ae4e4c882606c0ac2eabbebd51cae473611c66205be85ae"
+    },
+    "inner-whisper.index.attribute.0004": {
+      "value": "InnerWhisper ऐप का आइकन",
+      "sourceSha256": "5de43521f26ee0e57fb421004d6e9297349dadcbdb79ae2ed30aa80d3fe183b7"
+    },
+    "inner-whisper.index.attribute.0005": {
+      "value": "नेविगेशन मेनू खोलें",
+      "sourceSha256": "ef373a9f3656aedacc224159b6b974f7f0e1d0874f2bf688e04ec8c255f827f2"
+    },
+    "inner-whisper.index.attribute.0006": {
+      "value": "InnerWhisper का पत्ता",
+      "sourceSha256": "6a23d73bf8c4b58b86d4a1b2aed587e81bcefd1118c13379fbaa2261c66ee9de"
+    },
+    "inner-whisper.index.attribute.0007": {
+      "value": "App Store से डाउनलोड करें",
+      "sourceSha256": "ccd534e0d967abf1ad3fdbfb48fdbb86bbcce702b83f9dca9bf549d92818367e"
+    },
+    "inner-whisper.index.attribute.0008": {
+      "value": "InnerWhisper के बारे में",
+      "sourceSha256": "15d583c14082fbb5b20a6594b6262ab814f233e841a77c46dd6679f09bfefaeb"
+    },
+    "inner-whisper.index.attribute.0009": {
+      "value": "विशेषताएँ",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    "inner-whisper.index.attribute.0010": {
+      "value": "अंतरिक्ष थीम का स्क्रीनशॉट",
+      "sourceSha256": "a82d5dd5e23f3848fd19d853efae0e9e0d37c1cc452216977fa87977c2c9af19"
+    },
+    "inner-whisper.index.attribute.0011": {
+      "value": "चलते तारों वाली गहरे अंतरिक्ष की थीम",
+      "sourceSha256": "d72c622ae7219e306bd48e55558ce795224c1d4cd6b77d1dd3b636c19aae700d"
+    },
+    "inner-whisper.index.attribute.0012": {
+      "value": "ऑरोरा थीम का स्क्रीनशॉट",
+      "sourceSha256": "6a5cb9622a385825c5f5c05de320c68d4d37f6177b1793fbec1ef545b4d2d8d9"
+    },
+    "inner-whisper.index.attribute.0013": {
+      "value": "ऑरोरा थीम का परिवेश",
+      "sourceSha256": "23f9275004d6204b6311f1c5bef3669c871e205365c0b59b5d94198dbbfd8f2d"
+    },
+    "inner-whisper.index.attribute.0014": {
+      "value": "वन थीम का स्क्रीनशॉट",
+      "sourceSha256": "f6d929dabfb7242b3fd2d4a21e504dc7c4ed1488d7569424acb14092cc7074f4"
+    },
+    "inner-whisper.index.attribute.0015": {
+      "value": "वन थीम का परिवेश",
+      "sourceSha256": "96b07e8a86d108b80b2cfa4ccc6b34154f611b3b06b7e1ba9f728c0a22ae143d"
+    },
+    "inner-whisper.index.attribute.0016": {
+      "value": "InnerWhisper की पूरी निजता नीति पढ़ें",
+      "sourceSha256": "97db98ed9e5fa52b52cd1647b4814b193e55f45463d728c2d3622181d4f0edc8"
+    },
+    "inner-whisper.index.attribute.0017": {
+      "value": "Moving Truth के बारे में",
+      "sourceSha256": "9e010112763306f8c869449c867a0a6e7bd9a0f2207e01ee92965346f2bf5cbe"
+    },
+    "inner-whisper.index.attribute.0018": {
+      "value": "Moving Truth। movingtruth.com खोलता है",
+      "sourceSha256": "5b7032d6f78452d2eb6600a557b42ecdf67966e8dc057586856fb65f9f1aaa08"
+    },
+    "inner-whisper.index.attribute.0019": {
+      "value": "Moving Truth का लोगो",
+      "sourceSha256": "3c19c00420a1f78422a5cdb3fe3d6d00e2c33c24e5cb83ec54b8459b70b8fbb7"
+    },
+    "inner-whisper.index.attribute.0020": {
+      "value": "लिंक",
+      "sourceSha256": "9024c197d84940e47ff6aa631b7711c4cbff4e7fb2fe1a574a3592b662983a0d"
+    },
+    "inner-whisper.index.attribute.0021": {
+      "value": "परिचय पेज का माहौल",
+      "sourceSha256": "735f268b4fea060f1734880cfcf79e212d97965fee39558532b19f1b4dae344a"
+    },
+    "inner-whisper.index.attribute.0022": {
+      "value": "InnerWhisper ऐप का आइकन",
+      "sourceSha256": "5de43521f26ee0e57fb421004d6e9297349dadcbdb79ae2ed30aa80d3fe183b7"
+    },
+    "inner-whisper.index.attribute.0023": {
+      "value": "फुटर लिंक",
+      "sourceSha256": "b8e78ad47ec6b1e4ce82786cf3900fd8697c05d914c13ddb5cc942d2c202b83b"
+    },
+    "inner-whisper.index.script.0001": {
+      "value": "एक शांत संदेश, ठीक उस समय जब आपको उसकी ज़रूरत हो।",
+      "sourceSha256": "2fe8918f5434580d3d0e982010795bdb321820932ce05aaa31460009bdd5e05f"
+    },
+    "inner-whisper.index.script.0002": {
+      "value": "चुने हुए शब्द",
+      "sourceSha256": "cb988770458d7108f6f7841c5adaff2481f0f53b8bcbe2ca7baaf7bc43a9d12b"
+    },
+    "inner-whisper.index.script.0003": {
+      "value": "आपकी गति",
+      "sourceSha256": "d49f8d9f65e3e428b67cfd3458e09c0fcecaf93306e7f3cdbfcbe1a59bff9246"
+    },
+    "inner-whisper.index.script.0004": {
+      "value": "आपके पास सुरक्षित",
+      "sourceSha256": "bdae4643e2ded0b08b92ef132fc8324f4b03bacdbf5300eab517b16ec1f41d27"
+    },
+    "inner-whisper.index.script.0005": {
+      "value": "निजी रखा गया",
+      "sourceSha256": "187c44112cef269684fa358a68cefa913e3d18f55b0936b55f56dbbb2ec7d43d"
+    },
+    "inner-whisper.index.script.0006": {
+      "value": "सादगी से बनाया गया",
+      "sourceSha256": "7afd25621d13bcd7789e577b5f33e95b88294b2c510ecbe1a3133348aff4046d"
+    },
+    "inner-whisper.index.script.0007": {
+      "value": "ऑरोरा",
+      "sourceSha256": "e9de098c7733b1b9a6c985aaf3555f7cd10877a0fae0f1ecaab71fefc05d0b3a"
+    },
+    "inner-whisper.index.script.0008": {
+      "value": " — माहौल",
+      "sourceSha256": "66c02dfbdb4096b47c2356db083a0b1292b776916776400d004f4001556cb5fb"
+    },
+    "inner-whisper.index.script.0009": {
+      "value": "आपके दिन में सहजता से रखा गया एक शांत संदेश। Moving Truth की ओर से — दुनिया के गहन विचारकों से चुने गए एक हज़ार से अधिक उद्धरण, संवेदनशीलता के साथ।",
+      "sourceSha256": "0a37b4b107efcb837e712b11ce93d4b540dfb33982a10e5d8bb416b68d8b62e8"
+    },
+    "inner-whisper.index.script.0010": {
+      "value": "चाँदनी",
+      "sourceSha256": "4361d21ad810cb99006604ea8d1f67083a56ec1707f74317adc47e924ddf11e4"
+    },
+    "inner-whisper.index.script.0011": {
+      "value": "ख़ामोशी को बोलने दें।",
+      "sourceSha256": "aea6757fbdfd3b9e898413ea31fcaeeca7b823eaad98b340ce9c95f110278e4b"
+    },
+    "inner-whisper.index.script.0012": {
+      "value": "दुनिया के गहन विचारकों से हर दिन एक संदेश, अपने समय पर। जो भीतर गूँजे उसे रख लें, बाकी को जाने दें।",
+      "sourceSha256": "572185be6c2815021a86c0f451a044e767bba89622656d82f388f2bf5d532321"
+    },
+    "inner-whisper.index.script.0013": {
+      "value": "चुनी हुई बुद्धिमत्ता",
+      "sourceSha256": "32c55aaf210542011fd520b66f40f1f912ce425366b89a18766cbc5c80b816d1"
+    },
+    "inner-whisper.index.script.0014": {
+      "value": "आपका समय",
+      "sourceSha256": "0dcfbd5190cf2adae4cc975c3202e70e9d2591c3466752aaca51e5a20ce8efdc"
+    },
+    "inner-whisper.index.script.0015": {
+      "value": "सरल और सुंदर",
+      "sourceSha256": "79b363c087fd0ad2a40a3e0a1ffe2b552a16ab2bcc4b14a432ddb578fed0f222"
+    },
+    "inner-whisper.index.script.0016": {
+      "value": "ज़ेन उद्यान",
+      "sourceSha256": "6b6088e05cd412981cba40fb0ab60e3ec9edc54ecfd5e0b2f4122e2c0a2b784c"
+    },
+    "inner-whisper.index.script.0017": {
+      "value": "जड़ें। ठहराव। विकास।",
+      "sourceSha256": "99cad103e37351535e0af4a1a49dbecbdc4594e5b6802f2cd6e23f778f367ca0"
+    },
+    "inner-whisper.index.script.0018": {
+      "value": "मानवीय अनुभव की गहराई से निकली रोज़ की बुद्धिमत्ता। साँस-दर-साँस, दिन-दर-दिन यहाँ आएँ। कुछ शब्द तुरंत जड़ पकड़ते हैं, कुछ को समय चाहिए।",
+      "sourceSha256": "6dd3e98730d97598b2f185dcb30517dfe0aa7f2d254ee81cfeb938582bb231a5"
+    },
+    "inner-whisper.index.script.0019": {
+      "value": "संवारे हुए उद्धरण",
+      "sourceSha256": "51ce282dad0523c3910db1612ba6ebc78ce153d4e5629a79715dfdfd4127cef1"
+    },
+    "inner-whisper.index.script.0020": {
+      "value": "सुबह की साधना",
+      "sourceSha256": "9109ec6d44bf8027031c888e354910159f4afa31a1b1856795435c40db92b362"
+    },
+    "inner-whisper.index.script.0021": {
+      "value": "सहेजे हुए",
+      "sourceSha256": "cbc1860a640e1754024e37b60caed8cbf24e12c783ef598df21fca23b7739f30"
+    },
+    "inner-whisper.index.script.0022": {
+      "value": "निजी स्थान",
+      "sourceSha256": "6536d2398dad1265c0d37c1c0934e3fa0e16d6f38ed02ac055e0abbd685b850a"
+    },
+    "inner-whisper.index.script.0023": {
+      "value": "प्राकृतिक अनुभूति",
+      "sourceSha256": "5c3c3c838d69021c1453e7d7dfbb3faa04a9c8edf7c8fbc3a34fafdc2eb2f7f1"
+    },
+    "inner-whisper.index.script.0024": {
+      "value": "अंगारों की रात",
+      "sourceSha256": "819554cefbf22cab5ec4501af8547b88f91872395775a8192093cab67be0daf1"
+    },
+    "inner-whisper.index.script.0025": {
+      "value": "कुछ छोटा-सा। जो बना रहे।",
+      "sourceSha256": "3396fc0fa7deb2c3f989e1079f792c11e04dcb84f815e7bb91ebf4f963dfd8cb"
+    },
+    "inner-whisper.index.script.0026": {
+      "value": "एक अंगारा आपका ध्यान नहीं माँगता—वह बस धैर्य और गर्माहट से चमकता है। एक उद्धरण। एक पल। रखना या जाने देना, आपका चुनाव।",
+      "sourceSha256": "f536040b53298515d1d0faaf6fd967c535b16f6cb5a47d4c56c3855aaaedd806"
+    },
+    "inner-whisper.index.script.0027": {
+      "value": "सही समय पर आगमन",
+      "sourceSha256": "b00a80d6ff7fd4afdf12a8d4697dbdd7d23516e312f13f3e2b083e00bcf1844b"
+    },
+    "inner-whisper.index.script.0028": {
+      "value": "गर्माहट से सहेजा",
+      "sourceSha256": "0ebb570aac6cbc684aeea6628f4a5a231d9fc604e4eaa644baea2ac169cb4602"
+    },
+    "inner-whisper.index.script.0029": {
+      "value": "सुरक्षित",
+      "sourceSha256": "b0ed263373361b8ec0ea4f86a4a6970a2e44fb0a83bb60f4dde908bca272683e"
+    },
+    "inner-whisper.index.script.0030": {
+      "value": "सुघड़",
+      "sourceSha256": "d81ab3063ec476535604befadd2d7543875359eb40bf563324887321eda16769"
+    },
+    "inner-whisper.index.script.0031": {
+      "value": "अपूर्ण। फिर भी पर्याप्त।",
+      "sourceSha256": "228e067260afa138eb0b90ddc2cee3dde9f73640f1034869c48c1bf954280156"
+    },
+    "inner-whisper.index.script.0032": {
+      "value": "वाबी-साबी नश्वरता और अपूर्णता में सुंदरता देखता है। यह स्थान उन शब्दों को सहेजता है जो याद दिलाते हैं—किसी चीज़ को सँभालकर रखने योग्य होने के लिए पूर्ण होना ज़रूरी नहीं।",
+      "sourceSha256": "fdd343e8577d33f6e0a68ba891e82a18d5a38923e59d0fc2e2c09fd6d9fb410b"
+    },
+    "inner-whisper.index.script.0033": {
+      "value": "सच्चे शब्द",
+      "sourceSha256": "902aa9212389c8914d6cd2df19e1d25b3cfc65a4c95ff2b0c57385d2e7066192"
+    },
+    "inner-whisper.index.script.0034": {
+      "value": "कोमल लय",
+      "sourceSha256": "a92342eee32b139c9338dac6ec00ee7754db74690a21f6d0bc8bc996500440f0"
+    },
+    "inner-whisper.index.script.0035": {
+      "value": "सहेजे हुए",
+      "sourceSha256": "91e29155f215d2be26e4657eb09e88ffc001baa1927e9bacceda702a043f1d7e"
+    },
+    "inner-whisper.index.script.0036": {
+      "value": "सरल",
+      "sourceSha256": "3fee95da5ab69ebfdc16ec892b754105a11c20203054a6c6bcc0a60176891043"
+    },
+    "inner-whisper.index.script.0037": {
+      "value": "धरातल से जुड़ा",
+      "sourceSha256": "5b6f73f04fe1a6af2dc43bebb45478862b0bd1fe079eed12f8bc2000a59bf68c"
+    },
+    "inner-whisper.index.script.0038": {
+      "value": "संक्षिप्त और सुंदर।",
+      "sourceSha256": "734c0153b1109c04450ef156c8182541c2ec5f5d9d29ee532f7a6d772454b567"
+    },
+    "inner-whisper.index.script.0039": {
+      "value": "चेरी के फूल शाखा से चिपके नहीं रहते। शब्द भी वैसे ही आते हैं—पूरी तरह खिलकर, फिर मुक्त हो जाते हैं। जो आपके साथ रह जाता है, वही रहता है।",
+      "sourceSha256": "61781afb82edf1099de1b13ba98f2087d0bcee0ad1ac693e8c193fa9342ba152"
+    },
+    "inner-whisper.index.script.0040": {
+      "value": "क्षणभंगुर बुद्धिमत्ता",
+      "sourceSha256": "daea37a32747c93b18ff43b3dfc152b4de9977a2ea5363c089f9f934d8050b94"
+    },
+    "inner-whisper.index.script.0041": {
+      "value": "सही समय पर छोड़ना",
+      "sourceSha256": "b80586a757f801d27e25e46b2b913041f8140dccd15dc914f6568b6018336d5c"
+    },
+    "inner-whisper.index.script.0042": {
+      "value": "याद रखा गया",
+      "sourceSha256": "a913983316ada7af9d13ea3590615911c1bba6453759f6ee6e56d214d97e976f"
+    },
+    "inner-whisper.index.script.0043": {
+      "value": "शांत सुंदरता",
+      "sourceSha256": "dc1dd4ff6afebef677e77c6002e67ad7209bd7bd115c4497c69ef752f0dd5ba5"
+    },
+    "inner-whisper.index.script.0044": {
+      "value": "कोमलता से बनाया गया",
+      "sourceSha256": "5fe9ec730b409b34e0ff019925e447784e4967dd91e9e7d63dc86ba877841e9e"
+    },
+    "inner-whisper.privacy-policy.text.0001": {
+      "value": "निजता नीति — InnerWhisper",
+      "sourceSha256": "40e0affb7c94421305c87d1ad561fe741de7f3174ba8a606ad39737ab10d9678"
+    },
+    "inner-whisper.privacy-policy.text.0002": {
+      "value": "← होम पर वापस जाएँ",
+      "sourceSha256": "85a6fae78f2983c9a3eb734e890848e2faab63926b43fa53fa7767fdd259ddb9"
+    },
+    "inner-whisper.privacy-policy.text.0003": {
+      "value": "निजता नीति",
+      "sourceSha256": "506ff394621596dd88138642eddfc1e41833b3ae92d95e5c77c94327098abd9a"
+    },
+    "inner-whisper.privacy-policy.text.0004": {
+      "value": "प्रभावी तिथि: 2026 • लागू: iOS के लिए InnerWhisper",
+      "sourceSha256": "9511ad9d32bf2fc3123034d0f71143da95346d3bdaf76ab95fe26d0f00a11def"
+    },
+    "inner-whisper.privacy-policy.text.0005": {
+      "value": "संक्षेप में:",
+      "sourceSha256": "b15965b78fb7b55212e89d6d88ef412bbd939f3cf1c1a7e8769fff06705538b8"
+    },
+    "inner-whisper.privacy-policy.text.0006": {
+      "value": "InnerWhisper आपका निजी डेटा न एकत्र करता है, न बेचता है। ऐप का डेटा आपके डिवाइस पर या iCloud उपलब्ध होने पर Apple के सिस्टम के माध्यम से आपके निजी iCloud खाते में रहता है। Moving Truth को आपके पसंदीदा या जोड़े गए उद्धरण कभी नहीं मिलते। ऐप वैकल्पिक अतिरिक्त उद्धरण फ़ाइल के लिए अलग HTTPS अनुरोध कर सकता है; उस अनुरोध में कोई ऐप खाता या ऐप सामग्री नहीं होती।",
+      "sourceSha256": "682fdf97dcb4d0c15413815c6d34de0da21077e7177df0a30d9b67f093e6c516"
+    },
+    "inner-whisper.privacy-policy.text.0007": {
+      "value": "1. इस नीति के बारे में",
+      "sourceSha256": "f939ba39e3a8d3a804d2bd5de1d7ef9156356eb639d3b8954a9fafd6b05b8234"
+    },
+    "inner-whisper.privacy-policy.text.0008": {
+      "value": "यह निजता नीति बताती है कि InnerWhisper iOS ऐप का उपयोग करते समय InnerWhisper (“हम” या “ऐप”) जानकारी को कैसे संभालता है। ऐप का उपयोग करके आप यहाँ बताई गई प्रक्रियाओं से सहमत होते हैं।",
+      "sourceSha256": "f7c8b9ac148f8558918f936dd32e402f10bf154ad314df1198f36e5957469829"
+    },
+    "inner-whisper.privacy-policy.text.0009": {
+      "value": "हम आपकी निजता के प्रति प्रतिबद्ध हैं। ऐप इस तरह बनाया गया है कि Moving Truth आपके डेटा तक पहुँच न सके: वह आपके डिवाइस पर रहता है या iCloud उपलब्ध होने पर आपके निजी iCloud खाते के ज़रिए आपके Apple डिवाइसों के बीच जाता है।",
+      "sourceSha256": "2103c3beaf654701b3d9b6febfcd20caff78c2d503b4e5be4181e502a1354f92"
+    },
+    "inner-whisper.privacy-policy.text.0010": {
+      "value": "2. वह जानकारी जो हम एकत्र नहीं करते",
+      "sourceSha256": "d874bd496502820aaa82180e6ce95495918d7e14290390abfc264bbfeaff345e"
+    },
+    "inner-whisper.privacy-policy.text.0011": {
+      "value": "InnerWhisper निम्न जानकारी को एकत्र, संग्रहीत या प्रसारित नहीं करता:",
+      "sourceSha256": "0de9ec93025af5387ec298872ab5d05947bbc72b879574efa14b81c5757a9ba4"
+    },
+    "inner-whisper.privacy-policy.text.0012": {
+      "value": "आपका नाम, ईमेल पता या पहचान बताने वाली कोई जानकारी",
+      "sourceSha256": "82dd412b21fdb7289f3d2ce7d327c1457ab7b1236740e5d524f3af7e37f07381"
+    },
+    "inner-whisper.privacy-policy.text.0013": {
+      "value": "किसी भी प्रकार का स्थान डेटा",
+      "sourceSha256": "42f051f8f4915f19a8d0fed76ca9da1758d012330da711cc8115c169860997c3"
+    },
+    "inner-whisper.privacy-policy.text.0014": {
+      "value": "ऐप में आपके द्वारा उपयोग किया गया स्वास्थ्य या कल्याण डेटा",
+      "sourceSha256": "207409d49671e84f19aa643d91e69d87ea249bd5a4935736cada81f4444fed2e"
+    },
+    "inner-whisper.privacy-policy.text.0015": {
+      "value": "डिवाइस पहचानकर्ता (IDFA, IDFV या इसी प्रकार के)",
+      "sourceSha256": "3df786df3b206e2828e98ee729bc18e45fc12f522b80ff8e4ce99ad5b8005229"
+    },
+    "inner-whisper.privacy-policy.text.0016": {
+      "value": "उपयोग संबंधी एनालिटिक्स या व्यवहार डेटा",
+      "sourceSha256": "5c5e4d40c0ce998cb3c9be99debe1e80b3669f44694c6ba24434435a95fe89ea"
+    },
+    "inner-whisper.privacy-policy.text.0017": {
+      "value": "हमारे सर्वर पर भेजे गए क्रैश लॉग या डायग्नोस्टिक्स",
+      "sourceSha256": "c6c3c21505b3dabdd9e32292880cc05e4ec16d7e292b19b60bc072932d6ecbbe"
+    },
+    "inner-whisper.privacy-policy.text.0018": {
+      "value": "InnerWhisper का उपयोग करने के लिए खाते की ज़रूरत नहीं है। Moving Truth ऐसी कोई सेवा नहीं चलाता जो आपके उद्धरण, पसंदीदा, सेटिंग, सूचना समय-सारणी या ऐप की अन्य सामग्री प्राप्त करे।",
+      "sourceSha256": "b9306c28436c90d6138113708a1fa9192a289a22aba40eda0f9ffe33357658cd"
+    },
+    "inner-whisper.privacy-policy.text.0019": {
+      "value": "InnerWhisper का Apple Privacy Manifest घोषित करता है",
+      "sourceSha256": "d7c6f1d0c75dbdb13523cf97e47c499d0e5dda0d9ebbd09cbf56b15ad890f2a9"
+    },
+    "inner-whisper.privacy-policy.text.0020": {
+      "value": "और Apple की निजता आवश्यकताओं के अनुसार किसी एकत्रित डेटा प्रकार को सूचीबद्ध नहीं करता।",
+      "sourceSha256": "66e8da332e274ce827d3f2124acfa9c911acc298c92995f30c2f87506a2f0946"
+    },
+    "inner-whisper.privacy-policy.text.0021": {
+      "value": "3. आपके डिवाइस पर संग्रहीत डेटा",
+      "sourceSha256": "2b99034e2f1f92be06660e42ff1029afe32d19f1f796764171c1d833f02f92d0"
+    },
+    "inner-whisper.privacy-policy.text.0022": {
+      "value": "ऐप निम्न डेटा आपके डिवाइस पर संग्रहीत करता है। आपके पसंदीदा और जोड़े गए एन्क्रिप्टेड उद्धरण, अनुभाग 4 के अनुसार, आपके निजी iCloud खाते से सिंक भी हो सकते हैं:",
+      "sourceSha256": "904c43834481d4c8f78e008394950664a1cf0c1fd2f39ac410d352bce3b438f4"
+    },
+    "inner-whisper.privacy-policy.text.0023": {
+      "value": "ऐप प्राथमिकताएँ",
+      "sourceSha256": "c769a96e14b48fa37a9d7f2673c2423fe08f37e8ca116ce45897844fd5a308a4"
+    },
+    "inner-whisper.privacy-policy.text.0024": {
+      "value": "— सूचना समय-सारणी, दृश्य थीम और उद्धरण संग्रह सेटिंग, Apple के",
+      "sourceSha256": "c7b53424255de8f00abc89aee954aac9966d6e12385d53430595495c3ef6d29b"
+    },
+    "inner-whisper.privacy-policy.text.0025": {
+      "value": "में संग्रहीत और डिवाइस लॉक होने पर iOS Data Protection से सुरक्षित",
+      "sourceSha256": "bca7255baba32240bd90766d3696acf930871e6906f5c0656ef1ee4e167e66b0"
+    },
+    "inner-whisper.privacy-policy.text.0026": {
+      "value": "पसंदीदा सूची",
+      "sourceSha256": "57103a742c23ef589d4cf151120b2288f8dfab5498cacffb1fab8be2ce6316ed"
+    },
+    "inner-whisper.privacy-policy.text.0027": {
+      "value": "— आपके सहेजे गए उद्धरणों की ID, स्थानीय रूप से संग्रहीत और वैकल्पिक रूप से iCloud से सिंक (अनुभाग 4 देखें)",
+      "sourceSha256": "de06f56b5bf3351f418ece324cf714b13b4a8614ff13c2d3a6284bf78235e71c"
+    },
+    "inner-whisper.privacy-policy.text.0028": {
+      "value": "एन्क्रिप्शन कुंजियाँ",
+      "sourceSha256": "cb29ca3bf2fa756be0783e371c3f4cdd113eb799585c61873902efa809fbbe8d"
+    },
+    "inner-whisper.privacy-policy.text.0029": {
+      "value": "— iOS Keychain में संग्रहीत, आपके डिवाइस पासकोड और Secure Enclave से सुरक्षित",
+      "sourceSha256": "f41a6fb9e5c2a46a89fc8bcc4475b6dafe1c1db87267e087a8988c177e1e0036"
+    },
+    "inner-whisper.privacy-policy.text.0030": {
+      "value": "उद्धरण फ़ाइलें",
+      "sourceSha256": "3464e437fd75be42fd5f53c5310a3aa53c15e436109cd767375011b820e30b03"
+    },
+    "inner-whisper.privacy-policy.text.0031": {
+      "value": "— संयुक्त उद्धरण लाइब्रेरी और आपके जोड़े हुए उद्धरण, ऐप स्टोरेज में एन्क्रिप्टेड फ़ाइलों के रूप में; Keychain में रखी कुंजियों से AES-256-GCM द्वारा एन्क्रिप्टेड",
+      "sourceSha256": "0f426819be20701ab1310d13243eb436f7dea4a72ee1eb25301e2d39ac1213e8"
+    },
+    "inner-whisper.privacy-policy.text.0032": {
+      "value": "उद्धरण फ़ाइलें डिस्क पर AES-256-GCM से एन्क्रिप्ट होती हैं। ऐप प्राथमिकताएँ और सेटिंग iOS Data Protection पर निर्भर हैं। ऐप की Settings में एन्क्रिप्शन कभी भी चालू या बंद किया जा सकता है; बंद होने पर फ़ाइलें केवल iOS फ़ाइल सुरक्षा पर निर्भर रहती हैं। ऐप हटाने से डिवाइस पर स्थानीय रूप से संग्रहीत सारा डेटा हट जाता है।",
+      "sourceSha256": "2149f95253cada00d9af66864c5fe244ab43f0bab9a2e36f6580d34f18532156"
+    },
+    "inner-whisper.privacy-policy.text.0033": {
+      "value": "4. iCloud सिंक",
+      "sourceSha256": "4ffb68e50d547de408d09a66dfeb5523e6034d0d495f0ea108c64e0fac83e380"
+    },
+    "inner-whisper.privacy-policy.text.0034": {
+      "value": "यदि आपके डिवाइस पर iCloud में साइन इन है, तो InnerWhisper आपके Apple डिवाइसों के बीच दो प्रकार का डेटा सिंक करता है। पूरा सिंक Apple के iCloud ढाँचे द्वारा संभाला जाता है—Moving Truth ऐसी कोई सेवा नहीं चलाता जो यह डेटा प्राप्त करे।",
+      "sourceSha256": "473bcd2a4546234f3d0775dc73c7d330abce847de6642d6c8e04af0647b3795e"
+    },
+    "inner-whisper.privacy-policy.text.0035": {
+      "value": "पसंदीदा (iCloud Key-Value Store)",
+      "sourceSha256": "01368f4489c12ad3efb2ad170bd1ad32d03012b50ae5055fa6526994c06f3f7a"
+    },
+    "inner-whisper.privacy-policy.text.0036": {
+      "value": "आपके पसंदीदा उद्धरणों की ID सूची Apple के",
+      "sourceSha256": "c209aa3bd856269b011be67f81b494350e1adb1caca87be9e6f8c2cf29bdc7ae"
+    },
+    "inner-whisper.privacy-policy.text.0037": {
+      "value": "API से सिंक होती है।",
+      "sourceSha256": "374d7824a35f0cd0d2f5dc68baa40b9902ae052f713271353a62143c133d10c5"
+    },
+    "inner-whisper.privacy-policy.text.0038": {
+      "value": "केवल अपारदर्शी उद्धरण पहचानकर्ता स्ट्रिंग सिंक होती हैं (जैसे,",
+      "sourceSha256": "cff853fe7aec1ebc8b4ca5d519bb136e858983693d7a1c2b734ca7cbf6896c48"
+    },
+    "inner-whisper.privacy-policy.text.0039": {
+      "value": ")। इसमें उद्धरण का पाठ या निजी नोट शामिल नहीं होते।",
+      "sourceSha256": "84467024bcd43f3ef147aee0b7333265d82ef90c6f591ac7b64db648cd45bff2"
+    },
+    "inner-whisper.privacy-policy.text.0040": {
+      "value": "आपके जोड़े गए उद्धरण (iCloud Documents)",
+      "sourceSha256": "bb6abe6817f9ec625d1bf0b4d0b40c8f8165b4fec192cd7486e5c33d56e2c8f9"
+    },
+    "inner-whisper.privacy-policy.text.0041": {
+      "value": "आपके स्वयं लिखे उद्धरण AES-256-GCM एन्क्रिप्टेड फ़ाइल में संग्रहीत होते हैं, जो आपके निजी iCloud Documents कंटेनर से सिंक होती है (",
+      "sourceSha256": "d0b6686415fbddff8745e52d4c2016f58d4ff276c28f1f09ba2a40d43092f03e"
+    },
+    "inner-whisper.privacy-policy.text.0042": {
+      "value": ")।",
+      "sourceSha256": "c4b2896a2081395e282313d6683f07c81e3339ef8b9d2b5a299ea5b626a0998f"
+    },
+    "inner-whisper.privacy-policy.text.0043": {
+      "value": "इस फ़ाइल की एन्क्रिप्शन कुंजी iCloud Keychain के ज़रिए सिंक होती है (",
+      "sourceSha256": "1cd36d2112deba43f5763f6114413cd2faab93b938e735d24a81b743070d9cb6"
+    },
+    "inner-whisper.privacy-policy.text.0044": {
+      "value": "), ताकि आपके सभी साइन-इन डिवाइसों पर वही कुंजी उपलब्ध हो।",
+      "sourceSha256": "7ca544076679be84a15b1ee80a8f237e2d7deb74e8e636d83517d0b683527212"
+    },
+    "inner-whisper.privacy-policy.text.0045": {
+      "value": "फ़ाइल की सामग्री iCloud तक पहुँचने से पहले एन्क्रिप्ट होती है और Apple या हमारे लिए कभी भी साधारण पाठ में पढ़ने योग्य नहीं होती।",
+      "sourceSha256": "581226fc10b805630ed7b513fae60b848557605c36c5f47db5e39635063e96e6"
+    },
+    "inner-whisper.privacy-policy.text.0046": {
+      "value": "Apple की निजता नीति",
+      "sourceSha256": "9789f3cfa8d40a4e94624574c040b9fef55348bdf21e4ba6e39b1b4a6d0a63cc"
+    },
+    "inner-whisper.privacy-policy.text.0047": {
+      "value": "iCloud के माध्यम से संसाधित सभी डेटा पर लागू होती है। आप InnerWhisper का iCloud सिंक कभी भी यहाँ बंद कर सकते हैं:",
+      "sourceSha256": "91018ecbedef164a0760785f778171b729b57d4565e317512dcf90412535028b"
+    },
+    "inner-whisper.privacy-policy.text.0048": {
+      "value": "5. पुश सूचनाएँ",
+      "sourceSha256": "c14ef12a130416e728ec612780a4ee01038e51970958f2d7d9fd757c83358404"
+    },
+    "inner-whisper.privacy-policy.text.0049": {
+      "value": "InnerWhisper रोज़ के उद्धरणों की सूचनाएँ",
+      "sourceSha256": "a36ae589cf7afd5d9d290f9f122fb389bc2b3c04fccf1d4b2be1dd10be2bc9b1"
+    },
+    "inner-whisper.privacy-policy.text.0050": {
+      "value": "स्थानीय सूचनाओं",
+      "sourceSha256": "468b9165376c932dd209b742f778413c391a475b5ae7ffd7c897255b4c77a7d1"
+    },
+    "inner-whisper.privacy-policy.text.0051": {
+      "value": "के रूप में देता है, जिन्हें iOS पूरी तरह आपके डिवाइस पर निर्धारित और पहुँचाता है। किसी सर्वर को सूचना की सामग्री, समय-सारणी या पहुँचने की पुष्टि नहीं भेजी जाती।",
+      "sourceSha256": "3ef88f2e318d321c23977182a13128cd676bfc19cbef6f94eb6ffcac30c1f648"
+    },
+    "inner-whisper.privacy-policy.text.0052": {
+      "value": "ऐप पहली बार उपयोग करने पर iOS सूचना भेजने की अनुमति माँग सकता है। आप यह अनुमति कभी भी यहाँ वापस ले सकते हैं:",
+      "sourceSha256": "e6d6351c0eebccff755fda2de177c494ec2f249975a9f7adb14fd3952b417ebc"
+    },
+    "inner-whisper.privacy-policy.text.0053": {
+      "value": "6. कोई तृतीय-पक्ष सेवा नहीं",
+      "sourceSha256": "b78866576d7ab0eabc16772852869aa5d406576178e0c24a2112e1c2c8d636e3"
+    },
+    "inner-whisper.privacy-policy.text.0054": {
+      "value": "InnerWhisper किसी तृतीय-पक्ष एनालिटिक्स, विज्ञापन या क्रैश-रिपोर्टिंग सेवा से नहीं जुड़ता। विशेष रूप से, ऐप में ये नहीं हैं:",
+      "sourceSha256": "1875f574037720ecfa592051ef4ef75559b657495d7f5606c0b98b170d822603"
+    },
+    "inner-whisper.privacy-policy.text.0055": {
+      "value": "Analytics SDK (Firebase Analytics, Amplitude, Mixpanel आदि)",
+      "sourceSha256": "ded14b4f3ec4b519e5bcb35399ccb82ef93a2598debe309e718e794bf0121ec8"
+    },
+    "inner-whisper.privacy-policy.text.0056": {
+      "value": "विज्ञापन नेटवर्क या ट्रैकिंग पिक्सेल",
+      "sourceSha256": "f7ef9adb270928df2ac994bef2942e676cc2eb69216092cef31d2f907c545aab"
+    },
+    "inner-whisper.privacy-policy.text.0057": {
+      "value": "क्रैश रिपोर्टिंग या प्रदर्शन निगरानी सेवाएँ",
+      "sourceSha256": "a124070e53fda6f7f63fc660c6b10c8243cde0f51d8d6fc763d9980e3f2742ca"
+    },
+    "inner-whisper.privacy-policy.text.0058": {
+      "value": "मुख्य उद्धरण लाइब्रेरी ऐप में ही शामिल है। ऐप एक वैकल्पिक अतिरिक्त उद्धरण फ़ाइल यहाँ से भी प्राप्त कर सकता है:",
+      "sourceSha256": "0b8280e40d139b38af6a741f21ad669a7e624d3bb7be33e034434b4e79363b7e"
+    },
+    "inner-whisper.privacy-policy.text.0059": {
+      "value": "पहली बार खुलने पर, स्थानीय कैश 24 घंटे से पुराना होने पर, या आपके स्पष्ट रूप से अपडेट माँगने पर HTTPS के ज़रिए। अनुरोध में कोई ऐप खाता, विज्ञापन पहचानकर्ता, खाता टोकन, उद्धरण, पसंदीदा, सेटिंग या अन्य ऐप सामग्री नहीं होती। किसी भी HTTPS कनेक्शन की तरह फ़ाइल पहुँचाने के लिए होस्टिंग ढाँचा IP पते जैसी कनेक्शन जानकारी संसाधित करता है; Moving Truth इस अनुरोध से आपको ट्रैक नहीं करता या आपकी प्रोफ़ाइल नहीं बनाता।",
+      "sourceSha256": "de2719421ae740526a697ca71b99a57e39c47d1e5697d20172f7877c2cedf114"
+    },
+    "inner-whisper.privacy-policy.text.0060": {
+      "value": "7. बच्चों की निजता",
+      "sourceSha256": "d79e31e712454ce7c502adebaa2e6e47572d4086e060dab4c1fa45c8e241513b"
+    },
+    "inner-whisper.privacy-policy.text.0061": {
+      "value": "InnerWhisper 13 वर्ष से कम उम्र के बच्चों के लिए नहीं बनाया गया है। हम जानबूझकर बच्चों की निजी जानकारी एकत्र नहीं करते। यदि आपको लगता है कि किसी बच्चे ने हमें निजी जानकारी दी है, तो नीचे दिए पते पर संपर्क करें; हम उसे तुरंत हटा देंगे।",
+      "sourceSha256": "627a3dfbeab713eede889ac5522a89ba559cc40e2eef2106891adfa55722f77e"
+    },
+    "inner-whisper.privacy-policy.text.0062": {
+      "value": "8. डेटा रखना और हटाना",
+      "sourceSha256": "cd649912f37d37dcda21f08217ff3d4650f85e6806d2f64402458c9581c97128"
+    },
+    "inner-whisper.privacy-policy.text.0063": {
+      "value": "InnerWhisper का सारा डेटा केवल आपके डिवाइस और निजी iCloud खाते में रहता है। हमारी उस तक पहुँच नहीं है और हम आपकी ओर से उसे हटा नहीं सकते।",
+      "sourceSha256": "958edd47a61a34fec579e340d74e37f3d27f9b7495ede5dd3120cc2a7847c5c9"
+    },
+    "inner-whisper.privacy-policy.text.0064": {
+      "value": "स्थानीय डेटा हटाने के लिए:",
+      "sourceSha256": "f5db43b949eb0a10bb5f7feef59c6e48b1e5f135c12cb9911c65b98483c6ec5f"
+    },
+    "inner-whisper.privacy-policy.text.0065": {
+      "value": "अपने डिवाइस से InnerWhisper ऐप हटाएँ। iOS उससे जुड़ा सारा डेटा अपने आप हटा देता है।",
+      "sourceSha256": "5d6a175f236de1ac6db923bb6f7f457a28cb385744feddade95008f3fb3eba01"
+    },
+    "inner-whisper.privacy-policy.text.0066": {
+      "value": "iCloud से सिंक किए पसंदीदा हटाने के लिए:",
+      "sourceSha256": "bcb1d425f4a251b94ebf7bcc6b06dbbc35a81cc3ce97de09290513e9e658d557"
+    },
+    "inner-whisper.privacy-policy.text.0067": {
+      "value": "ऐप हटाने के बाद यहाँ जाएँ:",
+      "sourceSha256": "44c2cb78550e70363c0f446ddf56a6cfa5d2ae6704309c8e709578be05b02bf1"
+    },
+    "inner-whisper.privacy-policy.text.0068": {
+      "value": "और यदि InnerWhisper का iCloud डेटा सूची में हो, तो उसे हटा दें।",
+      "sourceSha256": "4ceda1b238e1ab5ac1cbc3f71b7da57453a430b24a37c6a3fba26700c985139c"
+    },
+    "inner-whisper.privacy-policy.text.0069": {
+      "value": "9. इस नीति में बदलाव",
+      "sourceSha256": "90b39c181ac6a82fb0737bbb96872a3a3a091e1be9c7a7dcd7d99d6e66ef7f3c"
+    },
+    "inner-whisper.privacy-policy.text.0070": {
+      "value": "हम समय-समय पर इस निजता नीति को अपडेट कर सकते हैं। ऐसा होने पर पेज के ऊपर प्रभावी तिथि बदली जाएगी। हम आपको यह नीति समय-समय पर देखने के लिए प्रोत्साहित करते हैं। बदलाव प्रकाशित होने के बाद InnerWhisper का उपयोग जारी रखना अपडेट की गई नीति की स्वीकृति माना जाएगा।",
+      "sourceSha256": "c0371f5f1268c112021938552ce3eeba5e0089343d484d439251b952d83bc1ea"
+    },
+    "inner-whisper.privacy-policy.text.0071": {
+      "value": "10. संपर्क",
+      "sourceSha256": "2f41786a75a2b2cb39fb0078d952bdcc91e0b3144b4bf6a1d777e7c9ffea0f88"
+    },
+    "inner-whisper.privacy-policy.text.0072": {
+      "value": "इस निजता नीति या InnerWhisper की डेटा प्रक्रियाओं के बारे में प्रश्न हों तो हमसे संपर्क करें:",
+      "sourceSha256": "9d4ea5e0f263e75eeabbb5d9bf4995a24ab19b4936e819f6c7c28429b2ccc946"
+    },
+    "inner-whisper.privacy-policy.text.0073": {
+      "value": "ईमेल:",
+      "sourceSha256": "17507dcf845793fab0da66594804a4ca956ba284bcf36f4cef09e0a0a50c421a"
+    },
+    "inner-whisper.privacy-policy.text.0074": {
+      "value": "← InnerWhisper होम पर वापस जाएँ",
+      "sourceSha256": "bca41695343bb5d4629281b9509398816049ec23657d80af0d4a72ccbe52b222"
+    },
+    "inner-whisper.privacy-policy.attribute.0001": {
+      "value": "InnerWhisper की निजता नीति — ऐप का डेटा आपके डिवाइस और निजी iCloud खाते में आपके नियंत्रण में कैसे रहता है।",
+      "sourceSha256": "3760e1dc998480d2b8a7004c54a2c93b17cfe7f05b002ad48c1eb13432960f4d"
+    },
+    "inner-whisper.privacy-policy.attribute.0002": {
+      "value": "InnerWhisper का होम पेज",
+      "sourceSha256": "4d8038b0934744ad7ae4e4c882606c0ac2eabbebd51cae473611c66205be85ae"
+    },
+    "inner-whisper.privacy-policy.attribute.0003": {
+      "value": "InnerWhisper ऐप का आइकन",
+      "sourceSha256": "5de43521f26ee0e57fb421004d6e9297349dadcbdb79ae2ed30aa80d3fe183b7"
+    },
+    "inner-whisper.support.text.0001": {
+      "value": "सहायता — InnerWhisper",
+      "sourceSha256": "0a2e5e3fe05658ac83fbf189bba300f66cc076d82491cc9c6156c4b6cfc6471b"
+    },
+    "inner-whisper.support.text.0002": {
+      "value": "सीधे सहायता पर जाएँ",
+      "sourceSha256": "49fc540da4953ba81e4675082a1aeac85858d8b7252da90d30c61413f338be2d"
+    },
+    "inner-whisper.support.text.0003": {
+      "value": "होम",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-whisper.support.text.0004": {
+      "value": "निजता",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-whisper.support.text.0005": {
+      "value": "हमें ईमेल करें",
+      "sourceSha256": "d9172c43bec620b2f327bc61666c5225489d09ce0341fd2becc3a9889de8531a"
+    },
+    "inner-whisper.support.text.0006": {
+      "value": "InnerWhisper सहायता",
+      "sourceSha256": "8eced69a2ecd56be783f5d0fbd5cf5a9ad8819a4125fb7b70acc6126d2bb41a5"
+    },
+    "inner-whisper.support.text.0007": {
+      "value": "InnerWhisper को शांत और सरल रखा गया है। यदि कोई बात आपके और शब्दों के बीच आ रही हो, तो यहाँ से शुरू करें या सीधे Moving Truth से संपर्क करें।",
+      "sourceSha256": "06d29233991ccd54e7f2e75550aa6b54f29c509fabb61d8d47c74065059838b2"
+    },
+    "inner-whisper.support.text.0008": {
+      "value": "रोज़ की सूचनाएँ",
+      "sourceSha256": "8caec8e6ba48e7429522a281aa9403734996e37f35384bf3f992ce2872e83fa6"
+    },
+    "inner-whisper.support.text.0009": {
+      "value": "अनुमति, समय और पहुँच",
+      "sourceSha256": "f0d52c89084245a5f24df75c01873f5577b823ae3570766fc4533a61ba5578ed"
+    },
+    "inner-whisper.support.text.0010": {
+      "value": "पसंदीदा और iCloud",
+      "sourceSha256": "53645c28b7fc81193c417dd914ded2681ec72c5435674c06056cd3091d2e36fd"
+    },
+    "inner-whisper.support.text.0011": {
+      "value": "आपके Apple डिवाइसों के बीच सिंक",
+      "sourceSha256": "a62cac007967c6cdd4191d0d97794c5fa8ae03d5be5f9fd43237e199c0521f15"
+    },
+    "inner-whisper.support.text.0012": {
+      "value": "आपके जोड़े गए उद्धरण",
+      "sourceSha256": "8da5acfbc539e1d68dc82299b3bf93cb5eda68baad837cd17aae6c0bf427cc0c"
+    },
+    "inner-whisper.support.text.0013": {
+      "value": "एन्क्रिप्शन, स्टोरेज और कुंजी सिंक",
+      "sourceSha256": "8c0db78aa893c52decb529c8a58f6840edd291a086627e13ff1931af3b288eda"
+    },
+    "inner-whisper.support.text.0014": {
+      "value": "निजता और हटाना",
+      "sourceSha256": "f9e0019b70c750acc3bf656642a92e858b5460d71637e8ad0031e0a429c3e24d"
+    },
+    "inner-whisper.support.text.0015": {
+      "value": "क्या कहाँ रहता है और उसे कैसे हटाएँ",
+      "sourceSha256": "8300a4f97655612362525344d6f9c3c2769e82a973bc318383c09eb9f53d7e43"
+    },
+    "inner-whisper.support.text.0016": {
+      "value": "रोज़ की सूचनाएँ",
+      "sourceSha256": "8caec8e6ba48e7429522a281aa9403734996e37f35384bf3f992ce2872e83fa6"
+    },
+    "inner-whisper.support.text.0017": {
+      "value": "InnerWhisper उद्धरण सूचनाएँ स्थानीय रूप से आपके डिवाइस पर निर्धारित करता है। यह Moving Truth के किसी सूचना सर्वर का उपयोग नहीं करता।",
+      "sourceSha256": "1e8a0c1592b6290313764fec68958cb772d887dad85c95c826de2d9d0240a6fe"
+    },
+    "inner-whisper.support.text.0018": {
+      "value": "यदि सूचनाएँ नहीं आ रही हैं, तो iOS Settings खोलें, InnerWhisper चुनें और सुनिश्चित करें कि Notifications की अनुमति है। फिर InnerWhisper Settings में सूचना समय-सारणी और चालू उद्धरण संग्रह जाँचें। अंतिम समय iOS नियंत्रित करता है और कुछ Focus या बिजली-बचत स्थितियों में सूचना देर से आ सकती है।",
+      "sourceSha256": "3010777d6bbbd51cc6135cebe87bbe7be7cca18d54c4704cbeccf31b6da6da67"
+    },
+    "inner-whisper.support.text.0019": {
+      "value": "पसंदीदा और iCloud",
+      "sourceSha256": "53645c28b7fc81193c417dd914ded2681ec72c5435674c06056cd3091d2e36fd"
+    },
+    "inner-whisper.support.text.0020": {
+      "value": "iCloud में साइन इन होने पर पसंदीदा उद्धरणों के पहचानकर्ता Apple के iCloud Key-Value Store से सिंक हो सकते हैं। Moving Truth को यह सूची नहीं मिलती।",
+      "sourceSha256": "62dcf3b82afb65a51aa04a5e10c55533a2150bb21e6492289c4f06c7ad66e643"
+    },
+    "inner-whisper.support.text.0021": {
+      "value": "यदि कोई पसंदीदा दूसरे डिवाइस पर देर से दिखे, तो सुनिश्चित करें कि दोनों डिवाइस एक ही Apple Account का उपयोग करते हैं, इंटरनेट से जुड़े हैं और InnerWhisper को iCloud उपयोग करने देते हैं। iCloud को फिर सिंक करने का अवसर देने के लिए दोनों डिवाइसों पर ऐप दोबारा खोलें।",
+      "sourceSha256": "0cc7cadfd97828a752c07613aa59db1a91fa213c317fb55acf5ec018dc25dea5"
+    },
+    "inner-whisper.support.text.0022": {
+      "value": "आपके जोड़े गए उद्धरण",
+      "sourceSha256": "8da5acfbc539e1d68dc82299b3bf93cb5eda68baad837cd17aae6c0bf427cc0c"
+    },
+    "inner-whisper.support.text.0023": {
+      "value": "आपके लिखे उद्धरण संग्रहीत होने से पहले आपके डिवाइस पर एन्क्रिप्ट होते हैं। iCloud उपलब्ध होने पर एन्क्रिप्टेड फ़ाइल आपके निजी iCloud Documents कंटेनर से और उसकी कुंजी iCloud Keychain से सिंक हो सकती है।",
+      "sourceSha256": "bfedbf2fd7a2a47ae3a1e4c683012b5ccca6b2616335d66c484b08fd9cc7f80a"
+    },
+    "inner-whisper.support.text.0024": {
+      "value": "यदि InnerWhisper कहता है कि आपके उद्धरण या कुंजी अभी सिंक हो रहे हैं, तो ऐप इंस्टॉल रहने दें, iCloud Keychain चालू होने की पुष्टि करें, कुछ मिनट रुकें और ऐप फिर खोलें। यदि ऐप में उस पाठ की इकलौती प्रति है जिसे आप रखना चाहते हैं, तो एन्क्रिप्शन रीसेट न करें और ऐप न हटाएँ।",
+      "sourceSha256": "b9b15c581ba000b778d02f65b8ea3d6c52436e88ad099ae1b1884cc05a89148d"
+    },
+    "inner-whisper.support.text.0025": {
+      "value": "उद्धरण लाइब्रेरी और वैकल्पिक अपडेट",
+      "sourceSha256": "2d2d625aab3b12732a2e74c539814da6871d1d316d546d85af0372c1f5f6815f"
+    },
+    "inner-whisper.support.text.0026": {
+      "value": "मुख्य उद्धरण लाइब्रेरी ऐप में शामिल है और ऑफ़लाइन उपलब्ध रहती है। InnerWhisper HTTPS से वैकल्पिक अतिरिक्त उद्धरण फ़ाइल भी माँग सकता है। अनुरोध उपलब्ध न हो तो ऐप में शामिल लाइब्रेरी काम करती रहती है।",
+      "sourceSha256": "00a26faea63af2474a8e61992e58f82a9f5f67dbcf312ea8f7743fcb7817f2b9"
+    },
+    "inner-whisper.support.text.0027": {
+      "value": "यदि किसी उद्धरण का श्रेय या शब्द संदिग्ध लगे, तो उद्धरण और आपके अनुसार अधिक सही स्रोत हमें ईमेल करें। अपना जोड़ा हुआ कोई निजी उद्धरण तब तक शामिल न करें जब तक आप जानबूझकर न चाहते हों कि हम उसे पढ़ें।",
+      "sourceSha256": "50832f426a67e060fbbb511bf794400361b3f86a6d42ca88d1c972601befcdc5"
+    },
+    "inner-whisper.support.text.0028": {
+      "value": "निजता और हटाना",
+      "sourceSha256": "f9e0019b70c750acc3bf656642a92e858b5460d71637e8ad0031e0a429c3e24d"
+    },
+    "inner-whisper.support.text.0029": {
+      "value": "InnerWhisper में कोई खाता, विज्ञापन, एनालिटिक्स या ट्रैकिंग SDK नहीं है। ऐप का डेटा आपके डिवाइस या Apple के सिस्टम के माध्यम से आपके निजी iCloud खाते में रहता है। पढ़ें:",
+      "sourceSha256": "1a35e943001339cafa2a999d31d6a1b9059f9a9fff57b919a54009588fca8050"
+    },
+    "inner-whisper.support.text.0030": {
+      "value": "पूरी निजता नीति",
+      "sourceSha256": "ce726049cfb146092149684232d2034ebf351a0dd4229ab9107dc45c79a5bc0f"
+    },
+    "inner-whisper.support.text.0031": {
+      "value": "जिसमें स्टोरेज, सिंक, नेटवर्क और डेटा हटाने की सीमाएँ स्पष्ट रूप से दी गई हैं।",
+      "sourceSha256": "20e1999fbe92cb1b147e6c39feb2302bf437b636ea019be9cf1652a842d53554"
+    },
+    "inner-whisper.support.text.0032": {
+      "value": "InnerWhisper हटाने से उसका स्थानीय ऐप डेटा मिट जाता है। सिंक किया गया डेटा आपके निजी iCloud खाते में तब तक रह सकता है, जब तक आप iOS Settings से ऐप का संग्रहीत iCloud डेटा नहीं हटाते।",
+      "sourceSha256": "9728ccb8595efd62e372b242003ba1b522d819b07136619e99aeb7108822381c"
+    },
+    "inner-whisper.support.text.0033": {
+      "value": "सुगम्यता सहायता",
+      "sourceSha256": "429f5d39ccc2f70ddc86028c1b7db989938503ce0e3b61415fbd86bdef7b11b2"
+    },
+    "inner-whisper.support.text.0034": {
+      "value": "यदि VoiceOver, Voice Control, Larger Text, Reduce Motion, कॉन्ट्रास्ट, सूचना पहुँच या कोई अन्य सुगम्यता ज़रूरत सहजता से काम नहीं कर रही, तो हमें बताएँ कि आप कौन-सा काम करना चाह रहे थे। सुगम्यता की समस्या उत्पाद की समस्या है।",
+      "sourceSha256": "6c469261cab79274e99291e859bf3f0e69c71d96709a5371ea62bea4cd268cb6"
+    },
+    "inner-whisper.support.text.0035": {
+      "value": "Moving Truth को ईमेल करें",
+      "sourceSha256": "8d419c582e4a3c2533d874feb8855c30f4d1dcd4ff4be9ae6f1a353a5f190224"
+    },
+    "inner-whisper.support.text.0036": {
+      "value": "अपने iPhone या iPad का मॉडल, iOS संस्करण, InnerWhisper संस्करण और क्या हुआ, यह बताएँ। अपने जोड़े हुए निजी उद्धरण तब तक न भेजें जब तक आप उन्हें जानबूझकर सहायता बातचीत में शामिल नहीं करना चाहते।",
+      "sourceSha256": "823e2d89e7842e1990486cf857b65c7c16841eb40cf87ea4988067cef6c2bd34"
+    },
+    "inner-whisper.support.text.0037": {
+      "value": "← InnerWhisper होम पर वापस जाएँ",
+      "sourceSha256": "bca41695343bb5d4629281b9509398816049ec23657d80af0d4a72ccbe52b222"
+    },
+    "inner-whisper.support.text.0038": {
+      "value": "·",
+      "sourceSha256": "a137f17a19a09cbe511ba654931ed30fd9c52205140ec096fa6180f1a0577546"
+    },
+    "inner-whisper.support.text.0039": {
+      "value": "निजता नीति",
+      "sourceSha256": "506ff394621596dd88138642eddfc1e41833b3ae92d95e5c77c94327098abd9a"
+    },
+    "inner-whisper.support.attribute.0001": {
+      "value": "Moving Truth की ओर से InnerWhisper के लिए सहायता और सीधा सहयोग।",
+      "sourceSha256": "bc93225e6a82f4bb8dcc7c70ec8253c5e866e7ae4528dc1845c6da8f00792b9c"
+    },
+    "inner-whisper.support.attribute.0002": {
+      "value": "InnerWhisper का होम पेज",
+      "sourceSha256": "4d8038b0934744ad7ae4e4c882606c0ac2eabbebd51cae473611c66205be85ae"
+    },
+    "inner-whisper.support.attribute.0003": {
+      "value": "सहायता नेविगेशन",
+      "sourceSha256": "7b7e157a2b9186fd1c9e0c78ad0cd48392273430f90e661487aea3256e12569e"
+    },
+    "inner-whisper.support.attribute.0004": {
+      "value": "सहायता के सामान्य विषय",
+      "sourceSha256": "b85a539eae9acb1c88f7caa27b161dde4c07b25145ee0f11bf6d549089acb0c2"
+    }
   }
 }

@@ -1,244 +1,1025 @@
 {
-  "translations": {
-    "InnerWhisper — a daily whisper app by Moving Truth. Quotes, stillness, and reflection, delivered quietly. No account, tracking, or ads; optional sync uses your personal iCloud account.": "InnerWhisper — تطبيق همسة يومية من Moving Truth. اقتباسات وسكون وتأمل تصل إليك بهدوء. بلا حساب أو تتبع أو إعلانات؛ والمزامنة الاختيارية تستخدم حساب iCloud الشخصي.",
-    "InnerWhisper — by Moving Truth": "InnerWhisper — من Moving Truth",
-    "InnerWhisper home": "الصفحة الرئيسية لـ InnerWhisper",
-    "Open navigation menu": "افتح قائمة التنقل",
-    "Features": "الميزات",
-    "Quotes": "الاقتباسات",
-    "Privacy": "الخصوصية",
-    "Download": "تنزيل",
-    "InnerWhisper leaf": "ورقة InnerWhisper",
-    "InnerWhisper app icon": "أيقونة تطبيق InnerWhisper",
-    "A quiet word, exactly when you need it.": "كلمة هادئة، تماماً حين تحتاج إليها.",
-    "InnerWhisper — a quiet word, exactly when you need it.": "InnerWhisper — كلمة هادئة، تماماً حين تحتاج إليها.",
-    "Download on the App Store": "نزّل من App Store",
-    "📱 Download on the App Store": "📱 نزّل من App Store",
-    "Download on iOS": "نزّل على iOS",
-    "Contact Support": "تواصل مع الدعم",
-    "scroll to explore": "مرّر للاستكشاف",
-    "About InnerWhisper": "عن InnerWhisper",
-    "One quiet word, placed gently in your day. From Moving Truth — over a thousand quotes drawn from the world’s deepest thinkers, delivered with care.": "كلمة هادئة توضع برفق في يومك. من Moving Truth — أكثر من ألف اقتباس مختار من أعمق مفكري العالم، يقدم بعناية.",
-    "A whisper, not a feed. Encrypted on your device. No account. No tracking. No ads.": "همسة، لا خلاصة. مشفرة على جهازك. بلا حساب. بلا تتبع. بلا إعلانات.",
-    "Chosen words": "كلمات مختارة",
-    "Your pace": "بإيقاعك",
-    "Held close": "محفوظة بالقرب منك",
-    "Kept private": "تبقى خاصة",
-    "Simply made": "مصنوعة ببساطة",
-    "Visual themes": "السمات البصرية",
-    "Set your atmosphere.": "اختر أجواءك.",
-    "Three immersive animated environments for the main quote screen, each designed to help you be present with the words in front of you.": "ثلاث بيئات متحركة غامرة لشاشة الاقتباس الرئيسية، صُممت كل منها لتساعدك على الحضور مع الكلمات أمامك.",
-    "Space theme screenshot": "لقطة شاشة لسمة الفضاء",
-    "Deep space theme with moving stars": "سمة الفضاء العميق بنجوم متحركة",
-    "Deep Space": "الفضاء العميق",
-    "Moving stars and galaxy": "نجوم متحركة ومجرة",
-    "Aurora theme screenshot": "لقطة شاشة لسمة الشفق",
-    "Aurora theme environment": "بيئة سمة الشفق",
-    "Aurora Northern Lights": "أضواء الشفق القطبي",
-    "Forest theme screenshot": "لقطة شاشة لسمة الغابة",
-    "Forest theme environment": "بيئة سمة الغابة",
-    "Forest": "الغابة",
-    "Forest twilight": "شفق الغابة",
-    "Quote collections": "مجموعات الاقتباسات",
-    "Wisdom across traditions.": "حكمة من تقاليد متعددة.",
-    "Enable the collections that speak to you. Disable the ones that don’t. Your feed, your way.": "فعّل المجموعات التي تخاطبك، وعطّل ما لا يفعل. مساحتك، بطريقتك.",
-    "✨ General": "✨ عام",
-    "⚡ Motivational": "⚡ تحفيزي",
-    "⚖️ Stoicism": "⚖️ الرواقية",
-    "🍃 Nature": "🍃 الطبيعة",
-    "🌲 Forest": "🌲 الغابة",
-    "🌙 Space": "🌙 الفضاء",
-    "あ Japanese Proverbs": "あ أمثال يابانية",
-    "🌊 Alan Watts": "🌊 آلان واتس",
-    "🕊️ Gandhi": "🕊️ غاندي",
-    "🏛️ World Leaders": "🏛️ قادة العالم",
-    "🎭 Actors": "🎭 ممثلون",
-    "Built for your eyes only.": "صُمم لعينيك وحدك.",
-    "InnerWhisper was designed from day one with the principle that your mental wellness data belongs to you, and only you.": "صُمم InnerWhisper منذ اليوم الأول على مبدأ أن بيانات عافيتك النفسية تخصك أنت وحدك.",
-    "No account required — ever. Open the app and start immediately.": "لا حاجة إلى حساب—أبداً. افتح التطبيق وابدأ فوراً.",
-    "No analytics, crash reporting, or tracking sent off your device.": "لا تحليلات أو تقارير أعطال أو بيانات تتبع تغادر جهازك.",
-    "No advertising networks or third-party SDKs of any kind.": "لا شبكات إعلانية ولا حزم SDK من جهات خارجية.",
-    "Encryption keys secured in the iOS Keychain. Quote files encrypted with AES-256-GCM on disk.": "مفاتيح التشفير مؤمنة في iOS Keychain. وملفات الاقتباسات مشفرة على القرص بـ AES-256-GCM.",
-    "Notification content is generated on-device — nothing sent to our servers.": "يُنشأ محتوى الإشعارات على الجهاز—ولا يُرسل شيء إلى خوادمنا.",
-    "Favorites and your added quotes sync via Apple’s iCloud infrastructure, not ours. Apple’s privacy policy applies.": "تتزامن المفضلات والاقتباسات التي تضيفها عبر بنية iCloud من Apple، لا عبرنا. تنطبق سياسة خصوصية Apple.",
-    "Privacy manifest filed with Apple: tracking disabled, no personal data types declared.": "Privacy Manifest مقدم إلى Apple: التتبع معطل، ولم تُعلن أي أنواع بيانات شخصية.",
-    "Read the full InnerWhisper Privacy Policy": "اقرأ سياسة خصوصية InnerWhisper كاملة",
-    "Read the full Privacy Policy →": "اقرأ سياسة الخصوصية كاملة ←",
-    "About Moving Truth": "عن Moving Truth",
-    "Moving Truth. Opens movingtruth.com": "Moving Truth. يفتح movingtruth.com",
-    "Moving Truth logo": "شعار Moving Truth",
-    "by Moving Truth": "من Moving Truth",
-    "Made with ♥ by Skylaur Roe": "صنعه Skylaur Roe بـ ♥",
-    "Links": "روابط",
-    "🌍 Quote Collections": "🌍 مجموعات الاقتباسات",
-    "🔒 Privacy Policy": "🔒 سياسة الخصوصية",
-    "💬 Quote Sources": "💬 مصادر الاقتباسات",
-    "InnerWhisper’s quotes are drawn from public-domain works, historical writings, and widely circulated sources. We can’t guarantee every quote’s exact wording or attribution — many well-known quotes are paraphrased or disputed in origin, a well-documented issue in quotation literature. Spot something off? We’d genuinely like to know:": "تأتي اقتباسات InnerWhisper من أعمال في الملكية العامة وكتابات تاريخية ومصادر واسعة التداول. لا نستطيع ضمان الصياغة أو النسبة الدقيقة لكل اقتباس؛ فكثير من الأقوال المشهورة أعيدت صياغتها أو اختلف في أصلها. إن لاحظت خطأ، فنحن نريد بصدق أن نعرف:",
-    "About-page mood": "أجواء صفحة التعريف",
-    "Set the mood": "اختر الأجواء",
-    "Now available": "متاح الآن",
-    "InnerWhisper is on the App Store.": "InnerWhisper متاح على App Store.",
-    "Download it, and let a quote find you when you need it. Questions? We're at": "نزّله ودع اقتباساً يجدك حين تحتاج إليه. لديك سؤال؟ راسلنا على",
-    "Footer links": "روابط تذييل الصفحة",
-    "Privacy Policy": "سياسة الخصوصية",
-    "Support": "الدعم",
-    "© 2026 InnerWhisper by Moving Truth. Made with SwiftUI for iOS.": "© 2026 InnerWhisper من Moving Truth. صُنع بـ SwiftUI لنظام iOS.",
-    "Privacy Policy — InnerWhisper": "سياسة الخصوصية — InnerWhisper",
-    "InnerWhisper Privacy Policy — how app data stays under your control on your device and in your personal iCloud account.": "سياسة خصوصية InnerWhisper — كيف تبقى بيانات التطبيق تحت سيطرتك على جهازك وفي حساب iCloud الشخصي.",
-    "← Back to Home": "→ العودة إلى الرئيسية",
-    "Effective date: 2026 • Applies to: InnerWhisper for iOS": "تاريخ السريان: 2026 • ينطبق على: InnerWhisper لنظام iOS",
-    "The short version:": "الخلاصة:",
-    "InnerWhisper does not collect or sell your personal data. Your app data stays on your device or, when iCloud is available, in your personal iCloud account through Apple’s systems. Moving Truth never receives your favorites or added quotes. The app can make a separate HTTPS request for an optional supplementary quote file; that request carries no app account or app content.": "لا يجمع InnerWhisper بياناتك الشخصية ولا يبيعها. تبقى بيانات التطبيق على جهازك أو، عند توفر iCloud، في حسابك الشخصي عبر أنظمة Apple. لا تتلقى Moving Truth مفضلاتك أو اقتباساتك المضافة. قد يرسل التطبيق طلب HTTPS منفصلاً لملف اقتباسات إضافي اختياري؛ ولا يحمل الطلب حساباً أو محتوى من التطبيق.",
-    "1. About This Policy": "1. عن هذه السياسة",
-    "This Privacy Policy describes how InnerWhisper (“we,” “our,” or “the app”) handles information when you use the InnerWhisper iOS application. By using the app, you agree to the practices described here.": "توضح هذه السياسة كيف يتعامل InnerWhisper (نحن أو التطبيق) مع المعلومات عند استخدام تطبيق iOS. باستخدام التطبيق توافق على الممارسات الموضحة هنا.",
-    "We are committed to your privacy. The app was designed so that Moving Truth cannot access your data: it remains on your device or, when iCloud is available, passes between your Apple devices through your personal iCloud account.": "نلتزم بخصوصيتك. صُمم التطبيق بحيث لا تستطيع Moving Truth الوصول إلى بياناتك: تبقى على جهازك أو تنتقل بين أجهزة Apple عبر حساب iCloud الشخصي عند توفره.",
-    "2. Information We Do Not Collect": "2. معلومات لا نجمعها",
-    "InnerWhisper does not collect, store, or transmit:": "لا يجمع InnerWhisper أو يخزن أو يرسل:",
-    "Your name, email address, or any identifying information": "اسمك أو بريدك الإلكتروني أو أي معلومات تعريفية",
-    "Location data of any kind": "بيانات موقع من أي نوع",
-    "Health or wellness data you interact with in the app": "بيانات الصحة أو العافية التي تتفاعل معها داخل التطبيق",
-    "Device identifiers (IDFA, IDFV, or similar)": "معرّفات الجهاز (IDFA أو IDFV أو ما شابه)",
-    "Usage analytics or behavioral data": "تحليلات الاستخدام أو البيانات السلوكية",
-    "Crash logs or diagnostics sent to our servers": "سجلات الأعطال أو التشخيصات المرسلة إلى خوادمنا",
-    "No account is required to use InnerWhisper. Moving Truth operates no service that receives your quotes, favorites, settings, notification schedule, or other app content.": "لا يلزم حساب لاستخدام InnerWhisper. ولا تدير Moving Truth خدمة تتلقى اقتباساتك أو مفضلاتك أو إعداداتك أو جدول إشعاراتك أو أي محتوى آخر.",
-    "InnerWhisper’s Apple privacy manifest declares": "يعلن Apple Privacy Manifest الخاص بـ InnerWhisper",
-    "and lists no collected data types, in accordance with Apple’s privacy requirements.": "ولا يسرد أي أنواع بيانات مجمعة، وفق متطلبات خصوصية Apple.",
-    "3. Data Stored on Your Device": "3. البيانات المخزنة على جهازك",
-    "The app stores the following data on your device. Favorites and encrypted quotes you add can also sync through your personal iCloud account as described in Section 4:": "يخزن التطبيق البيانات التالية على جهازك. ويمكن أيضاً مزامنة المفضلات والاقتباسات المشفرة التي تضيفها عبر حساب iCloud الشخصي كما في القسم 4:",
-    "App preferences": "تفضيلات التطبيق",
-    "— notification schedule, visual theme, and quote collection settings, stored in Apple": "— جدول الإشعارات والسمة البصرية وإعدادات مجموعات الاقتباسات، محفوظة في",
-    "and protected by iOS Data Protection when your device is locked": "من Apple ومحمية بواسطة iOS Data Protection عند قفل الجهاز",
-    "Favorites list": "قائمة المفضلات",
-    "— the IDs of quotes you have saved, stored locally and optionally synced via iCloud (see Section 4)": "— معرّفات الاقتباسات المحفوظة، مخزنة محلياً ومتزامنة اختيارياً عبر iCloud (راجع القسم 4)",
-    "Encryption keys": "مفاتيح التشفير",
-    "— stored in the iOS Keychain, protected by your device passcode and Secure Enclave": "— مخزنة في iOS Keychain، ومحمية برمز دخول الجهاز وSecure Enclave",
-    "Quote files": "ملفات الاقتباسات",
-    "— the aggregated quote library and any quotes you add yourself, stored as encrypted files in app storage, encrypted with AES-256-GCM using keys held in the Keychain": "— مكتبة الاقتباسات المجمعة وما تضيفه بنفسك، مخزنة كملفات مشفرة بـ AES-256-GCM وبمفاتيح محفوظة في Keychain",
-    "Quote files are encrypted on disk using AES-256-GCM. App preferences and settings rely on iOS Data Protection. You can toggle encryption on or off at any time in the app’s Settings; when disabled, quote files rely on iOS file protection only. Deleting the app removes all locally stored data from your device.": "تُشفّر ملفات الاقتباسات على القرص بـ AES-256-GCM. وتعتمد التفضيلات والإعدادات على iOS Data Protection. يمكنك تشغيل التشفير أو إيقافه في Settings؛ وعند إيقافه تعتمد الملفات على حماية iOS فقط. حذف التطبيق يزيل كل البيانات المحلية من جهازك.",
-    "4. iCloud Sync": "4. مزامنة iCloud",
-    "If you are signed in to iCloud on your device, InnerWhisper syncs two types of data across your Apple devices. All sync is handled entirely by Apple’s iCloud infrastructure — Moving Truth operates no service that receives this synced data.": "إذا سجلت الدخول إلى iCloud، يزامن InnerWhisper نوعين من البيانات بين أجهزة Apple. تتولى بنية iCloud من Apple المزامنة كاملة، ولا تدير Moving Truth خدمة تتلقى هذه البيانات.",
-    "Favorites (iCloud Key-Value Store)": "المفضلات (iCloud Key-Value Store)",
-    "Your list of favorited quote IDs is synced using Apple’s": "تتزامن قائمة معرّفات اقتباساتك المفضلة باستخدام",
-    "API.": "من Apple.",
-    "Only opaque quote identifier strings are synced (e.g.,": "لا تتزامن إلا سلاسل معرّفات مبهمة (مثل",
-    "). No quote text or personal notes are included.": "). ولا تتضمن نصوص الاقتباسات أو الملاحظات الشخصية.",
-    "Your Added Quotes (iCloud Documents)": "اقتباساتك المضافة (iCloud Documents)",
-    "Any quotes you write yourself are stored as an AES-256-GCM encrypted file synced via your personal iCloud Documents container (": "تُحفظ الاقتباسات التي تكتبها في ملف مشفر بـ AES-256-GCM يتزامن عبر حاوية iCloud Documents الشخصية (",
-    ").": ").",
-    "The encryption key for this file is synced via iCloud Keychain (": "يتزامن مفتاح تشفير الملف عبر iCloud Keychain (",
-    "), so the same key is available on all your signed-in devices.": ")، ليتوفر المفتاح نفسه على كل أجهزتك المسجل دخولها.",
-    "The content of the file is encrypted before it reaches iCloud and is never readable in plaintext by Apple or by us.": "يُشفّر محتوى الملف قبل وصوله إلى iCloud، ولا يمكن لـ Apple أو لنا قراءته كنص واضح.",
-    "Apple’s Privacy Policy": "سياسة خصوصية Apple",
-    "applies to all data processed through iCloud. You can disable iCloud sync for InnerWhisper at any time in": "تنطبق على كل البيانات المعالجة عبر iCloud. يمكنك تعطيل مزامنة InnerWhisper في أي وقت من",
-    "5. Push Notifications": "5. الإشعارات",
-    "InnerWhisper delivers daily quote notifications as": "يقدم InnerWhisper إشعارات الاقتباسات اليومية على هيئة",
-    "local notifications": "إشعارات محلية",
-    ", scheduled and delivered entirely on your device by iOS. No notification content, schedule, or delivery confirmation is transmitted to any server.": "، يحددها iOS ويسلمها بالكامل على جهازك. لا يُرسل محتوى الإشعار أو جدوله أو تأكيد تسليمه إلى أي خادم.",
-    "iOS may request permission to send notifications when you first use the app. You can revoke notification permission at any time in": "قد يطلب iOS إذن الإشعارات عند أول استخدام. ويمكنك سحب الإذن في أي وقت من",
-    "6. No Third-Party Services": "6. لا خدمات من جهات خارجية",
-    "InnerWhisper does not integrate with any third-party analytics, advertising, or crash-reporting services. Specifically, the app contains no:": "لا يتكامل InnerWhisper مع تحليلات أو إعلانات أو تقارير أعطال من جهات خارجية. ولا يتضمن تحديداً:",
-    "Analytics SDKs (Firebase Analytics, Amplitude, Mixpanel, etc.)": "حزم Analytics SDK (Firebase Analytics وAmplitude وMixpanel وغيرها)",
-    "Advertising networks or tracking pixels": "شبكات إعلانية أو وحدات بكسل للتتبع",
-    "Crash reporting or performance monitoring services": "خدمات تقارير الأعطال أو مراقبة الأداء",
-    "The core quote library is bundled inside the app. The app may also fetch an optional supplementary quote file from": "مكتبة الاقتباسات الأساسية مضمنة في التطبيق. وقد يجلب التطبيق أيضاً ملف اقتباسات إضافياً اختيارياً من",
-    "via HTTPS on first load, when its local cache is more than 24 hours old, or when you explicitly request an update. The request contains no app account, advertising identifier, account token, quotes, favorites, settings, or other app content. As with any HTTPS connection, the hosting infrastructure necessarily processes connection information such as an IP address to deliver the file; Moving Truth does not use that request to track or profile you.": "عبر HTTPS عند أول تشغيل، أو إذا تجاوز عمر الذاكرة المحلية 24 ساعة، أو عند طلب تحديث صراحة. لا يتضمن الطلب حساباً أو معرّفاً إعلانياً أو رمز حساب أو اقتباسات أو مفضلات أو إعدادات أو محتوى آخر. وكأي اتصال HTTPS، تعالج الاستضافة معلومات اتصال مثل عنوان IP لتسليم الملف؛ ولا تستخدم Moving Truth الطلب لتتبعك أو إنشاء ملف عنك.",
-    "7. Children’s Privacy": "7. خصوصية الأطفال",
-    "InnerWhisper is not directed at children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us at the address below and we will delete it promptly.": "لا يستهدف InnerWhisper الأطفال دون 13 عاماً. ولا نجمع معلوماتهم الشخصية عن علم. إذا اعتقدت أن طفلاً زودنا بمعلومات شخصية، فتواصل معنا أدناه وسنحذفها سريعاً.",
-    "8. Data Retention and Deletion": "8. الاحتفاظ بالبيانات وحذفها",
-    "All InnerWhisper data exists solely on your device and in your personal iCloud account. We have no access to it and cannot delete it on your behalf.": "توجد كل بيانات InnerWhisper على جهازك وفي حساب iCloud الشخصي فقط. لا نصل إليها ولا نستطيع حذفها نيابة عنك.",
-    "To delete local data:": "لحذف البيانات المحلية:",
-    "Delete the InnerWhisper app from your device. iOS removes all associated data automatically.": "احذف تطبيق InnerWhisper من جهازك. يزيل iOS كل البيانات المرتبطة تلقائياً.",
-    "To delete iCloud-synced favorites:": "لحذف المفضلات المتزامنة عبر iCloud:",
-    "After deleting the app, go to": "بعد حذف التطبيق، انتقل إلى",
-    "and remove InnerWhisper’s iCloud data if listed.": "واحذف بيانات InnerWhisper في iCloud إن ظهرت.",
-    "9. Changes to This Policy": "9. تغييرات هذه السياسة",
-    "We may update this Privacy Policy from time to time. When we do, we will revise the effective date at the top of this page. We encourage you to review this policy periodically. Continued use of InnerWhisper after changes are posted constitutes your acceptance of the updated policy.": "قد نحدّث سياسة الخصوصية أحياناً، وعندها نراجع تاريخ السريان أعلى الصفحة. نشجعك على مراجعتها دورياً. استمرار استخدام InnerWhisper بعد نشر التغييرات يعني قبول السياسة المحدثة.",
-    "10. Contact": "10. التواصل",
-    "If you have questions about this Privacy Policy or InnerWhisper’s data practices, please contact us:": "إذا كانت لديك أسئلة عن هذه السياسة أو ممارسات بيانات InnerWhisper، فتواصل معنا:",
-    "Email:": "البريد الإلكتروني:",
-    "← Back to InnerWhisper home": "→ العودة إلى صفحة InnerWhisper الرئيسية",
-    "Support — InnerWhisper": "الدعم — InnerWhisper",
-    "Help and direct support for InnerWhisper by Moving Truth.": "مساعدة ودعم مباشر لـ InnerWhisper من Moving Truth.",
-    "Skip to support": "انتقل إلى الدعم",
-    "Home": "الرئيسية",
-    "Support navigation": "التنقل في الدعم",
-    "Common support topics": "موضوعات الدعم الشائعة",
-    "Email us": "راسلنا",
-    "InnerWhisper Support": "دعم InnerWhisper",
-    "InnerWhisper is meant to be quiet and uncomplicated. If something gets between you and the words, start here or contact Moving Truth directly.": "صُمم InnerWhisper ليكون هادئاً وبسيطاً. إذا حال شيء بينك وبين الكلمات، فابدأ هنا أو تواصل مباشرة مع Moving Truth.",
-    "Daily notifications": "الإشعارات اليومية",
-    "Permission, timing, and delivery": "الإذن والتوقيت والتسليم",
-    "Favorites and iCloud": "المفضلات وiCloud",
-    "Sync across your Apple devices": "المزامنة بين أجهزة Apple",
-    "Your added quotes": "اقتباساتك المضافة",
-    "Encryption, storage, and key sync": "التشفير والتخزين ومزامنة المفتاح",
-    "Privacy and deletion": "الخصوصية والحذف",
-    "What stays where and how to remove it": "ما الذي يبقى وأين، وكيف تحذفه",
-    "InnerWhisper schedules quote notifications locally on your device. It does not use a Moving Truth notification server.": "يحدد InnerWhisper إشعارات الاقتباسات محلياً على جهازك، ولا يستخدم خادم إشعارات من Moving Truth.",
-    "If notifications are not arriving, open iOS Settings, find InnerWhisper, and confirm that Notifications are allowed. Then check the notification schedule and enabled quote collections inside InnerWhisper Settings. iOS controls final delivery timing and may delay notifications in some Focus or power-saving states.": "إذا لم تصل الإشعارات، افتح iOS Settings وابحث عن InnerWhisper وتأكد من السماح بـ Notifications. ثم تحقق من الجدول والمجموعات المفعلة داخل إعدادات التطبيق. يتحكم iOS في وقت التسليم النهائي وقد يؤخره في بعض أوضاع Focus أو توفير الطاقة.",
-    "Favorite quote identifiers can sync through Apple’s iCloud Key-Value Store when you are signed in to iCloud. Moving Truth does not receive the list.": "يمكن لمعرّفات المفضلات أن تتزامن عبر iCloud Key-Value Store عند تسجيل الدخول. ولا تتلقى Moving Truth القائمة.",
-    "If a favorite is slow to appear on another device, confirm that both devices use the same Apple Account, have an internet connection, and allow InnerWhisper to use iCloud. Reopen the app on both devices to give iCloud another opportunity to synchronize.": "إذا تأخر ظهور مفضلة على جهاز آخر، فتأكد من استخدام Apple Account نفسه واتصال الجهازين بالإنترنت والسماح لـ InnerWhisper باستخدام iCloud. أعد فتح التطبيق على الجهازين لمنح iCloud فرصة أخرى للمزامنة.",
-    "Quotes you write are encrypted on your device before storage. When iCloud is available, the encrypted file can sync through your personal iCloud Documents container and its encryption key can sync through iCloud Keychain.": "تُشفّر اقتباساتك على جهازك قبل تخزينها. وعند توفر iCloud يمكن للملف المشفر أن يتزامن عبر حاوية iCloud Documents الشخصية، ولمفتاحه أن يتزامن عبر iCloud Keychain.",
-    "If InnerWhisper says that your quotes or key are still syncing, keep the app installed, confirm that iCloud Keychain is enabled, wait a few minutes, and reopen the app. Do not reset encryption or delete the app when it holds the only copy of text you want to keep.": "إذا قال InnerWhisper إن الاقتباسات أو المفتاح ما زالت تتزامن، فأبق التطبيق مثبتاً وتأكد من تفعيل iCloud Keychain وانتظر دقائق ثم افتحه مجدداً. لا تعد ضبط التشفير أو تحذف التطبيق إذا كان يحمل النسخة الوحيدة من نص تريد الاحتفاظ به.",
-    "Quote library and optional updates": "مكتبة الاقتباسات والتحديثات الاختيارية",
-    "The core quote library is included with the app and remains available offline. InnerWhisper can also request an optional supplementary quote file over HTTPS. If that request is unavailable, the bundled library continues to work.": "المكتبة الأساسية مضمنة وتبقى متاحة دون اتصال. ويمكن لـ InnerWhisper طلب ملف إضافي اختياري عبر HTTPS. إذا تعذر الطلب، تستمر المكتبة المضمنة في العمل.",
-    "If you notice a doubtful attribution or wording, email us with the quote and the source you believe is more accurate. Please do not include any private quote you added yourself unless you deliberately want us to read it.": "إذا لاحظت نسبة أو صياغة مشكوكاً فيها، فأرسل لنا الاقتباس والمصدر الذي تراه أدق. لا تُرفق اقتباساً خاصاً أضفته إلا إذا أردت عمداً أن نقرأه.",
-    "InnerWhisper has no account, advertising, analytics, or tracking SDK. Your app data remains on your device or in your personal iCloud account through Apple’s systems. Read the": "لا يملك InnerWhisper حساباً أو إعلانات أو تحليلات أو SDK للتتبع. تبقى بيانات التطبيق على جهازك أو في حساب iCloud الشخصي عبر أنظمة Apple. اقرأ",
-    "full Privacy Policy": "سياسة الخصوصية كاملة",
-    "for the precise storage, sync, network, and deletion boundaries.": "لمعرفة حدود التخزين والمزامنة والشبكة والحذف بدقة.",
-    "Deleting InnerWhisper removes its local app data. Synced data may remain in your personal iCloud account until you remove the app’s stored iCloud data through iOS Settings.": "حذف InnerWhisper يزيل بياناته المحلية. قد تبقى البيانات المتزامنة في حساب iCloud الشخصي حتى تحذف بيانات التطبيق المخزنة عبر iOS Settings.",
-    "Accessibility support": "دعم إمكانية الوصول",
-    "If VoiceOver, Voice Control, Larger Text, Reduce Motion, contrast, notification access, or another access need is not working gracefully, please tell us which task you were trying to complete. Accessibility problems are product problems.": "إذا لم يعمل VoiceOver أوVoice Control أوLarger Text أوReduce Motion أوالتباين أوالوصول إلى الإشعارات أوأي حاجة وصول أخرى بسلاسة، فأخبرنا بالمهمة التي كنت تحاول إنجازها. مشكلات إمكانية الوصول مشكلات في المنتج.",
-    "Email Moving Truth": "راسل Moving Truth",
-    "Include your iPhone or iPad model, iOS version, InnerWhisper version, and what happened. Please do not send private added quotes unless you intentionally want them included in the support conversation.": "اذكر طراز iPhone أوiPad وإصدار iOS وإصدار InnerWhisper وما حدث. لا ترسل اقتباسات خاصة أضفتها إلا إذا أردت عمداً إدراجها في محادثة الدعم.",
-    "·": "·",
-    "All apps": "جميع التطبيقات",
-    "Explore all Moving Truth apps": "استكشف جميع تطبيقات Moving Truth"
-  },
-  "scriptTranslations": {
-    "A quiet word, exactly when you need it.": "كلمة هادئة، تماماً حين تحتاج إليها.",
-    "Moonlit": "ضوء القمر",
-    "Zen Garden": "حديقة زن",
-    "Ember Night": "ليلة الجمر",
-    "Aurora": "الشفق",
-    "One quiet word, placed gently in your day. From Moving Truth — over a thousand quotes drawn from the world’s deepest thinkers, delivered with care.": "كلمة هادئة توضع برفق في يومك. من Moving Truth — أكثر من ألف اقتباس من أعمق مفكري العالم، يقدم بعناية.",
-    "Chosen words": "كلمات مختارة",
-    "Your pace": "بإيقاعك",
-    "Held close": "محفوظة بالقرب منك",
-    "Kept private": "تبقى خاصة",
-    "Simply made": "مصنوعة ببساطة",
-    "Let stillness speak.": "دع السكون يتحدث.",
-    "A daily word from the world’s deepest thinkers, arriving in its own time. Gather what resonates. Let the rest pass.": "كلمة يومية من أعمق مفكري العالم، تصل في وقتها. اجمع ما يلامسك، ودع الباقي يمضي.",
-    "Curated wisdom": "حكمة مختارة",
-    "Your schedule": "جدولك",
-    "Simply beautiful": "ببساطة جميلة",
-    "Roots. Stillness. Growth.": "جذور. سكون. نمو.",
-    "Daily wisdom, drawn from the well of human experience. Arrive here, breath by breath, day by day. Some words take root immediately. Others need time.": "حكمة يومية من معين التجربة الإنسانية. تعال نفساً بعد نفس ويوماً بعد يوم. بعض الكلمات تتجذر فوراً، وبعضها يحتاج إلى وقت.",
-    "Tended quotes": "اقتباسات معتنى بها",
-    "Morning ritual": "طقس الصباح",
-    "Gathered": "مجموعة",
-    "Private space": "مساحة خاصة",
-    "Natural feel": "إحساس طبيعي",
-    "Something small. Sustained.": "شيء صغير. يدوم.",
-    "A single ember doesn’t demand your attention — it simply glows, patient and warm. One quote. One moment. Yours to keep or release.": "لا يطالب الجمر الواحد بانتباهك، بل يتوهج بصبر ودفء. اقتباس واحد. لحظة واحدة. لك أن تحفظها أو تتركها.",
-    "Timed arrival": "وصول في وقته",
-    "Kept warm": "محفوظة بدفء",
-    "Protected": "محمية",
-    "Refined": "مصقولة",
-    "Imperfect. Enough.": "غير كامل. وكافٍ.",
-    "Wabi-sabi finds beauty in impermanence and imperfection. This space collects the kind of words that remind you — nothing needs to be perfect to be worth keeping.": "يجد وابي-سابي الجمال في الزوال والنقص. تجمع هذه المساحة كلمات تذكرك بأن الشيء لا يحتاج إلى الكمال كي يستحق الاحتفاظ به.",
-    "Honest words": "كلمات صادقة",
-    "Gentle rhythm": "إيقاع لطيف",
-    "Cherished": "عزيزة",
-    "Simple": "بسيطة",
-    "Grounded": "راسخة",
-    "Brief and beautiful.": "قصيرة وجميلة.",
-    "Cherry blossoms don’t cling to the branch. Words are delivered the same way — arriving fully, then letting go. What stays with you, stays.": "لا تتشبث أزهار الكرز بالغصن. تصل الكلمات بالطريقة نفسها—مكتملة، ثم تترك. وما يبقى معك، يبقى.",
-    "Fleeting wisdom": "حكمة عابرة",
-    "Timed release": "تحرير في وقته",
-    "Remembered": "في الذاكرة",
-    "Quiet beauty": "جمال هادئ",
-    "Softly made": "مصنوعة برفق",
-    " mood": " — أجواء"
+  "schema": "release-fabric/catalog@2",
+  "messages": {
+    "inner-whisper.index.text.0001": {
+      "value": "InnerWhisper — من Moving Truth",
+      "sourceSha256": "0ac7f0d866ebda30ac5c3ba07180cafcd57a31ff3c6a4d9bceaf19e1881d0a88"
+    },
+    "inner-whisper.index.text.0002": {
+      "value": "الميزات",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    "inner-whisper.index.text.0003": {
+      "value": "الاقتباسات",
+      "sourceSha256": "8dc37869d63b05bdda85dc47d06976975ee238de6526a124ac082a5e2fa4c533"
+    },
+    "inner-whisper.index.text.0004": {
+      "value": "الخصوصية",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-whisper.index.text.0005": {
+      "value": "تنزيل",
+      "sourceSha256": "d6eafe82359100423c93c5ce53c352c1b51ca1e699215fcec3f5c5dd9bf12d24"
+    },
+    "inner-whisper.index.text.0006": {
+      "value": "جميع التطبيقات",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-whisper.index.text.0007": {
+      "value": "كلمة هادئة، تماماً حين تحتاج إليها.",
+      "sourceSha256": "2fe8918f5434580d3d0e982010795bdb321820932ce05aaa31460009bdd5e05f"
+    },
+    "inner-whisper.index.text.0008": {
+      "value": "InnerWhisper — كلمة هادئة، تماماً حين تحتاج إليها.",
+      "sourceSha256": "406fe0e8e7d07cc29d31f0e23a58abcafeaa8eee4ce73448a2acd08e6d0b9554"
+    },
+    "inner-whisper.index.text.0009": {
+      "value": "نزّل على iOS",
+      "sourceSha256": "9b5b04ff74aae2bd3bf16f67aff3d6bd0ce6057615f25753344aa17241bea439"
+    },
+    "inner-whisper.index.text.0010": {
+      "value": "تواصل مع الدعم",
+      "sourceSha256": "f8d47b82e285ba9584ad79631b61d57c5887b2fc1ddcc29093ee7f88c4b2042d"
+    },
+    "inner-whisper.index.text.0011": {
+      "value": "مرّر للاستكشاف",
+      "sourceSha256": "ab07532e4272f92b25b9d24083ed1629d783f3565c64d4442064f165a8f17192"
+    },
+    "inner-whisper.index.text.0012": {
+      "value": "كلمة هادئة توضع برفق في يومك. من Moving Truth — أكثر من ألف اقتباس مختار من أعمق مفكري العالم، يقدم بعناية.",
+      "sourceSha256": "0a37b4b107efcb837e712b11ce93d4b540dfb33982a10e5d8bb416b68d8b62e8"
+    },
+    "inner-whisper.index.text.0013": {
+      "value": "همسة، لا خلاصة. مشفرة على جهازك. بلا حساب. بلا تتبع. بلا إعلانات.",
+      "sourceSha256": "a84fe3b877b6b45faaf59deea8dc2380d146220a388dfdd37db6ba92b9c0b6c1"
+    },
+    "inner-whisper.index.text.0014": {
+      "value": "كلمات مختارة",
+      "sourceSha256": "cb988770458d7108f6f7841c5adaff2481f0f53b8bcbe2ca7baaf7bc43a9d12b"
+    },
+    "inner-whisper.index.text.0015": {
+      "value": "بإيقاعك",
+      "sourceSha256": "d49f8d9f65e3e428b67cfd3458e09c0fcecaf93306e7f3cdbfcbe1a59bff9246"
+    },
+    "inner-whisper.index.text.0016": {
+      "value": "محفوظة بالقرب منك",
+      "sourceSha256": "bdae4643e2ded0b08b92ef132fc8324f4b03bacdbf5300eab517b16ec1f41d27"
+    },
+    "inner-whisper.index.text.0017": {
+      "value": "تبقى خاصة",
+      "sourceSha256": "187c44112cef269684fa358a68cefa913e3d18f55b0936b55f56dbbb2ec7d43d"
+    },
+    "inner-whisper.index.text.0018": {
+      "value": "مصنوعة ببساطة",
+      "sourceSha256": "7afd25621d13bcd7789e577b5f33e95b88294b2c510ecbe1a3133348aff4046d"
+    },
+    "inner-whisper.index.text.0019": {
+      "value": "السمات البصرية",
+      "sourceSha256": "f9a374909063bc66e3c4d3348860fccc9a5cde5f80b9647727dffd6f4d38b3b2"
+    },
+    "inner-whisper.index.text.0020": {
+      "value": "اختر أجواءك.",
+      "sourceSha256": "a9a36b89f678bf450b8212ee9e3a17732213b7637d13264cccf517eb5c4bf865"
+    },
+    "inner-whisper.index.text.0021": {
+      "value": "ثلاث بيئات متحركة غامرة لشاشة الاقتباس الرئيسية، صُممت كل منها لتساعدك على الحضور مع الكلمات أمامك.",
+      "sourceSha256": "8985be48c60d4a817c2d84f0329060cf1e2b83f4ed857d30cd02c3a732f72352"
+    },
+    "inner-whisper.index.text.0022": {
+      "value": "الفضاء العميق",
+      "sourceSha256": "36355fb3d7a9705dd5b81a8e534be4cc10345a42adc105f360beadca39bef548"
+    },
+    "inner-whisper.index.text.0023": {
+      "value": "نجوم متحركة ومجرة",
+      "sourceSha256": "d1364545a6003f50258a93650345a2cd635cbe800da452c0f27cc50a9af8c417"
+    },
+    "inner-whisper.index.text.0024": {
+      "value": "أضواء الشفق القطبي",
+      "sourceSha256": "a4c9d067fa0838aa2072c4bbd241196f75439d6d586a1e4447d28325ffb53539"
+    },
+    "inner-whisper.index.text.0025": {
+      "value": "الغابة",
+      "sourceSha256": "eed88b3afe90b755e6c7524ea01c2b5a3e75235801054adb2a3a04bb6feaaab7"
+    },
+    "inner-whisper.index.text.0026": {
+      "value": "شفق الغابة",
+      "sourceSha256": "73988dd48bb1922dd8dc1c4c43a97db6c140029360005190373acf197d9a54de"
+    },
+    "inner-whisper.index.text.0027": {
+      "value": "مجموعات الاقتباسات",
+      "sourceSha256": "7d5765573ac4acfafc4c18d195f29629adc6c8bc0e6ffdc1dc9b2678689e0f4e"
+    },
+    "inner-whisper.index.text.0028": {
+      "value": "حكمة من تقاليد متعددة.",
+      "sourceSha256": "7bb25d6a864833f83344433a00b5f332415b2d38d44c6ab7dc9ae4d6fe1d5c4a"
+    },
+    "inner-whisper.index.text.0029": {
+      "value": "فعّل المجموعات التي تخاطبك، وعطّل ما لا يفعل. مساحتك، بطريقتك.",
+      "sourceSha256": "521c23197a41dce9fe5b4b9822e0fe7a01fc73015be6166c23360a72c90ad906"
+    },
+    "inner-whisper.index.text.0030": {
+      "value": "✨ عام",
+      "sourceSha256": "13035221ac5e9aa7399d0b43ee62b2a0ba26634b79ecadfa97b5557fff1cb991"
+    },
+    "inner-whisper.index.text.0031": {
+      "value": "⚡ تحفيزي",
+      "sourceSha256": "52a74938eb9122c8459a91495d202ba040a998a52e14841290be2aaff3a532c5"
+    },
+    "inner-whisper.index.text.0032": {
+      "value": "⚖️ الرواقية",
+      "sourceSha256": "bbab7533feaf7e7be22052211c050c195505da64bbd4b379d4b74428127ff8c6"
+    },
+    "inner-whisper.index.text.0033": {
+      "value": "🍃 الطبيعة",
+      "sourceSha256": "266d1bd2b60882357730d6367b5b865dc7a80cef6d9d18f863a6146e9088be5b"
+    },
+    "inner-whisper.index.text.0034": {
+      "value": "🌲 الغابة",
+      "sourceSha256": "bf3edef7d4d68f230346e34b27bd63bf61162c0c10016ad426eda5e75b02db96"
+    },
+    "inner-whisper.index.text.0035": {
+      "value": "🌙 الفضاء",
+      "sourceSha256": "927b0c2e5f921da3dce3f16823f4d0e0024f81dac38a7c534568101d1dfeb640"
+    },
+    "inner-whisper.index.text.0036": {
+      "value": "あ أمثال يابانية",
+      "sourceSha256": "de5b088510be723536595797cca07ce7281f078b50533e09f3459501e23f4d2d"
+    },
+    "inner-whisper.index.text.0037": {
+      "value": "🌊 آلان واتس",
+      "sourceSha256": "e39be16595b2c8f74115f9a4fa2a3236959a8280ac6244cc2ff5ee3e291df930"
+    },
+    "inner-whisper.index.text.0038": {
+      "value": "🕊️ غاندي",
+      "sourceSha256": "775629588ffc0fae680d571c8a2d4c90626fd8d4ffb18ffec027c0d18415e497"
+    },
+    "inner-whisper.index.text.0039": {
+      "value": "🏛️ قادة العالم",
+      "sourceSha256": "25e000cf542dcdf4a10ab1e57c7987f6ce947c0db5ad1c737910fb28212eb733"
+    },
+    "inner-whisper.index.text.0040": {
+      "value": "🎭 ممثلون",
+      "sourceSha256": "32a5ef62e4458de2dba0a3b54f8034065618c482cdb4bd37b6930c202102468a"
+    },
+    "inner-whisper.index.text.0041": {
+      "value": "صُمم لعينيك وحدك.",
+      "sourceSha256": "e08049dc7be28b0df9d5753c9013a90650f8524919ae624efaecb7872c9d769f"
+    },
+    "inner-whisper.index.text.0042": {
+      "value": "صُمم InnerWhisper منذ اليوم الأول على مبدأ أن بيانات عافيتك النفسية تخصك أنت وحدك.",
+      "sourceSha256": "47bdc3df299eb4f6774d6d1fd7c060aa69bd84ffac0bb982259439b2b6cfdf79"
+    },
+    "inner-whisper.index.text.0043": {
+      "value": "لا حاجة إلى حساب—أبداً. افتح التطبيق وابدأ فوراً.",
+      "sourceSha256": "e89b60f25c810090fdd830d7562fc123cd2caf7914b46ec660ea22e93d354789"
+    },
+    "inner-whisper.index.text.0044": {
+      "value": "لا تحليلات أو تقارير أعطال أو بيانات تتبع تغادر جهازك.",
+      "sourceSha256": "57086800f4479c71b2a51e366d00a86a55edde1df7fa4b69914d572289a2102c"
+    },
+    "inner-whisper.index.text.0045": {
+      "value": "لا شبكات إعلانية ولا حزم SDK من جهات خارجية.",
+      "sourceSha256": "6cf40b8832ca833ed7b8ce6da59ec1983861b9d8b041b2f3e13e2968a8219a97"
+    },
+    "inner-whisper.index.text.0046": {
+      "value": "مفاتيح التشفير مؤمنة في iOS Keychain. وملفات الاقتباسات مشفرة على القرص بـ AES-256-GCM.",
+      "sourceSha256": "9e38a1b0ab16b7bca711a917d1279ab32901e295e6861fac787f5d3c9c38271d"
+    },
+    "inner-whisper.index.text.0047": {
+      "value": "يُنشأ محتوى الإشعارات على الجهاز—ولا يُرسل شيء إلى خوادمنا.",
+      "sourceSha256": "e460f2d61ec9d649cf5f15ccc51e1aae44d5bdf8539c1f2351dfc956cea33160"
+    },
+    "inner-whisper.index.text.0048": {
+      "value": "تتزامن المفضلات والاقتباسات التي تضيفها عبر بنية iCloud من Apple، لا عبرنا. تنطبق سياسة خصوصية Apple.",
+      "sourceSha256": "33b4cb06aefe789a62910c03927b251d4022a1ff592201c3afaffda6562bde50"
+    },
+    "inner-whisper.index.text.0049": {
+      "value": "Privacy Manifest مقدم إلى Apple: التتبع معطل، ولم تُعلن أي أنواع بيانات شخصية.",
+      "sourceSha256": "5415eb6c60b0ff1f07b6266e08323485b4eda879b2247cc0ef2cbf3512321799"
+    },
+    "inner-whisper.index.text.0050": {
+      "value": "اقرأ سياسة الخصوصية كاملة ←",
+      "sourceSha256": "f02a7103d4c944a0ec94c355874e5044ed7d363a7fefe8a8c8e1304eaf056c28"
+    },
+    "inner-whisper.index.text.0051": {
+      "value": "من Moving Truth",
+      "sourceSha256": "3daa3456fa0b55162e7c72b8d69a3fff181d034edf3423bcf3ce5a972cf2aab4"
+    },
+    "inner-whisper.index.text.0052": {
+      "value": "صنعه Skylaur Roe بـ ♥",
+      "sourceSha256": "305e512fb0fab67d1cc253725023b9061f3dba1b8d4f968f0f6f2615d6ada736"
+    },
+    "inner-whisper.index.text.0053": {
+      "value": "استكشف جميع تطبيقات Moving Truth",
+      "sourceSha256": "1a8f383841d7faff0dd5d4232e122c1fc9c9cd70a6081e1df6caffd492edc277"
+    },
+    "inner-whisper.index.text.0054": {
+      "value": "🌍 مجموعات الاقتباسات",
+      "sourceSha256": "4fa1493da7516ee17d5cf1146161135be3f91fd4dd81a956d452caf84de79294"
+    },
+    "inner-whisper.index.text.0055": {
+      "value": "🔒 سياسة الخصوصية",
+      "sourceSha256": "734035b5e2a3dec202e88bbd07efb22e1f513e5d0f9cfda0b51a1d3da5fbc236"
+    },
+    "inner-whisper.index.text.0056": {
+      "value": "💬 مصادر الاقتباسات",
+      "sourceSha256": "95c52c90d0f5edbc53f4b9051505c3183c593ab4dddbf5c12f397f1e9df7a2a0"
+    },
+    "inner-whisper.index.text.0057": {
+      "value": "تأتي اقتباسات InnerWhisper من أعمال في الملكية العامة وكتابات تاريخية ومصادر واسعة التداول. لا نستطيع ضمان الصياغة أو النسبة الدقيقة لكل اقتباس؛ فكثير من الأقوال المشهورة أعيدت صياغتها أو اختلف في أصلها. إن لاحظت خطأ، فنحن نريد بصدق أن نعرف:",
+      "sourceSha256": "a2fc097c7ceea65ba45bc0d76a4c468505d5c3e30dd5bdacb77efbcf61107651"
+    },
+    "inner-whisper.index.text.0058": {
+      "value": "اختر الأجواء",
+      "sourceSha256": "cd7e82a4e39373da8ef574b19bbe9a6327f84123b643915df00f8c7adf412048"
+    },
+    "inner-whisper.index.text.0059": {
+      "value": "متاح الآن",
+      "sourceSha256": "ece3a35b6a6ac125992853db808bc7831e7d4b45aa055608f41e94aa6bd4afe9"
+    },
+    "inner-whisper.index.text.0060": {
+      "value": "InnerWhisper متاح على App Store.",
+      "sourceSha256": "4b8a19a7e0bd194c45fb354dcaead26f287f103983cb39764236320772bef49b"
+    },
+    "inner-whisper.index.text.0061": {
+      "value": "نزّله ودع اقتباساً يجدك حين تحتاج إليه. لديك سؤال؟ راسلنا على",
+      "sourceSha256": "e90fbdb71004bcc19802fbbaf88f889b9150c25f696a6cf0f5638e1ff887fc0f"
+    },
+    "inner-whisper.index.text.0062": {
+      "value": "📱 نزّل من App Store",
+      "sourceSha256": "d7d6f648b27b842eb26c80c3d4f2f06acb16c7fb85a8091070668898a192940f"
+    },
+    "inner-whisper.index.text.0063": {
+      "value": "سياسة الخصوصية",
+      "sourceSha256": "506ff394621596dd88138642eddfc1e41833b3ae92d95e5c77c94327098abd9a"
+    },
+    "inner-whisper.index.text.0064": {
+      "value": "الدعم",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-whisper.index.text.0065": {
+      "value": "الميزات",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    "inner-whisper.index.text.0066": {
+      "value": "الخصوصية",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-whisper.index.text.0067": {
+      "value": "جميع التطبيقات",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-whisper.index.text.0068": {
+      "value": "© 2026 InnerWhisper من Moving Truth. صُنع بـ SwiftUI لنظام iOS.",
+      "sourceSha256": "6d671ce245bd7af26e2735b03c4fe525bedc62d9ccbbd489f697cb09845daf71"
+    },
+    "inner-whisper.index.attribute.0001": {
+      "value": "InnerWhisper — تطبيق همسة يومية من Moving Truth. اقتباسات وسكون وتأمل تصل إليك بهدوء. بلا حساب أو تتبع أو إعلانات؛ والمزامنة الاختيارية تستخدم حساب iCloud الشخصي.",
+      "sourceSha256": "06fc03809480fd440e040326ed053eaf863d251f70c975bcc4b50c1cc79a985a"
+    },
+    "inner-whisper.index.attribute.0002": {
+      "value": "InnerWhisper — من Moving Truth",
+      "sourceSha256": "0ac7f0d866ebda30ac5c3ba07180cafcd57a31ff3c6a4d9bceaf19e1881d0a88"
+    },
+    "inner-whisper.index.attribute.0003": {
+      "value": "الصفحة الرئيسية لـ InnerWhisper",
+      "sourceSha256": "4d8038b0934744ad7ae4e4c882606c0ac2eabbebd51cae473611c66205be85ae"
+    },
+    "inner-whisper.index.attribute.0004": {
+      "value": "أيقونة تطبيق InnerWhisper",
+      "sourceSha256": "5de43521f26ee0e57fb421004d6e9297349dadcbdb79ae2ed30aa80d3fe183b7"
+    },
+    "inner-whisper.index.attribute.0005": {
+      "value": "افتح قائمة التنقل",
+      "sourceSha256": "ef373a9f3656aedacc224159b6b974f7f0e1d0874f2bf688e04ec8c255f827f2"
+    },
+    "inner-whisper.index.attribute.0006": {
+      "value": "ورقة InnerWhisper",
+      "sourceSha256": "6a23d73bf8c4b58b86d4a1b2aed587e81bcefd1118c13379fbaa2261c66ee9de"
+    },
+    "inner-whisper.index.attribute.0007": {
+      "value": "نزّل من App Store",
+      "sourceSha256": "ccd534e0d967abf1ad3fdbfb48fdbb86bbcce702b83f9dca9bf549d92818367e"
+    },
+    "inner-whisper.index.attribute.0008": {
+      "value": "عن InnerWhisper",
+      "sourceSha256": "15d583c14082fbb5b20a6594b6262ab814f233e841a77c46dd6679f09bfefaeb"
+    },
+    "inner-whisper.index.attribute.0009": {
+      "value": "الميزات",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    "inner-whisper.index.attribute.0010": {
+      "value": "لقطة شاشة لسمة الفضاء",
+      "sourceSha256": "a82d5dd5e23f3848fd19d853efae0e9e0d37c1cc452216977fa87977c2c9af19"
+    },
+    "inner-whisper.index.attribute.0011": {
+      "value": "سمة الفضاء العميق بنجوم متحركة",
+      "sourceSha256": "d72c622ae7219e306bd48e55558ce795224c1d4cd6b77d1dd3b636c19aae700d"
+    },
+    "inner-whisper.index.attribute.0012": {
+      "value": "لقطة شاشة لسمة الشفق",
+      "sourceSha256": "6a5cb9622a385825c5f5c05de320c68d4d37f6177b1793fbec1ef545b4d2d8d9"
+    },
+    "inner-whisper.index.attribute.0013": {
+      "value": "بيئة سمة الشفق",
+      "sourceSha256": "23f9275004d6204b6311f1c5bef3669c871e205365c0b59b5d94198dbbfd8f2d"
+    },
+    "inner-whisper.index.attribute.0014": {
+      "value": "لقطة شاشة لسمة الغابة",
+      "sourceSha256": "f6d929dabfb7242b3fd2d4a21e504dc7c4ed1488d7569424acb14092cc7074f4"
+    },
+    "inner-whisper.index.attribute.0015": {
+      "value": "بيئة سمة الغابة",
+      "sourceSha256": "96b07e8a86d108b80b2cfa4ccc6b34154f611b3b06b7e1ba9f728c0a22ae143d"
+    },
+    "inner-whisper.index.attribute.0016": {
+      "value": "اقرأ سياسة خصوصية InnerWhisper كاملة",
+      "sourceSha256": "97db98ed9e5fa52b52cd1647b4814b193e55f45463d728c2d3622181d4f0edc8"
+    },
+    "inner-whisper.index.attribute.0017": {
+      "value": "عن Moving Truth",
+      "sourceSha256": "9e010112763306f8c869449c867a0a6e7bd9a0f2207e01ee92965346f2bf5cbe"
+    },
+    "inner-whisper.index.attribute.0018": {
+      "value": "Moving Truth. يفتح movingtruth.com",
+      "sourceSha256": "5b7032d6f78452d2eb6600a557b42ecdf67966e8dc057586856fb65f9f1aaa08"
+    },
+    "inner-whisper.index.attribute.0019": {
+      "value": "شعار Moving Truth",
+      "sourceSha256": "3c19c00420a1f78422a5cdb3fe3d6d00e2c33c24e5cb83ec54b8459b70b8fbb7"
+    },
+    "inner-whisper.index.attribute.0020": {
+      "value": "روابط",
+      "sourceSha256": "9024c197d84940e47ff6aa631b7711c4cbff4e7fb2fe1a574a3592b662983a0d"
+    },
+    "inner-whisper.index.attribute.0021": {
+      "value": "أجواء صفحة التعريف",
+      "sourceSha256": "735f268b4fea060f1734880cfcf79e212d97965fee39558532b19f1b4dae344a"
+    },
+    "inner-whisper.index.attribute.0022": {
+      "value": "أيقونة تطبيق InnerWhisper",
+      "sourceSha256": "5de43521f26ee0e57fb421004d6e9297349dadcbdb79ae2ed30aa80d3fe183b7"
+    },
+    "inner-whisper.index.attribute.0023": {
+      "value": "روابط تذييل الصفحة",
+      "sourceSha256": "b8e78ad47ec6b1e4ce82786cf3900fd8697c05d914c13ddb5cc942d2c202b83b"
+    },
+    "inner-whisper.index.script.0001": {
+      "value": "كلمة هادئة، تماماً حين تحتاج إليها.",
+      "sourceSha256": "2fe8918f5434580d3d0e982010795bdb321820932ce05aaa31460009bdd5e05f"
+    },
+    "inner-whisper.index.script.0002": {
+      "value": "كلمات مختارة",
+      "sourceSha256": "cb988770458d7108f6f7841c5adaff2481f0f53b8bcbe2ca7baaf7bc43a9d12b"
+    },
+    "inner-whisper.index.script.0003": {
+      "value": "بإيقاعك",
+      "sourceSha256": "d49f8d9f65e3e428b67cfd3458e09c0fcecaf93306e7f3cdbfcbe1a59bff9246"
+    },
+    "inner-whisper.index.script.0004": {
+      "value": "محفوظة بالقرب منك",
+      "sourceSha256": "bdae4643e2ded0b08b92ef132fc8324f4b03bacdbf5300eab517b16ec1f41d27"
+    },
+    "inner-whisper.index.script.0005": {
+      "value": "تبقى خاصة",
+      "sourceSha256": "187c44112cef269684fa358a68cefa913e3d18f55b0936b55f56dbbb2ec7d43d"
+    },
+    "inner-whisper.index.script.0006": {
+      "value": "مصنوعة ببساطة",
+      "sourceSha256": "7afd25621d13bcd7789e577b5f33e95b88294b2c510ecbe1a3133348aff4046d"
+    },
+    "inner-whisper.index.script.0007": {
+      "value": "الشفق",
+      "sourceSha256": "e9de098c7733b1b9a6c985aaf3555f7cd10877a0fae0f1ecaab71fefc05d0b3a"
+    },
+    "inner-whisper.index.script.0008": {
+      "value": " — أجواء",
+      "sourceSha256": "66c02dfbdb4096b47c2356db083a0b1292b776916776400d004f4001556cb5fb"
+    },
+    "inner-whisper.index.script.0009": {
+      "value": "كلمة هادئة توضع برفق في يومك. من Moving Truth — أكثر من ألف اقتباس من أعمق مفكري العالم، يقدم بعناية.",
+      "sourceSha256": "0a37b4b107efcb837e712b11ce93d4b540dfb33982a10e5d8bb416b68d8b62e8"
+    },
+    "inner-whisper.index.script.0010": {
+      "value": "ضوء القمر",
+      "sourceSha256": "4361d21ad810cb99006604ea8d1f67083a56ec1707f74317adc47e924ddf11e4"
+    },
+    "inner-whisper.index.script.0011": {
+      "value": "دع السكون يتحدث.",
+      "sourceSha256": "aea6757fbdfd3b9e898413ea31fcaeeca7b823eaad98b340ce9c95f110278e4b"
+    },
+    "inner-whisper.index.script.0012": {
+      "value": "كلمة يومية من أعمق مفكري العالم، تصل في وقتها. اجمع ما يلامسك، ودع الباقي يمضي.",
+      "sourceSha256": "572185be6c2815021a86c0f451a044e767bba89622656d82f388f2bf5d532321"
+    },
+    "inner-whisper.index.script.0013": {
+      "value": "حكمة مختارة",
+      "sourceSha256": "32c55aaf210542011fd520b66f40f1f912ce425366b89a18766cbc5c80b816d1"
+    },
+    "inner-whisper.index.script.0014": {
+      "value": "جدولك",
+      "sourceSha256": "0dcfbd5190cf2adae4cc975c3202e70e9d2591c3466752aaca51e5a20ce8efdc"
+    },
+    "inner-whisper.index.script.0015": {
+      "value": "ببساطة جميلة",
+      "sourceSha256": "79b363c087fd0ad2a40a3e0a1ffe2b552a16ab2bcc4b14a432ddb578fed0f222"
+    },
+    "inner-whisper.index.script.0016": {
+      "value": "حديقة زن",
+      "sourceSha256": "6b6088e05cd412981cba40fb0ab60e3ec9edc54ecfd5e0b2f4122e2c0a2b784c"
+    },
+    "inner-whisper.index.script.0017": {
+      "value": "جذور. سكون. نمو.",
+      "sourceSha256": "99cad103e37351535e0af4a1a49dbecbdc4594e5b6802f2cd6e23f778f367ca0"
+    },
+    "inner-whisper.index.script.0018": {
+      "value": "حكمة يومية من معين التجربة الإنسانية. تعال نفساً بعد نفس ويوماً بعد يوم. بعض الكلمات تتجذر فوراً، وبعضها يحتاج إلى وقت.",
+      "sourceSha256": "6dd3e98730d97598b2f185dcb30517dfe0aa7f2d254ee81cfeb938582bb231a5"
+    },
+    "inner-whisper.index.script.0019": {
+      "value": "اقتباسات معتنى بها",
+      "sourceSha256": "51ce282dad0523c3910db1612ba6ebc78ce153d4e5629a79715dfdfd4127cef1"
+    },
+    "inner-whisper.index.script.0020": {
+      "value": "طقس الصباح",
+      "sourceSha256": "9109ec6d44bf8027031c888e354910159f4afa31a1b1856795435c40db92b362"
+    },
+    "inner-whisper.index.script.0021": {
+      "value": "مجموعة",
+      "sourceSha256": "cbc1860a640e1754024e37b60caed8cbf24e12c783ef598df21fca23b7739f30"
+    },
+    "inner-whisper.index.script.0022": {
+      "value": "مساحة خاصة",
+      "sourceSha256": "6536d2398dad1265c0d37c1c0934e3fa0e16d6f38ed02ac055e0abbd685b850a"
+    },
+    "inner-whisper.index.script.0023": {
+      "value": "إحساس طبيعي",
+      "sourceSha256": "5c3c3c838d69021c1453e7d7dfbb3faa04a9c8edf7c8fbc3a34fafdc2eb2f7f1"
+    },
+    "inner-whisper.index.script.0024": {
+      "value": "ليلة الجمر",
+      "sourceSha256": "819554cefbf22cab5ec4501af8547b88f91872395775a8192093cab67be0daf1"
+    },
+    "inner-whisper.index.script.0025": {
+      "value": "شيء صغير. يدوم.",
+      "sourceSha256": "3396fc0fa7deb2c3f989e1079f792c11e04dcb84f815e7bb91ebf4f963dfd8cb"
+    },
+    "inner-whisper.index.script.0026": {
+      "value": "لا يطالب الجمر الواحد بانتباهك، بل يتوهج بصبر ودفء. اقتباس واحد. لحظة واحدة. لك أن تحفظها أو تتركها.",
+      "sourceSha256": "f536040b53298515d1d0faaf6fd967c535b16f6cb5a47d4c56c3855aaaedd806"
+    },
+    "inner-whisper.index.script.0027": {
+      "value": "وصول في وقته",
+      "sourceSha256": "b00a80d6ff7fd4afdf12a8d4697dbdd7d23516e312f13f3e2b083e00bcf1844b"
+    },
+    "inner-whisper.index.script.0028": {
+      "value": "محفوظة بدفء",
+      "sourceSha256": "0ebb570aac6cbc684aeea6628f4a5a231d9fc604e4eaa644baea2ac169cb4602"
+    },
+    "inner-whisper.index.script.0029": {
+      "value": "محمية",
+      "sourceSha256": "b0ed263373361b8ec0ea4f86a4a6970a2e44fb0a83bb60f4dde908bca272683e"
+    },
+    "inner-whisper.index.script.0030": {
+      "value": "مصقولة",
+      "sourceSha256": "d81ab3063ec476535604befadd2d7543875359eb40bf563324887321eda16769"
+    },
+    "inner-whisper.index.script.0031": {
+      "value": "غير كامل. وكافٍ.",
+      "sourceSha256": "228e067260afa138eb0b90ddc2cee3dde9f73640f1034869c48c1bf954280156"
+    },
+    "inner-whisper.index.script.0032": {
+      "value": "يجد وابي-سابي الجمال في الزوال والنقص. تجمع هذه المساحة كلمات تذكرك بأن الشيء لا يحتاج إلى الكمال كي يستحق الاحتفاظ به.",
+      "sourceSha256": "fdd343e8577d33f6e0a68ba891e82a18d5a38923e59d0fc2e2c09fd6d9fb410b"
+    },
+    "inner-whisper.index.script.0033": {
+      "value": "كلمات صادقة",
+      "sourceSha256": "902aa9212389c8914d6cd2df19e1d25b3cfc65a4c95ff2b0c57385d2e7066192"
+    },
+    "inner-whisper.index.script.0034": {
+      "value": "إيقاع لطيف",
+      "sourceSha256": "a92342eee32b139c9338dac6ec00ee7754db74690a21f6d0bc8bc996500440f0"
+    },
+    "inner-whisper.index.script.0035": {
+      "value": "عزيزة",
+      "sourceSha256": "91e29155f215d2be26e4657eb09e88ffc001baa1927e9bacceda702a043f1d7e"
+    },
+    "inner-whisper.index.script.0036": {
+      "value": "بسيطة",
+      "sourceSha256": "3fee95da5ab69ebfdc16ec892b754105a11c20203054a6c6bcc0a60176891043"
+    },
+    "inner-whisper.index.script.0037": {
+      "value": "راسخة",
+      "sourceSha256": "5b6f73f04fe1a6af2dc43bebb45478862b0bd1fe079eed12f8bc2000a59bf68c"
+    },
+    "inner-whisper.index.script.0038": {
+      "value": "قصيرة وجميلة.",
+      "sourceSha256": "734c0153b1109c04450ef156c8182541c2ec5f5d9d29ee532f7a6d772454b567"
+    },
+    "inner-whisper.index.script.0039": {
+      "value": "لا تتشبث أزهار الكرز بالغصن. تصل الكلمات بالطريقة نفسها—مكتملة، ثم تترك. وما يبقى معك، يبقى.",
+      "sourceSha256": "61781afb82edf1099de1b13ba98f2087d0bcee0ad1ac693e8c193fa9342ba152"
+    },
+    "inner-whisper.index.script.0040": {
+      "value": "حكمة عابرة",
+      "sourceSha256": "daea37a32747c93b18ff43b3dfc152b4de9977a2ea5363c089f9f934d8050b94"
+    },
+    "inner-whisper.index.script.0041": {
+      "value": "تحرير في وقته",
+      "sourceSha256": "b80586a757f801d27e25e46b2b913041f8140dccd15dc914f6568b6018336d5c"
+    },
+    "inner-whisper.index.script.0042": {
+      "value": "في الذاكرة",
+      "sourceSha256": "a913983316ada7af9d13ea3590615911c1bba6453759f6ee6e56d214d97e976f"
+    },
+    "inner-whisper.index.script.0043": {
+      "value": "جمال هادئ",
+      "sourceSha256": "dc1dd4ff6afebef677e77c6002e67ad7209bd7bd115c4497c69ef752f0dd5ba5"
+    },
+    "inner-whisper.index.script.0044": {
+      "value": "مصنوعة برفق",
+      "sourceSha256": "5fe9ec730b409b34e0ff019925e447784e4967dd91e9e7d63dc86ba877841e9e"
+    },
+    "inner-whisper.privacy-policy.text.0001": {
+      "value": "سياسة الخصوصية — InnerWhisper",
+      "sourceSha256": "40e0affb7c94421305c87d1ad561fe741de7f3174ba8a606ad39737ab10d9678"
+    },
+    "inner-whisper.privacy-policy.text.0002": {
+      "value": "→ العودة إلى الرئيسية",
+      "sourceSha256": "85a6fae78f2983c9a3eb734e890848e2faab63926b43fa53fa7767fdd259ddb9"
+    },
+    "inner-whisper.privacy-policy.text.0003": {
+      "value": "سياسة الخصوصية",
+      "sourceSha256": "506ff394621596dd88138642eddfc1e41833b3ae92d95e5c77c94327098abd9a"
+    },
+    "inner-whisper.privacy-policy.text.0004": {
+      "value": "تاريخ السريان: 2026 • ينطبق على: InnerWhisper لنظام iOS",
+      "sourceSha256": "9511ad9d32bf2fc3123034d0f71143da95346d3bdaf76ab95fe26d0f00a11def"
+    },
+    "inner-whisper.privacy-policy.text.0005": {
+      "value": "الخلاصة:",
+      "sourceSha256": "b15965b78fb7b55212e89d6d88ef412bbd939f3cf1c1a7e8769fff06705538b8"
+    },
+    "inner-whisper.privacy-policy.text.0006": {
+      "value": "لا يجمع InnerWhisper بياناتك الشخصية ولا يبيعها. تبقى بيانات التطبيق على جهازك أو، عند توفر iCloud، في حسابك الشخصي عبر أنظمة Apple. لا تتلقى Moving Truth مفضلاتك أو اقتباساتك المضافة. قد يرسل التطبيق طلب HTTPS منفصلاً لملف اقتباسات إضافي اختياري؛ ولا يحمل الطلب حساباً أو محتوى من التطبيق.",
+      "sourceSha256": "682fdf97dcb4d0c15413815c6d34de0da21077e7177df0a30d9b67f093e6c516"
+    },
+    "inner-whisper.privacy-policy.text.0007": {
+      "value": "1. عن هذه السياسة",
+      "sourceSha256": "f939ba39e3a8d3a804d2bd5de1d7ef9156356eb639d3b8954a9fafd6b05b8234"
+    },
+    "inner-whisper.privacy-policy.text.0008": {
+      "value": "توضح هذه السياسة كيف يتعامل InnerWhisper (نحن أو التطبيق) مع المعلومات عند استخدام تطبيق iOS. باستخدام التطبيق توافق على الممارسات الموضحة هنا.",
+      "sourceSha256": "f7c8b9ac148f8558918f936dd32e402f10bf154ad314df1198f36e5957469829"
+    },
+    "inner-whisper.privacy-policy.text.0009": {
+      "value": "نلتزم بخصوصيتك. صُمم التطبيق بحيث لا تستطيع Moving Truth الوصول إلى بياناتك: تبقى على جهازك أو تنتقل بين أجهزة Apple عبر حساب iCloud الشخصي عند توفره.",
+      "sourceSha256": "2103c3beaf654701b3d9b6febfcd20caff78c2d503b4e5be4181e502a1354f92"
+    },
+    "inner-whisper.privacy-policy.text.0010": {
+      "value": "2. معلومات لا نجمعها",
+      "sourceSha256": "d874bd496502820aaa82180e6ce95495918d7e14290390abfc264bbfeaff345e"
+    },
+    "inner-whisper.privacy-policy.text.0011": {
+      "value": "لا يجمع InnerWhisper أو يخزن أو يرسل:",
+      "sourceSha256": "0de9ec93025af5387ec298872ab5d05947bbc72b879574efa14b81c5757a9ba4"
+    },
+    "inner-whisper.privacy-policy.text.0012": {
+      "value": "اسمك أو بريدك الإلكتروني أو أي معلومات تعريفية",
+      "sourceSha256": "82dd412b21fdb7289f3d2ce7d327c1457ab7b1236740e5d524f3af7e37f07381"
+    },
+    "inner-whisper.privacy-policy.text.0013": {
+      "value": "بيانات موقع من أي نوع",
+      "sourceSha256": "42f051f8f4915f19a8d0fed76ca9da1758d012330da711cc8115c169860997c3"
+    },
+    "inner-whisper.privacy-policy.text.0014": {
+      "value": "بيانات الصحة أو العافية التي تتفاعل معها داخل التطبيق",
+      "sourceSha256": "207409d49671e84f19aa643d91e69d87ea249bd5a4935736cada81f4444fed2e"
+    },
+    "inner-whisper.privacy-policy.text.0015": {
+      "value": "معرّفات الجهاز (IDFA أو IDFV أو ما شابه)",
+      "sourceSha256": "3df786df3b206e2828e98ee729bc18e45fc12f522b80ff8e4ce99ad5b8005229"
+    },
+    "inner-whisper.privacy-policy.text.0016": {
+      "value": "تحليلات الاستخدام أو البيانات السلوكية",
+      "sourceSha256": "5c5e4d40c0ce998cb3c9be99debe1e80b3669f44694c6ba24434435a95fe89ea"
+    },
+    "inner-whisper.privacy-policy.text.0017": {
+      "value": "سجلات الأعطال أو التشخيصات المرسلة إلى خوادمنا",
+      "sourceSha256": "c6c3c21505b3dabdd9e32292880cc05e4ec16d7e292b19b60bc072932d6ecbbe"
+    },
+    "inner-whisper.privacy-policy.text.0018": {
+      "value": "لا يلزم حساب لاستخدام InnerWhisper. ولا تدير Moving Truth خدمة تتلقى اقتباساتك أو مفضلاتك أو إعداداتك أو جدول إشعاراتك أو أي محتوى آخر.",
+      "sourceSha256": "b9306c28436c90d6138113708a1fa9192a289a22aba40eda0f9ffe33357658cd"
+    },
+    "inner-whisper.privacy-policy.text.0019": {
+      "value": "يعلن Apple Privacy Manifest الخاص بـ InnerWhisper",
+      "sourceSha256": "d7c6f1d0c75dbdb13523cf97e47c499d0e5dda0d9ebbd09cbf56b15ad890f2a9"
+    },
+    "inner-whisper.privacy-policy.text.0020": {
+      "value": "ولا يسرد أي أنواع بيانات مجمعة، وفق متطلبات خصوصية Apple.",
+      "sourceSha256": "66e8da332e274ce827d3f2124acfa9c911acc298c92995f30c2f87506a2f0946"
+    },
+    "inner-whisper.privacy-policy.text.0021": {
+      "value": "3. البيانات المخزنة على جهازك",
+      "sourceSha256": "2b99034e2f1f92be06660e42ff1029afe32d19f1f796764171c1d833f02f92d0"
+    },
+    "inner-whisper.privacy-policy.text.0022": {
+      "value": "يخزن التطبيق البيانات التالية على جهازك. ويمكن أيضاً مزامنة المفضلات والاقتباسات المشفرة التي تضيفها عبر حساب iCloud الشخصي كما في القسم 4:",
+      "sourceSha256": "904c43834481d4c8f78e008394950664a1cf0c1fd2f39ac410d352bce3b438f4"
+    },
+    "inner-whisper.privacy-policy.text.0023": {
+      "value": "تفضيلات التطبيق",
+      "sourceSha256": "c769a96e14b48fa37a9d7f2673c2423fe08f37e8ca116ce45897844fd5a308a4"
+    },
+    "inner-whisper.privacy-policy.text.0024": {
+      "value": "— جدول الإشعارات والسمة البصرية وإعدادات مجموعات الاقتباسات، محفوظة في",
+      "sourceSha256": "c7b53424255de8f00abc89aee954aac9966d6e12385d53430595495c3ef6d29b"
+    },
+    "inner-whisper.privacy-policy.text.0025": {
+      "value": "من Apple ومحمية بواسطة iOS Data Protection عند قفل الجهاز",
+      "sourceSha256": "bca7255baba32240bd90766d3696acf930871e6906f5c0656ef1ee4e167e66b0"
+    },
+    "inner-whisper.privacy-policy.text.0026": {
+      "value": "قائمة المفضلات",
+      "sourceSha256": "57103a742c23ef589d4cf151120b2288f8dfab5498cacffb1fab8be2ce6316ed"
+    },
+    "inner-whisper.privacy-policy.text.0027": {
+      "value": "— معرّفات الاقتباسات المحفوظة، مخزنة محلياً ومتزامنة اختيارياً عبر iCloud (راجع القسم 4)",
+      "sourceSha256": "de06f56b5bf3351f418ece324cf714b13b4a8614ff13c2d3a6284bf78235e71c"
+    },
+    "inner-whisper.privacy-policy.text.0028": {
+      "value": "مفاتيح التشفير",
+      "sourceSha256": "cb29ca3bf2fa756be0783e371c3f4cdd113eb799585c61873902efa809fbbe8d"
+    },
+    "inner-whisper.privacy-policy.text.0029": {
+      "value": "— مخزنة في iOS Keychain، ومحمية برمز دخول الجهاز وSecure Enclave",
+      "sourceSha256": "f41a6fb9e5c2a46a89fc8bcc4475b6dafe1c1db87267e087a8988c177e1e0036"
+    },
+    "inner-whisper.privacy-policy.text.0030": {
+      "value": "ملفات الاقتباسات",
+      "sourceSha256": "3464e437fd75be42fd5f53c5310a3aa53c15e436109cd767375011b820e30b03"
+    },
+    "inner-whisper.privacy-policy.text.0031": {
+      "value": "— مكتبة الاقتباسات المجمعة وما تضيفه بنفسك، مخزنة كملفات مشفرة بـ AES-256-GCM وبمفاتيح محفوظة في Keychain",
+      "sourceSha256": "0f426819be20701ab1310d13243eb436f7dea4a72ee1eb25301e2d39ac1213e8"
+    },
+    "inner-whisper.privacy-policy.text.0032": {
+      "value": "تُشفّر ملفات الاقتباسات على القرص بـ AES-256-GCM. وتعتمد التفضيلات والإعدادات على iOS Data Protection. يمكنك تشغيل التشفير أو إيقافه في Settings؛ وعند إيقافه تعتمد الملفات على حماية iOS فقط. حذف التطبيق يزيل كل البيانات المحلية من جهازك.",
+      "sourceSha256": "2149f95253cada00d9af66864c5fe244ab43f0bab9a2e36f6580d34f18532156"
+    },
+    "inner-whisper.privacy-policy.text.0033": {
+      "value": "4. مزامنة iCloud",
+      "sourceSha256": "4ffb68e50d547de408d09a66dfeb5523e6034d0d495f0ea108c64e0fac83e380"
+    },
+    "inner-whisper.privacy-policy.text.0034": {
+      "value": "إذا سجلت الدخول إلى iCloud، يزامن InnerWhisper نوعين من البيانات بين أجهزة Apple. تتولى بنية iCloud من Apple المزامنة كاملة، ولا تدير Moving Truth خدمة تتلقى هذه البيانات.",
+      "sourceSha256": "473bcd2a4546234f3d0775dc73c7d330abce847de6642d6c8e04af0647b3795e"
+    },
+    "inner-whisper.privacy-policy.text.0035": {
+      "value": "المفضلات (iCloud Key-Value Store)",
+      "sourceSha256": "01368f4489c12ad3efb2ad170bd1ad32d03012b50ae5055fa6526994c06f3f7a"
+    },
+    "inner-whisper.privacy-policy.text.0036": {
+      "value": "تتزامن قائمة معرّفات اقتباساتك المفضلة باستخدام",
+      "sourceSha256": "c209aa3bd856269b011be67f81b494350e1adb1caca87be9e6f8c2cf29bdc7ae"
+    },
+    "inner-whisper.privacy-policy.text.0037": {
+      "value": "من Apple.",
+      "sourceSha256": "374d7824a35f0cd0d2f5dc68baa40b9902ae052f713271353a62143c133d10c5"
+    },
+    "inner-whisper.privacy-policy.text.0038": {
+      "value": "لا تتزامن إلا سلاسل معرّفات مبهمة (مثل",
+      "sourceSha256": "cff853fe7aec1ebc8b4ca5d519bb136e858983693d7a1c2b734ca7cbf6896c48"
+    },
+    "inner-whisper.privacy-policy.text.0039": {
+      "value": "). ولا تتضمن نصوص الاقتباسات أو الملاحظات الشخصية.",
+      "sourceSha256": "84467024bcd43f3ef147aee0b7333265d82ef90c6f591ac7b64db648cd45bff2"
+    },
+    "inner-whisper.privacy-policy.text.0040": {
+      "value": "اقتباساتك المضافة (iCloud Documents)",
+      "sourceSha256": "bb6abe6817f9ec625d1bf0b4d0b40c8f8165b4fec192cd7486e5c33d56e2c8f9"
+    },
+    "inner-whisper.privacy-policy.text.0041": {
+      "value": "تُحفظ الاقتباسات التي تكتبها في ملف مشفر بـ AES-256-GCM يتزامن عبر حاوية iCloud Documents الشخصية (",
+      "sourceSha256": "d0b6686415fbddff8745e52d4c2016f58d4ff276c28f1f09ba2a40d43092f03e"
+    },
+    "inner-whisper.privacy-policy.text.0042": {
+      "value": ").",
+      "sourceSha256": "c4b2896a2081395e282313d6683f07c81e3339ef8b9d2b5a299ea5b626a0998f"
+    },
+    "inner-whisper.privacy-policy.text.0043": {
+      "value": "يتزامن مفتاح تشفير الملف عبر iCloud Keychain (",
+      "sourceSha256": "1cd36d2112deba43f5763f6114413cd2faab93b938e735d24a81b743070d9cb6"
+    },
+    "inner-whisper.privacy-policy.text.0044": {
+      "value": ")، ليتوفر المفتاح نفسه على كل أجهزتك المسجل دخولها.",
+      "sourceSha256": "7ca544076679be84a15b1ee80a8f237e2d7deb74e8e636d83517d0b683527212"
+    },
+    "inner-whisper.privacy-policy.text.0045": {
+      "value": "يُشفّر محتوى الملف قبل وصوله إلى iCloud، ولا يمكن لـ Apple أو لنا قراءته كنص واضح.",
+      "sourceSha256": "581226fc10b805630ed7b513fae60b848557605c36c5f47db5e39635063e96e6"
+    },
+    "inner-whisper.privacy-policy.text.0046": {
+      "value": "سياسة خصوصية Apple",
+      "sourceSha256": "9789f3cfa8d40a4e94624574c040b9fef55348bdf21e4ba6e39b1b4a6d0a63cc"
+    },
+    "inner-whisper.privacy-policy.text.0047": {
+      "value": "تنطبق على كل البيانات المعالجة عبر iCloud. يمكنك تعطيل مزامنة InnerWhisper في أي وقت من",
+      "sourceSha256": "91018ecbedef164a0760785f778171b729b57d4565e317512dcf90412535028b"
+    },
+    "inner-whisper.privacy-policy.text.0048": {
+      "value": "5. الإشعارات",
+      "sourceSha256": "c14ef12a130416e728ec612780a4ee01038e51970958f2d7d9fd757c83358404"
+    },
+    "inner-whisper.privacy-policy.text.0049": {
+      "value": "يقدم InnerWhisper إشعارات الاقتباسات اليومية على هيئة",
+      "sourceSha256": "a36ae589cf7afd5d9d290f9f122fb389bc2b3c04fccf1d4b2be1dd10be2bc9b1"
+    },
+    "inner-whisper.privacy-policy.text.0050": {
+      "value": "إشعارات محلية",
+      "sourceSha256": "468b9165376c932dd209b742f778413c391a475b5ae7ffd7c897255b4c77a7d1"
+    },
+    "inner-whisper.privacy-policy.text.0051": {
+      "value": "، يحددها iOS ويسلمها بالكامل على جهازك. لا يُرسل محتوى الإشعار أو جدوله أو تأكيد تسليمه إلى أي خادم.",
+      "sourceSha256": "3ef88f2e318d321c23977182a13128cd676bfc19cbef6f94eb6ffcac30c1f648"
+    },
+    "inner-whisper.privacy-policy.text.0052": {
+      "value": "قد يطلب iOS إذن الإشعارات عند أول استخدام. ويمكنك سحب الإذن في أي وقت من",
+      "sourceSha256": "e6d6351c0eebccff755fda2de177c494ec2f249975a9f7adb14fd3952b417ebc"
+    },
+    "inner-whisper.privacy-policy.text.0053": {
+      "value": "6. لا خدمات من جهات خارجية",
+      "sourceSha256": "b78866576d7ab0eabc16772852869aa5d406576178e0c24a2112e1c2c8d636e3"
+    },
+    "inner-whisper.privacy-policy.text.0054": {
+      "value": "لا يتكامل InnerWhisper مع تحليلات أو إعلانات أو تقارير أعطال من جهات خارجية. ولا يتضمن تحديداً:",
+      "sourceSha256": "1875f574037720ecfa592051ef4ef75559b657495d7f5606c0b98b170d822603"
+    },
+    "inner-whisper.privacy-policy.text.0055": {
+      "value": "حزم Analytics SDK (Firebase Analytics وAmplitude وMixpanel وغيرها)",
+      "sourceSha256": "ded14b4f3ec4b519e5bcb35399ccb82ef93a2598debe309e718e794bf0121ec8"
+    },
+    "inner-whisper.privacy-policy.text.0056": {
+      "value": "شبكات إعلانية أو وحدات بكسل للتتبع",
+      "sourceSha256": "f7ef9adb270928df2ac994bef2942e676cc2eb69216092cef31d2f907c545aab"
+    },
+    "inner-whisper.privacy-policy.text.0057": {
+      "value": "خدمات تقارير الأعطال أو مراقبة الأداء",
+      "sourceSha256": "a124070e53fda6f7f63fc660c6b10c8243cde0f51d8d6fc763d9980e3f2742ca"
+    },
+    "inner-whisper.privacy-policy.text.0058": {
+      "value": "مكتبة الاقتباسات الأساسية مضمنة في التطبيق. وقد يجلب التطبيق أيضاً ملف اقتباسات إضافياً اختيارياً من",
+      "sourceSha256": "0b8280e40d139b38af6a741f21ad669a7e624d3bb7be33e034434b4e79363b7e"
+    },
+    "inner-whisper.privacy-policy.text.0059": {
+      "value": "عبر HTTPS عند أول تشغيل، أو إذا تجاوز عمر الذاكرة المحلية 24 ساعة، أو عند طلب تحديث صراحة. لا يتضمن الطلب حساباً أو معرّفاً إعلانياً أو رمز حساب أو اقتباسات أو مفضلات أو إعدادات أو محتوى آخر. وكأي اتصال HTTPS، تعالج الاستضافة معلومات اتصال مثل عنوان IP لتسليم الملف؛ ولا تستخدم Moving Truth الطلب لتتبعك أو إنشاء ملف عنك.",
+      "sourceSha256": "de2719421ae740526a697ca71b99a57e39c47d1e5697d20172f7877c2cedf114"
+    },
+    "inner-whisper.privacy-policy.text.0060": {
+      "value": "7. خصوصية الأطفال",
+      "sourceSha256": "d79e31e712454ce7c502adebaa2e6e47572d4086e060dab4c1fa45c8e241513b"
+    },
+    "inner-whisper.privacy-policy.text.0061": {
+      "value": "لا يستهدف InnerWhisper الأطفال دون 13 عاماً. ولا نجمع معلوماتهم الشخصية عن علم. إذا اعتقدت أن طفلاً زودنا بمعلومات شخصية، فتواصل معنا أدناه وسنحذفها سريعاً.",
+      "sourceSha256": "627a3dfbeab713eede889ac5522a89ba559cc40e2eef2106891adfa55722f77e"
+    },
+    "inner-whisper.privacy-policy.text.0062": {
+      "value": "8. الاحتفاظ بالبيانات وحذفها",
+      "sourceSha256": "cd649912f37d37dcda21f08217ff3d4650f85e6806d2f64402458c9581c97128"
+    },
+    "inner-whisper.privacy-policy.text.0063": {
+      "value": "توجد كل بيانات InnerWhisper على جهازك وفي حساب iCloud الشخصي فقط. لا نصل إليها ولا نستطيع حذفها نيابة عنك.",
+      "sourceSha256": "958edd47a61a34fec579e340d74e37f3d27f9b7495ede5dd3120cc2a7847c5c9"
+    },
+    "inner-whisper.privacy-policy.text.0064": {
+      "value": "لحذف البيانات المحلية:",
+      "sourceSha256": "f5db43b949eb0a10bb5f7feef59c6e48b1e5f135c12cb9911c65b98483c6ec5f"
+    },
+    "inner-whisper.privacy-policy.text.0065": {
+      "value": "احذف تطبيق InnerWhisper من جهازك. يزيل iOS كل البيانات المرتبطة تلقائياً.",
+      "sourceSha256": "5d6a175f236de1ac6db923bb6f7f457a28cb385744feddade95008f3fb3eba01"
+    },
+    "inner-whisper.privacy-policy.text.0066": {
+      "value": "لحذف المفضلات المتزامنة عبر iCloud:",
+      "sourceSha256": "bcb1d425f4a251b94ebf7bcc6b06dbbc35a81cc3ce97de09290513e9e658d557"
+    },
+    "inner-whisper.privacy-policy.text.0067": {
+      "value": "بعد حذف التطبيق، انتقل إلى",
+      "sourceSha256": "44c2cb78550e70363c0f446ddf56a6cfa5d2ae6704309c8e709578be05b02bf1"
+    },
+    "inner-whisper.privacy-policy.text.0068": {
+      "value": "واحذف بيانات InnerWhisper في iCloud إن ظهرت.",
+      "sourceSha256": "4ceda1b238e1ab5ac1cbc3f71b7da57453a430b24a37c6a3fba26700c985139c"
+    },
+    "inner-whisper.privacy-policy.text.0069": {
+      "value": "9. تغييرات هذه السياسة",
+      "sourceSha256": "90b39c181ac6a82fb0737bbb96872a3a3a091e1be9c7a7dcd7d99d6e66ef7f3c"
+    },
+    "inner-whisper.privacy-policy.text.0070": {
+      "value": "قد نحدّث سياسة الخصوصية أحياناً، وعندها نراجع تاريخ السريان أعلى الصفحة. نشجعك على مراجعتها دورياً. استمرار استخدام InnerWhisper بعد نشر التغييرات يعني قبول السياسة المحدثة.",
+      "sourceSha256": "c0371f5f1268c112021938552ce3eeba5e0089343d484d439251b952d83bc1ea"
+    },
+    "inner-whisper.privacy-policy.text.0071": {
+      "value": "10. التواصل",
+      "sourceSha256": "2f41786a75a2b2cb39fb0078d952bdcc91e0b3144b4bf6a1d777e7c9ffea0f88"
+    },
+    "inner-whisper.privacy-policy.text.0072": {
+      "value": "إذا كانت لديك أسئلة عن هذه السياسة أو ممارسات بيانات InnerWhisper، فتواصل معنا:",
+      "sourceSha256": "9d4ea5e0f263e75eeabbb5d9bf4995a24ab19b4936e819f6c7c28429b2ccc946"
+    },
+    "inner-whisper.privacy-policy.text.0073": {
+      "value": "البريد الإلكتروني:",
+      "sourceSha256": "17507dcf845793fab0da66594804a4ca956ba284bcf36f4cef09e0a0a50c421a"
+    },
+    "inner-whisper.privacy-policy.text.0074": {
+      "value": "→ العودة إلى صفحة InnerWhisper الرئيسية",
+      "sourceSha256": "bca41695343bb5d4629281b9509398816049ec23657d80af0d4a72ccbe52b222"
+    },
+    "inner-whisper.privacy-policy.attribute.0001": {
+      "value": "سياسة خصوصية InnerWhisper — كيف تبقى بيانات التطبيق تحت سيطرتك على جهازك وفي حساب iCloud الشخصي.",
+      "sourceSha256": "3760e1dc998480d2b8a7004c54a2c93b17cfe7f05b002ad48c1eb13432960f4d"
+    },
+    "inner-whisper.privacy-policy.attribute.0002": {
+      "value": "الصفحة الرئيسية لـ InnerWhisper",
+      "sourceSha256": "4d8038b0934744ad7ae4e4c882606c0ac2eabbebd51cae473611c66205be85ae"
+    },
+    "inner-whisper.privacy-policy.attribute.0003": {
+      "value": "أيقونة تطبيق InnerWhisper",
+      "sourceSha256": "5de43521f26ee0e57fb421004d6e9297349dadcbdb79ae2ed30aa80d3fe183b7"
+    },
+    "inner-whisper.support.text.0001": {
+      "value": "الدعم — InnerWhisper",
+      "sourceSha256": "0a2e5e3fe05658ac83fbf189bba300f66cc076d82491cc9c6156c4b6cfc6471b"
+    },
+    "inner-whisper.support.text.0002": {
+      "value": "انتقل إلى الدعم",
+      "sourceSha256": "49fc540da4953ba81e4675082a1aeac85858d8b7252da90d30c61413f338be2d"
+    },
+    "inner-whisper.support.text.0003": {
+      "value": "الرئيسية",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-whisper.support.text.0004": {
+      "value": "الخصوصية",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-whisper.support.text.0005": {
+      "value": "راسلنا",
+      "sourceSha256": "d9172c43bec620b2f327bc61666c5225489d09ce0341fd2becc3a9889de8531a"
+    },
+    "inner-whisper.support.text.0006": {
+      "value": "دعم InnerWhisper",
+      "sourceSha256": "8eced69a2ecd56be783f5d0fbd5cf5a9ad8819a4125fb7b70acc6126d2bb41a5"
+    },
+    "inner-whisper.support.text.0007": {
+      "value": "صُمم InnerWhisper ليكون هادئاً وبسيطاً. إذا حال شيء بينك وبين الكلمات، فابدأ هنا أو تواصل مباشرة مع Moving Truth.",
+      "sourceSha256": "06d29233991ccd54e7f2e75550aa6b54f29c509fabb61d8d47c74065059838b2"
+    },
+    "inner-whisper.support.text.0008": {
+      "value": "الإشعارات اليومية",
+      "sourceSha256": "8caec8e6ba48e7429522a281aa9403734996e37f35384bf3f992ce2872e83fa6"
+    },
+    "inner-whisper.support.text.0009": {
+      "value": "الإذن والتوقيت والتسليم",
+      "sourceSha256": "f0d52c89084245a5f24df75c01873f5577b823ae3570766fc4533a61ba5578ed"
+    },
+    "inner-whisper.support.text.0010": {
+      "value": "المفضلات وiCloud",
+      "sourceSha256": "53645c28b7fc81193c417dd914ded2681ec72c5435674c06056cd3091d2e36fd"
+    },
+    "inner-whisper.support.text.0011": {
+      "value": "المزامنة بين أجهزة Apple",
+      "sourceSha256": "a62cac007967c6cdd4191d0d97794c5fa8ae03d5be5f9fd43237e199c0521f15"
+    },
+    "inner-whisper.support.text.0012": {
+      "value": "اقتباساتك المضافة",
+      "sourceSha256": "8da5acfbc539e1d68dc82299b3bf93cb5eda68baad837cd17aae6c0bf427cc0c"
+    },
+    "inner-whisper.support.text.0013": {
+      "value": "التشفير والتخزين ومزامنة المفتاح",
+      "sourceSha256": "8c0db78aa893c52decb529c8a58f6840edd291a086627e13ff1931af3b288eda"
+    },
+    "inner-whisper.support.text.0014": {
+      "value": "الخصوصية والحذف",
+      "sourceSha256": "f9e0019b70c750acc3bf656642a92e858b5460d71637e8ad0031e0a429c3e24d"
+    },
+    "inner-whisper.support.text.0015": {
+      "value": "ما الذي يبقى وأين، وكيف تحذفه",
+      "sourceSha256": "8300a4f97655612362525344d6f9c3c2769e82a973bc318383c09eb9f53d7e43"
+    },
+    "inner-whisper.support.text.0016": {
+      "value": "الإشعارات اليومية",
+      "sourceSha256": "8caec8e6ba48e7429522a281aa9403734996e37f35384bf3f992ce2872e83fa6"
+    },
+    "inner-whisper.support.text.0017": {
+      "value": "يحدد InnerWhisper إشعارات الاقتباسات محلياً على جهازك، ولا يستخدم خادم إشعارات من Moving Truth.",
+      "sourceSha256": "1e8a0c1592b6290313764fec68958cb772d887dad85c95c826de2d9d0240a6fe"
+    },
+    "inner-whisper.support.text.0018": {
+      "value": "إذا لم تصل الإشعارات، افتح iOS Settings وابحث عن InnerWhisper وتأكد من السماح بـ Notifications. ثم تحقق من الجدول والمجموعات المفعلة داخل إعدادات التطبيق. يتحكم iOS في وقت التسليم النهائي وقد يؤخره في بعض أوضاع Focus أو توفير الطاقة.",
+      "sourceSha256": "3010777d6bbbd51cc6135cebe87bbe7be7cca18d54c4704cbeccf31b6da6da67"
+    },
+    "inner-whisper.support.text.0019": {
+      "value": "المفضلات وiCloud",
+      "sourceSha256": "53645c28b7fc81193c417dd914ded2681ec72c5435674c06056cd3091d2e36fd"
+    },
+    "inner-whisper.support.text.0020": {
+      "value": "يمكن لمعرّفات المفضلات أن تتزامن عبر iCloud Key-Value Store عند تسجيل الدخول. ولا تتلقى Moving Truth القائمة.",
+      "sourceSha256": "62dcf3b82afb65a51aa04a5e10c55533a2150bb21e6492289c4f06c7ad66e643"
+    },
+    "inner-whisper.support.text.0021": {
+      "value": "إذا تأخر ظهور مفضلة على جهاز آخر، فتأكد من استخدام Apple Account نفسه واتصال الجهازين بالإنترنت والسماح لـ InnerWhisper باستخدام iCloud. أعد فتح التطبيق على الجهازين لمنح iCloud فرصة أخرى للمزامنة.",
+      "sourceSha256": "0cc7cadfd97828a752c07613aa59db1a91fa213c317fb55acf5ec018dc25dea5"
+    },
+    "inner-whisper.support.text.0022": {
+      "value": "اقتباساتك المضافة",
+      "sourceSha256": "8da5acfbc539e1d68dc82299b3bf93cb5eda68baad837cd17aae6c0bf427cc0c"
+    },
+    "inner-whisper.support.text.0023": {
+      "value": "تُشفّر اقتباساتك على جهازك قبل تخزينها. وعند توفر iCloud يمكن للملف المشفر أن يتزامن عبر حاوية iCloud Documents الشخصية، ولمفتاحه أن يتزامن عبر iCloud Keychain.",
+      "sourceSha256": "bfedbf2fd7a2a47ae3a1e4c683012b5ccca6b2616335d66c484b08fd9cc7f80a"
+    },
+    "inner-whisper.support.text.0024": {
+      "value": "إذا قال InnerWhisper إن الاقتباسات أو المفتاح ما زالت تتزامن، فأبق التطبيق مثبتاً وتأكد من تفعيل iCloud Keychain وانتظر دقائق ثم افتحه مجدداً. لا تعد ضبط التشفير أو تحذف التطبيق إذا كان يحمل النسخة الوحيدة من نص تريد الاحتفاظ به.",
+      "sourceSha256": "b9b15c581ba000b778d02f65b8ea3d6c52436e88ad099ae1b1884cc05a89148d"
+    },
+    "inner-whisper.support.text.0025": {
+      "value": "مكتبة الاقتباسات والتحديثات الاختيارية",
+      "sourceSha256": "2d2d625aab3b12732a2e74c539814da6871d1d316d546d85af0372c1f5f6815f"
+    },
+    "inner-whisper.support.text.0026": {
+      "value": "المكتبة الأساسية مضمنة وتبقى متاحة دون اتصال. ويمكن لـ InnerWhisper طلب ملف إضافي اختياري عبر HTTPS. إذا تعذر الطلب، تستمر المكتبة المضمنة في العمل.",
+      "sourceSha256": "00a26faea63af2474a8e61992e58f82a9f5f67dbcf312ea8f7743fcb7817f2b9"
+    },
+    "inner-whisper.support.text.0027": {
+      "value": "إذا لاحظت نسبة أو صياغة مشكوكاً فيها، فأرسل لنا الاقتباس والمصدر الذي تراه أدق. لا تُرفق اقتباساً خاصاً أضفته إلا إذا أردت عمداً أن نقرأه.",
+      "sourceSha256": "50832f426a67e060fbbb511bf794400361b3f86a6d42ca88d1c972601befcdc5"
+    },
+    "inner-whisper.support.text.0028": {
+      "value": "الخصوصية والحذف",
+      "sourceSha256": "f9e0019b70c750acc3bf656642a92e858b5460d71637e8ad0031e0a429c3e24d"
+    },
+    "inner-whisper.support.text.0029": {
+      "value": "لا يملك InnerWhisper حساباً أو إعلانات أو تحليلات أو SDK للتتبع. تبقى بيانات التطبيق على جهازك أو في حساب iCloud الشخصي عبر أنظمة Apple. اقرأ",
+      "sourceSha256": "1a35e943001339cafa2a999d31d6a1b9059f9a9fff57b919a54009588fca8050"
+    },
+    "inner-whisper.support.text.0030": {
+      "value": "سياسة الخصوصية كاملة",
+      "sourceSha256": "ce726049cfb146092149684232d2034ebf351a0dd4229ab9107dc45c79a5bc0f"
+    },
+    "inner-whisper.support.text.0031": {
+      "value": "لمعرفة حدود التخزين والمزامنة والشبكة والحذف بدقة.",
+      "sourceSha256": "20e1999fbe92cb1b147e6c39feb2302bf437b636ea019be9cf1652a842d53554"
+    },
+    "inner-whisper.support.text.0032": {
+      "value": "حذف InnerWhisper يزيل بياناته المحلية. قد تبقى البيانات المتزامنة في حساب iCloud الشخصي حتى تحذف بيانات التطبيق المخزنة عبر iOS Settings.",
+      "sourceSha256": "9728ccb8595efd62e372b242003ba1b522d819b07136619e99aeb7108822381c"
+    },
+    "inner-whisper.support.text.0033": {
+      "value": "دعم إمكانية الوصول",
+      "sourceSha256": "429f5d39ccc2f70ddc86028c1b7db989938503ce0e3b61415fbd86bdef7b11b2"
+    },
+    "inner-whisper.support.text.0034": {
+      "value": "إذا لم يعمل VoiceOver أوVoice Control أوLarger Text أوReduce Motion أوالتباين أوالوصول إلى الإشعارات أوأي حاجة وصول أخرى بسلاسة، فأخبرنا بالمهمة التي كنت تحاول إنجازها. مشكلات إمكانية الوصول مشكلات في المنتج.",
+      "sourceSha256": "6c469261cab79274e99291e859bf3f0e69c71d96709a5371ea62bea4cd268cb6"
+    },
+    "inner-whisper.support.text.0035": {
+      "value": "راسل Moving Truth",
+      "sourceSha256": "8d419c582e4a3c2533d874feb8855c30f4d1dcd4ff4be9ae6f1a353a5f190224"
+    },
+    "inner-whisper.support.text.0036": {
+      "value": "اذكر طراز iPhone أوiPad وإصدار iOS وإصدار InnerWhisper وما حدث. لا ترسل اقتباسات خاصة أضفتها إلا إذا أردت عمداً إدراجها في محادثة الدعم.",
+      "sourceSha256": "823e2d89e7842e1990486cf857b65c7c16841eb40cf87ea4988067cef6c2bd34"
+    },
+    "inner-whisper.support.text.0037": {
+      "value": "→ العودة إلى صفحة InnerWhisper الرئيسية",
+      "sourceSha256": "bca41695343bb5d4629281b9509398816049ec23657d80af0d4a72ccbe52b222"
+    },
+    "inner-whisper.support.text.0038": {
+      "value": "·",
+      "sourceSha256": "a137f17a19a09cbe511ba654931ed30fd9c52205140ec096fa6180f1a0577546"
+    },
+    "inner-whisper.support.text.0039": {
+      "value": "سياسة الخصوصية",
+      "sourceSha256": "506ff394621596dd88138642eddfc1e41833b3ae92d95e5c77c94327098abd9a"
+    },
+    "inner-whisper.support.attribute.0001": {
+      "value": "مساعدة ودعم مباشر لـ InnerWhisper من Moving Truth.",
+      "sourceSha256": "bc93225e6a82f4bb8dcc7c70ec8253c5e866e7ae4528dc1845c6da8f00792b9c"
+    },
+    "inner-whisper.support.attribute.0002": {
+      "value": "الصفحة الرئيسية لـ InnerWhisper",
+      "sourceSha256": "4d8038b0934744ad7ae4e4c882606c0ac2eabbebd51cae473611c66205be85ae"
+    },
+    "inner-whisper.support.attribute.0003": {
+      "value": "التنقل في الدعم",
+      "sourceSha256": "7b7e157a2b9186fd1c9e0c78ad0cd48392273430f90e661487aea3256e12569e"
+    },
+    "inner-whisper.support.attribute.0004": {
+      "value": "موضوعات الدعم الشائعة",
+      "sourceSha256": "b85a539eae9acb1c88f7caa27b161dde4c07b25145ee0f11bf6d549089acb0c2"
+    }
   }
 }

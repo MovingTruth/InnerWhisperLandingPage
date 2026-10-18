@@ -2,6 +2,7 @@
   "about": "Coverage exceptions: source strings deliberately or knowingly left untranslated on published locale pages. Each entry names the exact page, kind, source, locales, category (identifier | shared-literal | draft-debt), and rationale. Draft debt is untranslated content still to be translated; a locale with draft debt cannot be classified reviewed.",
   "exceptions": [
     {
+      "id": "inner-whisper.index.exception.0001",
       "page": "index.html",
       "kind": "content",
       "source": "A quiet word, exactly when you need it. Encrypted on your device. No account, tracking, or ads; optional sync uses your personal iCloud account.",
@@ -24,6 +25,7 @@
       "rationale": "Open Graph og:description (link-preview text) was never translated; every published-draft locale shows this English sentence in shared-link previews. Needs a genuine translation; not intentional English."
     },
     {
+      "id": "inner-whisper.index.exception.0002",
       "page": "index.html",
       "kind": "content",
       "source": "website",
@@ -46,6 +48,7 @@
       "rationale": "Open Graph og:type metadata token (\"website\"); a fixed protocol value, not prose."
     },
     {
+      "id": "inner-whisper.index.exception.0003",
       "page": "index.html",
       "kind": "content",
       "source": "yes",
@@ -68,6 +71,7 @@
       "rationale": "apple-mobile-web-app-capable metadata value (\"yes\"); a fixed protocol value, not prose."
     },
     {
+      "id": "inner-whisper.index.exception.0004",
       "page": "index.html",
       "kind": "text",
       "source": "Aurora",
@@ -86,6 +90,7 @@
       "rationale": "Theme name left in English, but this language translates it elsewhere (the site's own alt text and, where present, the app use a localized name such as Aurore / オーロラ / شفق قطبي). Needs the localized theme name."
     },
     {
+      "id": "inner-whisper.index.exception.0005",
       "page": "index.html",
       "kind": "text",
       "source": "Aurora",
@@ -99,6 +104,7 @@
       "rationale": "Theme name kept as Aurora: the site's own translated alt text for this theme also uses Aurora in this language (and the app's localization does for es, de, pt-BR)."
     },
     {
+      "id": "inner-whisper.index.exception.0006",
       "page": "index.html",
       "kind": "text",
       "source": "Inner Whisper",
@@ -121,6 +127,7 @@
       "rationale": "Product or company name; family rule keeps Moving Truth and app names unchanged in every language."
     },
     {
+      "id": "inner-whisper.index.exception.0007",
       "page": "index.html",
       "kind": "text",
       "source": "InnerWhisper",
@@ -143,6 +150,7 @@
       "rationale": "App's one-word product name as shown on the device; unchanged in every language."
     },
     {
+      "id": "inner-whisper.index.exception.0008",
       "page": "index.html",
       "kind": "text",
       "source": "support@movingtruth.com",
@@ -165,6 +173,7 @@
       "rationale": "Support email address; an address is identical in every language."
     },
     {
+      "id": "inner-whisper.privacy-policy.exception.0001",
       "page": "privacy_policy.html",
       "kind": "content",
       "source": "index, follow",
@@ -187,6 +196,7 @@
       "rationale": "robots metadata directive; a fixed protocol value, not prose."
     },
     {
+      "id": "inner-whisper.privacy-policy.exception.0002",
       "page": "privacy_policy.html",
       "kind": "text",
       "source": "00000001-0000-4000-a000-000000000001",
@@ -209,6 +219,7 @@
       "rationale": "Example quote identifier shown in <code>; a literal data value."
     },
     {
+      "id": "inner-whisper.privacy-policy.exception.0003",
       "page": "privacy_policy.html",
       "kind": "text",
       "source": "InnerWhisper",
@@ -231,6 +242,7 @@
       "rationale": "App's one-word product name as shown on the device; unchanged in every language."
     },
     {
+      "id": "inner-whisper.privacy-policy.exception.0004",
       "page": "privacy_policy.html",
       "kind": "text",
       "source": "NSPrivacyTracking: false",
@@ -253,6 +265,7 @@
       "rationale": "Apple privacy-manifest key and value shown in <code>; a technical identifier."
     },
     {
+      "id": "inner-whisper.privacy-policy.exception.0005",
       "page": "privacy_policy.html",
       "kind": "text",
       "source": "NSUbiquitousKeyValueStore",
@@ -275,6 +288,7 @@
       "rationale": "Apple API name shown in <code>; a technical identifier."
     },
     {
+      "id": "inner-whisper.privacy-policy.exception.0006",
       "page": "privacy_policy.html",
       "kind": "text",
       "source": "UserDefaults",
@@ -297,6 +311,7 @@
       "rationale": "Apple API name shown in <code>; a technical identifier."
     },
     {
+      "id": "inner-whisper.privacy-policy.exception.0007",
       "page": "privacy_policy.html",
       "kind": "text",
       "source": "iCloud.ca.imposterSyndromium.InnerWhisper",
@@ -319,6 +334,7 @@
       "rationale": "iCloud container identifier shown in <code>; a technical identifier."
     },
     {
+      "id": "inner-whisper.privacy-policy.exception.0008",
       "page": "privacy_policy.html",
       "kind": "text",
       "source": "iOS Settings → InnerWhisper → Notifications",
@@ -341,6 +357,7 @@
       "rationale": "Device navigation path left in English; iOS shows Settings and these menu names in the reader's own language, so the instruction should use the localized iOS labels. Privacy-relevant; needs translation and technical review."
     },
     {
+      "id": "inner-whisper.privacy-policy.exception.0009",
       "page": "privacy_policy.html",
       "kind": "text",
       "source": "iOS Settings → [Your Name] → iCloud → Apps Using iCloud",
@@ -363,6 +380,7 @@
       "rationale": "Device navigation path left in English; iOS shows Settings and these menu names in the reader's own language, so the instruction should use the localized iOS labels. Privacy-relevant; needs translation and technical review."
     },
     {
+      "id": "inner-whisper.privacy-policy.exception.0010",
       "page": "privacy_policy.html",
       "kind": "text",
       "source": "iOS Settings → [Your Name] → iCloud → Manage Account Storage",
@@ -385,6 +403,7 @@
       "rationale": "Device navigation path left in English; iOS shows Settings and these menu names in the reader's own language, so the instruction should use the localized iOS labels. Privacy-relevant; needs translation and technical review."
     },
     {
+      "id": "inner-whisper.privacy-policy.exception.0011",
       "page": "privacy_policy.html",
       "kind": "text",
       "source": "movingtruth.github.io/InnerWhisperQuotes",
@@ -407,6 +426,7 @@
       "rationale": "Host and path of the quote file request shown in <code>; a literal address."
     },
     {
+      "id": "inner-whisper.privacy-policy.exception.0012",
       "page": "privacy_policy.html",
       "kind": "text",
       "source": "support@movingtruth.com",
@@ -429,6 +449,7 @@
       "rationale": "Support email address; an address is identical in every language."
     },
     {
+      "id": "inner-whisper.privacy-policy.exception.0013",
       "page": "privacy_policy.html",
       "kind": "text",
       "source": "synchronizable: true",
@@ -451,6 +472,7 @@
       "rationale": "Keychain attribute shown in <code>; a technical identifier."
     },
     {
+      "id": "inner-whisper.support.exception.0001",
       "page": "support.html",
       "kind": "text",
       "source": "InnerWhisper",
@@ -473,6 +495,7 @@
       "rationale": "App's one-word product name as shown on the device; unchanged in every language."
     },
     {
+      "id": "inner-whisper.support.exception.0002",
       "page": "support.html",
       "kind": "text",
       "source": "support@movingtruth.com",
