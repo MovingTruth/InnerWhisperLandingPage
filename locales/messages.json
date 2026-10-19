@@ -1703,8 +1703,8 @@
       "page": "privacy_policy.html",
       "kind": "text",
       "locator": "/html[1]/body[1]/main[1]/div[1]/section[5]/p[2]/strong[1]/text()[1]",
-      "source": "iOS Settings → Notifications → InnerWhisper",
-      "sourceSha256": "fee83bf852200ea25c4e663c22b053985f15faf385b1d28c083709c142746c2d"
+      "source": "iOS Settings → Notifications → Inner Whisper",
+      "sourceSha256": "a20662971447c559a46733c956399fb789e18bae1a6ee60a233c7017c86dcaea"
     },
     {
       "id": "inner-whisper.privacy-policy.text.0077",
