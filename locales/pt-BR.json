@@ -365,6 +365,10 @@
       "value": "Links do rodapé",
       "sourceSha256": "b8e78ad47ec6b1e4ce82786cf3900fd8697c05d914c13ddb5cc942d2c202b83b"
     },
+    "inner-whisper.index.attribute.0024": {
+      "value": "Uma palavra tranquila, exatamente quando você precisa. Criptografado no seu dispositivo. Sem conta, rastreamento ou publicidade; a sincronização opcional usa sua conta pessoal do iCloud.",
+      "sourceSha256": "c16404d30df729334262ed6dfa61eb4fcc56474244564bb6eb3efd115bff046b"
+    },
     "inner-whisper.index.script.0001": {
       "value": "Uma palavra tranquila, exatamente quando você precisa.",
       "sourceSha256": "2fe8918f5434580d3d0e982010795bdb321820932ce05aaa31460009bdd5e05f"
@@ -836,6 +840,18 @@
     "inner-whisper.privacy-policy.text.0074": {
       "value": "← Voltar ao início do InnerWhisper",
       "sourceSha256": "bca41695343bb5d4629281b9509398816049ec23657d80af0d4a72ccbe52b222"
+    },
+    "inner-whisper.privacy-policy.text.0075": {
+      "value": "Ajustes → iCloud → Salvo no iCloud → Ver Tudo",
+      "sourceSha256": "d9250424dee375bd3c61087149ee4cb8e1d4bcd34137393e3d856d443c59638f"
+    },
+    "inner-whisper.privacy-policy.text.0076": {
+      "value": "Ajustes → Notificações → InnerWhisper",
+      "sourceSha256": "fee83bf852200ea25c4e663c22b053985f15faf385b1d28c083709c142746c2d"
+    },
+    "inner-whisper.privacy-policy.text.0077": {
+      "value": "Ajustes → iCloud → Armazenamento",
+      "sourceSha256": "69bc875a79ac2ee773d1bd9a01c4a3c9a46123daa78d413df2fe5d5a8447625a"
     },
     "inner-whisper.privacy-policy.attribute.0001": {
       "value": "Política de privacidade do InnerWhisper — como os dados do app permanecem sob seu controle no dispositivo e na sua conta pessoal do iCloud.",

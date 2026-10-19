@@ -273,6 +273,10 @@
       "value": "© 2026 InnerWhisper by Moving Truth. SwiftUI로 iOS용 제작.",
       "sourceSha256": "6d671ce245bd7af26e2735b03c4fe525bedc62d9ccbbd489f697cb09845daf71"
     },
+    "inner-whisper.index.text.0069": {
+      "value": "오로라",
+      "sourceSha256": "e9de098c7733b1b9a6c985aaf3555f7cd10877a0fae0f1ecaab71fefc05d0b3a"
+    },
     "inner-whisper.index.attribute.0001": {
       "value": "InnerWhisper — Moving Truth의 매일 속삭임 앱. 명언, 고요, 성찰을 조용히 전합니다. 계정, 추적, 광고 없음. 선택적 동기화는 개인 iCloud 계정을 사용합니다.",
       "sourceSha256": "06fc03809480fd440e040326ed053eaf863d251f70c975bcc4b50c1cc79a985a"
@@ -364,6 +368,10 @@
     "inner-whisper.index.attribute.0023": {
       "value": "바닥글 링크",
       "sourceSha256": "b8e78ad47ec6b1e4ce82786cf3900fd8697c05d914c13ddb5cc942d2c202b83b"
+    },
+    "inner-whisper.index.attribute.0024": {
+      "value": "꼭 필요한 순간, 조용한 한마디. 기기에서 암호화. 계정, 추적, 광고 없음. 선택적 동기화는 개인 iCloud 계정을 사용합니다.",
+      "sourceSha256": "c16404d30df729334262ed6dfa61eb4fcc56474244564bb6eb3efd115bff046b"
     },
     "inner-whisper.index.script.0001": {
       "value": "꼭 필요한 순간, 조용한 한마디.",
@@ -836,6 +844,18 @@
     "inner-whisper.privacy-policy.text.0074": {
       "value": "← InnerWhisper 홈으로 돌아가기",
       "sourceSha256": "bca41695343bb5d4629281b9509398816049ec23657d80af0d4a72ccbe52b222"
+    },
+    "inner-whisper.privacy-policy.text.0075": {
+      "value": "설정 → iCloud → iCloud에 저장됨 → 모두 보기",
+      "sourceSha256": "d9250424dee375bd3c61087149ee4cb8e1d4bcd34137393e3d856d443c59638f"
+    },
+    "inner-whisper.privacy-policy.text.0076": {
+      "value": "설정 → 알림 → InnerWhisper",
+      "sourceSha256": "fee83bf852200ea25c4e663c22b053985f15faf385b1d28c083709c142746c2d"
+    },
+    "inner-whisper.privacy-policy.text.0077": {
+      "value": "설정 → iCloud → 저장 공간",
+      "sourceSha256": "69bc875a79ac2ee773d1bd9a01c4a3c9a46123daa78d413df2fe5d5a8447625a"
     },
     "inner-whisper.privacy-policy.attribute.0001": {
       "value": "InnerWhisper 개인정보 처리방침. 앱 데이터를 기기와 개인 iCloud 계정에서 통제하는 방법.",

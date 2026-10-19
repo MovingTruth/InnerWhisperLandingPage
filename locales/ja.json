@@ -273,6 +273,10 @@
       "value": "© 2026 InnerWhisper by Moving Truth。SwiftUI で iOS 向けに制作。",
       "sourceSha256": "6d671ce245bd7af26e2735b03c4fe525bedc62d9ccbbd489f697cb09845daf71"
     },
+    "inner-whisper.index.text.0069": {
+      "value": "オーロラ",
+      "sourceSha256": "e9de098c7733b1b9a6c985aaf3555f7cd10877a0fae0f1ecaab71fefc05d0b3a"
+    },
     "inner-whisper.index.attribute.0001": {
       "value": "InnerWhisper — Moving Truth の毎日のささやき。引用、静けさ、内省をそっと届けます。アカウント、追跡、広告なし。任意の同期には個人の iCloud アカウントを使います。",
       "sourceSha256": "06fc03809480fd440e040326ed053eaf863d251f70c975bcc4b50c1cc79a985a"
@@ -364,6 +368,10 @@
     "inner-whisper.index.attribute.0023": {
       "value": "フッターリンク",
       "sourceSha256": "b8e78ad47ec6b1e4ce82786cf3900fd8697c05d914c13ddb5cc942d2c202b83b"
+    },
+    "inner-whisper.index.attribute.0024": {
+      "value": "必要なとき、静かなひとことを。デバイス上で暗号化。アカウント、追跡、広告なし。任意の同期には個人の iCloud アカウントを使います。",
+      "sourceSha256": "c16404d30df729334262ed6dfa61eb4fcc56474244564bb6eb3efd115bff046b"
     },
     "inner-whisper.index.script.0001": {
       "value": "必要なとき、静かなひとことを。",
@@ -836,6 +844,14 @@
     "inner-whisper.privacy-policy.text.0074": {
       "value": "← InnerWhisper ホームへ戻る",
       "sourceSha256": "bca41695343bb5d4629281b9509398816049ec23657d80af0d4a72ccbe52b222"
+    },
+    "inner-whisper.privacy-policy.text.0076": {
+      "value": "設定 → 通知 → InnerWhisper",
+      "sourceSha256": "fee83bf852200ea25c4e663c22b053985f15faf385b1d28c083709c142746c2d"
+    },
+    "inner-whisper.privacy-policy.text.0077": {
+      "value": "設定 → iCloud → 容量",
+      "sourceSha256": "69bc875a79ac2ee773d1bd9a01c4a3c9a46123daa78d413df2fe5d5a8447625a"
     },
     "inner-whisper.privacy-policy.attribute.0001": {
       "value": "InnerWhisper のプライバシーポリシー。データをデバイスと個人の iCloud アカウントで管理する方法。",

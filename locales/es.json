@@ -365,6 +365,10 @@
       "value": "Enlaces del pie de página",
       "sourceSha256": "b8e78ad47ec6b1e4ce82786cf3900fd8697c05d914c13ddb5cc942d2c202b83b"
     },
+    "inner-whisper.index.attribute.0024": {
+      "value": "Una palabra serena, justo cuando la necesitas. Cifrado en tu dispositivo. Sin cuenta, seguimiento ni publicidad; la sincronización opcional utiliza tu cuenta personal de iCloud.",
+      "sourceSha256": "c16404d30df729334262ed6dfa61eb4fcc56474244564bb6eb3efd115bff046b"
+    },
     "inner-whisper.index.script.0001": {
       "value": "Una palabra serena, justo cuando la necesitas.",
       "sourceSha256": "2fe8918f5434580d3d0e982010795bdb321820932ce05aaa31460009bdd5e05f"
@@ -836,6 +840,18 @@
     "inner-whisper.privacy-policy.text.0074": {
       "value": "← Volver al inicio de InnerWhisper",
       "sourceSha256": "bca41695343bb5d4629281b9509398816049ec23657d80af0d4a72ccbe52b222"
+    },
+    "inner-whisper.privacy-policy.text.0075": {
+      "value": "Ajustes → iCloud → Guardado en iCloud → Ver todo",
+      "sourceSha256": "d9250424dee375bd3c61087149ee4cb8e1d4bcd34137393e3d856d443c59638f"
+    },
+    "inner-whisper.privacy-policy.text.0076": {
+      "value": "Ajustes → Notificaciones → InnerWhisper",
+      "sourceSha256": "fee83bf852200ea25c4e663c22b053985f15faf385b1d28c083709c142746c2d"
+    },
+    "inner-whisper.privacy-policy.text.0077": {
+      "value": "Ajustes → iCloud → Almacenamiento",
+      "sourceSha256": "69bc875a79ac2ee773d1bd9a01c4a3c9a46123daa78d413df2fe5d5a8447625a"
     },
     "inner-whisper.privacy-policy.attribute.0001": {
       "value": "Política de privacidad de InnerWhisper: cómo los datos de la app permanecen bajo tu control, en tu dispositivo y en tu cuenta personal de iCloud.",
