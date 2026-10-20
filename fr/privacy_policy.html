@@ -134,14 +134,14 @@
       margin-top: 0.75rem;
     }
     .policy-section li {
-      display: flex;
-      align-items: flex-start;
-      gap: 0.65rem;
+      position: relative;
+      padding-inline-start: calc(1em + 0.65rem);
     }
     .policy-section li::before {
       content: '\2014'; /* em dash */
       color: var(--teal);
-      flex-shrink: 0;
+      position: absolute;
+      inset-inline-start: 0;
       margin-top: 0.05em;
     }
     .policy-section p + p { margin-top: 0.75rem; }
